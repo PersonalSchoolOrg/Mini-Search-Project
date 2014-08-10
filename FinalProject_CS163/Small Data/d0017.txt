@@ -1,0 +1,670 @@
+TWENTY-FIRST-CENTURY MACS
+Setting Apple Apart
+With the iBook, 1999
+Clams, Ice Cubes, and Sunflowers
+Ever since the introduction of the iMac in 1998, 
+Jobs and Jony Ive had made beguiling design a 
+signature of Apple’s computers. There was a consumer 
+laptop that looked like a tangerine clam, and a 
+professional desktop computer that suggested a Zen 
+ice cube. Like bell-bottoms that turn up in the back of a 
+closet, some of these models looked better at the time 
+than they do in retrospect, and they show a love of 
+design that was, on occasion, a bit too exuberant. But 
+Steve Jobs by Walter Isaacson 580
+they set Apple apart and provided the publicity bursts it 
+needed to survive in a Windows world.
+The Power Mac G4 Cube, released in 2000, was 
+so alluring that one ended up on display in New York’s 
+Museum of Modern Art. An eight-inch perfect cube the 
+size of a Kleenex box, it was the pure expression of 
+Jobs’s aesthetic. The sophistication came from 
+minimalism. No buttons marred the surface. There was 
+no CD tray, just a subtle slot. And as with the original 
+Macintosh, there was no fan. Pure Zen. “When you see 
+something that’s so thoughtful on the outside you say, 
+‘Oh, wow, it must be really thoughtful on the inside,’” he 
+told Newsweek. “We make progress by eliminating 
+things, by removing the superfluous.”
+The G4 Cube was almost ostentatious in its lack of 
+ostentation, and it was powerful. But it was not a 
+success. It had been designed as a high-end desktop, 
+but Jobs wanted to turn it, as he did almost every 
+product, into something that could be mass-marketed to 
+consumers. The Cube ended up not serving either 
+market well. Workaday professionals weren’t seeking a 
+jewel-like sculpture for their desks, and mass-market 
+consumers were not eager to spend twice what they’d 
+pay for a plain vanilla desktop. Jobs predicted that 
+Apple would sell 200,000 Cubes per quarter. In its first 
+quarter it sold half that. The next quarter it sold fewer 
+than thirty thousand units. Jobs later admitted that he 
+had overdesigned and overpriced the Cube, just as he 
+had the NeXT computer. But gradually he was learning 
+his lesson. In building devices like the iPod, he would 
+control costs and make the trade-offs necessary to get 
+them launched on time and on budget.
+Partly because of the poor sales of the Cube, 
+Apple produced disappointing revenue numbers in 
+September 2000. That was just when the tech bubble 
+was deflating and Apple’s education market was 
+Steve Jobs by Walter Isaacson 581
+declining. The company’s stock price, which had been 
+above $60, fell 50% in one day, and by early December 
+it was below $15.
+None of this deterred Jobs from continuing to push 
+for distinctive, even distracting, new design. When flatscreen displays became commercially viable, he 
+decided it was time to replace the iMac, the translucent 
+consumer desktop computer that looked as if it were 
+from a Jetsonscartoon. Ive came up with a model that 
+was somewhat conventional, with the guts of the 
+computer attached to the back of the flat screen. Jobs 
+didn’t like it. As he often did, both at Pixar and at Apple, 
+he slammed on the brakes to rethink things. There was 
+something about the design that lacked purity, he felt. 
+“Why have this flat display if you’re going to glom all this 
+stuff on its back?” he asked Ive. “We should let each 
+element be true to itself.”
+Jobs went home early that day to mull over the 
+problem, then called Ive to come by. They wandered 
+into the garden, which Jobs’s wife had planted with a 
+profusion of sunflowers. “Every year I do something wild 
+with the garden, and that time it involved masses of 
+sunflowers, with a sunflower house for the kids,” she 
+recalled. “Jony and Steve were riffing on their design 
+problem, then Jony asked, ‘What if the screen was 
+separated from the base like a sunflower?’ He got 
+excited and started sketching.” Ive liked his designs to 
+suggest a narrative, and he realized that a sunflower 
+shape would convey that the flat screen was so fluid 
+and responsive that it could reach for the sun.
+In Ive’s new design, the Mac’s screen was 
+attached to a movable chrome neck, so that it looked 
+not only like a sunflower but also like a cheeky Luxo 
+lamp. Indeed it evoked the playful personality of Luxo 
+Jr. in the first short film that John Lasseter had made at 
+Pixar. Apple took out many patents for the design, most 
+Steve Jobs by Walter Isaacson 582
+crediting Ive, but on one of them, for “a computer system 
+having a movable assembly attached to a flat panel 
+display,” Jobs listed himself as the primary inventor.
+In hindsight, some of Apple’s Macintosh designs 
+may seem a bit too cute. But other computer makers 
+were at the other extreme. It was an industry that you’d 
+expect to be innovative, but instead it was dominated by 
+cheaply designed generic boxes. After a few illconceived stabs at painting on blue colors and trying 
+new shapes, companies such as Dell, Compaq, and HP 
+commoditized computers by outsourcing manufacturing 
+and competing on price. With its spunky designs and its 
+pathbreaking applications like iTunes and iMovie, 
+Apple was about the only place innovating.
+Intel Inside
+Apple’s innovations were more than skin-deep. 
+Since 1994 it had been using a microprocessor, called 
+the PowerPC, that was made by a partnership of IBM 
+and Motorola. For a few years it was faster than Intel’s 
+chips, an advantage that Apple touted in humorous 
+commercials. By the time of Jobs’s return, however, 
+Motorola had fallen behind in producing new versions 
+of the chip. This provoked a fight between Jobs and 
+Motorola’s CEO Chris Galvin. When Jobs decided to 
+stop licensing the Macintosh operating system to clone 
+makers, right after his return to Apple in 1997, he 
+suggested to Galvin that he might consider making an 
+exception for Motorola’s clone, the StarMax Mac, but 
+only if Motorola sped up development of new PowerPC 
+chips for laptops. The call got heated. Jobs offered his 
+opinion that Motorola chips sucked. Galvin, who also 
+had a temper, pushed back. Jobs hung up on him. The 
+Motorola StarMax was canceled, and Jobs secretly 
+began planning to move Apple off the Motorola-IBM 
+PowerPC chip and to adopt, instead, Intel’s. This would 
+not be a simple task. It was akin to writing a new 
+Steve Jobs by Walter Isaacson 583
+operating system.
+Jobs did not cede any real power to his board, but 
+he did use its meetings to kick around ideas and think 
+through strategies in confidence, while he stood at a 
+whiteboard and led freewheeling discussions. For 
+eighteen months the directors discussed whether to 
+move to an Intel architecture. “We debated it, we asked 
+a lot of questions, and finally we all decided it needed 
+to be done,” board member Art Levinson recalled.
+Paul Otellini, who was then president and later 
+became CEO of Intel, began huddling with Jobs. They 
+had gotten to know each other when Jobs was 
+struggling to keep NeXT alive and, as Otellini later put 
+it, “his arrogance had been temporarily tempered.” 
+Otellini has a calm and wry take on people, and he was 
+amused rather than put off when he discovered, upon 
+dealing with Jobs at Apple in the early 2000s, “that his 
+juices were going again, and he wasn’t nearly as 
+humble anymore.” Intel had deals with other computer 
+makers, and Jobs wanted a better price than they had. 
+“We had to find creative ways to bridge the numbers,” 
+said Otellini. Most of the negotiating was done, as Jobs 
+preferred, on long walks, sometimes on the trails up to 
+the radio telescope known as the Dish above the 
+Stanford campus. Jobs would start the walk by telling a 
+story and explaining how he saw the history of 
+computers evolving. By the end he would be haggling 
+over price.
+“Intel had a reputation for being a tough partner, 
+coming out of the days when it was run by Andy Grove 
+and Craig Barrett,” Otellini said. “I wanted to show that 
+Intel was a company you could work with.” So a crack 
+team from Intel worked with Apple, and they were able 
+to beat the conversion deadline by six months. Jobs 
+invited Otellini to Apple’s Top 100 management retreat, 
+where he donned one of the famous Intel lab coats that 
+Steve Jobs by Walter Isaacson 584
+looked like a bunny suit and gave Jobs a big hug. At the 
+public announcement in 2005, the usually reserved 
+Otellini repeated the act. “Apple and Intel, together at 
+last,” flashed on the big screen.
+Bill Gates was amazed. Designing crazy-colored 
+cases did not impress him, but a secret program to 
+switch the CPU in a computer, completed seamlessly 
+and on time, was a feat he truly admired. “If you’d said, 
+‘Okay, we’re going to change our microprocessor chip, 
+and we’re not going to lose a beat,’ that sounds 
+impossible,” he told me years later, when I asked him 
+about Jobs’s accomplishments. “They basically did 
+that.”
+Options
+Among Jobs’s quirks was his attitude toward 
+money. When he returned to Apple in 1997, he 
+portrayed himself as a person working for $1 a year, 
+doing it for the benefit of the company rather than 
+himself. Nevertheless he embraced the idea of option 
+megagrants—granting huge bundles of options to buy 
+Apple stock at a preset price—that were not subject to 
+the usual good compensation practices of board 
+committee reviews and performance criteria.
+When he dropped the “interim” in his title and 
+officially became CEO, he was offered (in addition to 
+the airplane) a megagrant by Ed Woolard and the 
+board at the beginning of 2000; defying the image he 
+cultivated of not being interested in money, he had 
+stunned Woolard by asking for even more options than 
+the board had proposed. But soon after he got them, it 
+turned out that it was for naught. Apple stock cratered in 
+September 2000—due to disappointing sales of the 
+Cube plus the bursting of the Internet bubble—which 
+made the options worthless.
+Making matters worse was a June 2001 cover 
+story in Fortuneabout overcompensated CEOs, “The 
+Steve Jobs by Walter Isaacson 585
+Great CEO Pay Heist.” A mug of Jobs, smiling smugly, 
+filled the cover. Even though his options were 
+underwater at the time, the technical method of valuing 
+them when granted (known as a Black-Scholes 
+valuation) set their worth at $872 million. Fortune
+proclaimed it “by far” the largest compensation package 
+ever granted a CEO. It was the worst of all worlds: Jobs 
+had almost no money that he could put in his pocket for 
+his four years of hard and successful turnaround work 
+at Apple, yet he had become the poster child of greedy 
+CEOs, making him look hypocritical and undermining 
+his self-image. He wrote a scathing letter to the editor, 
+declaring that his options actually “are worth zero” and 
+offering to sell them to Fortunefor half of the supposed 
+$872 million the magazine had reported.
+In the meantime Jobs wanted the board to give 
+him another big grant of options, since his old ones 
+seemed worthless. He insisted, both to the board and 
+probably to himself, that it was more about getting 
+proper recognition than getting rich. “It wasn’t so much 
+about the money,” he later said in a deposition in an 
+SEC lawsuit over the options. “Everybody likes to be 
+recognized by his peers. . . . I felt that the board wasn’t 
+really doing the same with me.” He felt that the board 
+should have come to him offering a new grant, without 
+his having to suggest it. “I thought I was doing a pretty 
+good job. It would have made me feel better at the 
+time.”
+His handpicked board in fact doted on him. So 
+they decided to give him another huge grant in August 
+2001, when the stock price was just under $18. The 
+problem was that he worried about his image, 
+especially after the Fortunearticle. He did not want to 
+accept the new grant unless the board canceled his old 
+options at the same time. But to do so would have 
+adverse accounting implications, because it would be 
+Steve Jobs by Walter Isaacson 586
+effectively repricing the old options. That would require 
+taking a charge against current earnings. The only way 
+to avoid this “variable accounting” problem was to 
+cancel his old options at least six months after his new 
+options were granted. In addition, Jobs started haggling 
+with the board over how quickly the new options would 
+vest.
+It was not until mid-December 2001 that Jobs 
+finally agreed to take the new options and, braving the 
+optics, wait six months before his old ones were 
+canceled. But by then the stock price (adjusting for a 
+split) had gone up $3, to about $21. If the strike price of 
+the new options was set at that new level, each would 
+have thus been $3 less valuable. So Apple’s legal 
+counsel, Nancy Heinen, looked over the recent stock 
+prices and helped to choose an October date, when the 
+stock was $18.30. She also approved a set of minutes 
+that purported to show that the board had approved the 
+grant on that date. The backdating was potentially worth 
+$20 million to Jobs.
+Once again Jobs would end up suffering bad 
+publicity without making a penny. Apple’s stock price 
+kept dropping, and by March 2003 even the new 
+options were so low that Jobs traded in all of them for 
+an outright grant of $75 million worth of shares, which 
+amounted to about $8.3 million for each year he had 
+worked since coming back in 1997 through the end of 
+the vesting in 2006.
+None of this would have mattered much if the Wall 
+Street Journalhad not run a powerful series in 2006 
+about backdated stock options. Apple wasn’t 
+mentioned, but its board appointed a committee of three 
+members—Al Gore, Eric Schmidt of Google, and Jerry 
+York, formerly of IBM and Chrysler—to investigate its 
+own practices. “We decided at the outset that if Steve 
+was at fault we would let the chips fall where they may,” 
+Steve Jobs by Walter Isaacson 587
+Gore recalled. The committee uncovered some 
+irregularities with Jobs’s grants and those of other top 
+officers, and it immediately turned the findings over to 
+the SEC. Jobs was aware of the backdating, the report 
+said, but he ended up not benefiting financially. (A 
+board committee at Disney also found that similar 
+backdating had occurred at Pixar when Jobs was in 
+charge.)
+The laws governing such backdating practices 
+were murky, especially since no one at Apple ended up 
+benefiting from the dubiously dated grants. The SEC 
+took eight months to do its own investigation, and in 
+April 2007 it announced that it would not bring action 
+against Apple “based in part on its swift, extensive, and 
+extraordinary cooperation in the Commission’s 
+investigation [and its] prompt self-reporting.” Although 
+the SEC found that Jobs had been aware of the 
+backdating, it cleared him of any misconduct because 
+he “was unaware of the accounting implications.”
+The SEC did file complaints against Apple’s 
+former chief financial officer Fred Anderson, who was 
+on the board, and general counsel Nancy Heinen. 
+Anderson, a retired Air Force captain with a square jaw 
+and deep integrity, had been a wise and calming 
+influence at Apple, where he was known for his ability 
+to control Jobs’s tantrums. He was cited by the SEC 
+only for “negligence” regarding the paperwork for one 
+set of the grants (not the ones that went to Jobs), and 
+the SEC allowed him to continue to serve on corporate 
+boards. Nevertheless he ended up resigning from the 
+Apple board.
+Anderson thought he had been made a 
+scapegoat. When he settled with the SEC, his lawyer 
+issued a statement that cast some of the blame on Jobs. 
+It said that Anderson had “cautioned Mr. Jobs that the 
+executive team grant would have to be priced on the 
+Steve Jobs by Walter Isaacson 588
+date of the actual board agreement or there could be an 
+accounting charge,” and that Jobs replied “that the 
+board had given its prior approval.”
+Heinen, who initially fought the charges against 
+her, ended up settling and paying a $2.2 million fine, 
+without admitting or denying any wrongdoing. Likewise 
+the company itself settled a shareholders’ lawsuit by 
+agreeing to pay $14 million in damages.
+“Rarely have so many avoidable problems been 
+created by one man’s obsession with his own image,” 
+Joe Nocera wrote in the New York Times. “Then again, 
+this is Steve Jobs we’re talking about.” Contemptuous 
+of rules and regulations, he created a climate that made 
+it hard for someone like Heinen to buck his wishes. At 
+times, great creativity occurred. But people around him 
+could pay a price. On compensation issues in 
+particular, the difficulty of defying his whims drove some 
+good people to make some bad mistakes.
+The compensation issue in some ways echoed 
+Jobs’s parking quirk. He refused such trappings as 
+having a “Reserved for CEO” spot, but he assumed for 
+himself the right to park in the handicapped spaces. He 
+wanted to be seen (both by himself and by others) as 
+someone willing to work for $1 a year, but he also 
+wanted to have huge stock grants bestowed upon him. 
+Jangling inside him were the contradictions of a 
+counterculture rebel turned business entrepreneur, 
+someone who wanted to believe that he had turned on 
+and tuned in without having sold out and cashed in.
+THE iPAD
+  Into the Post-PC Era
+ 
+   You Say You Want a Revolution
+Back in 2002, Jobs had been annoyed by the 
+Microsoft engineer who kept proselytizing about the 
+tablet computer software he had developed, which 
+allowed users to input information on the screen with a 
+stylus or pen. A few manufacturers released tablet PCs 
+that year using the software, but none made a dent in 
+the universe. Jobs had been eager to show how it 
+should be done right—no stylus!—but when he saw the 
+multi-touch technology that Apple was developing, he 
+had decided to use it first to make an iPhone.
+In the meantime, the tablet idea was percolating 
+within the Macintosh hardware group. “We have no 
+plans to make a tablet,” Jobs declared in an interview 
+with Walt Mossberg in May 2003. “It turns out people 
+want keyboards. Tablets appeal to rich guys with plenty 
+of other PCs and devices already.” Like his statement 
+about having a “hormone imbalance,” that was 
+misleading; at most of his annual Top 100 retreats, the 
+tablet was among the future projects discussed. “We 
+showed the idea off at many of these retreats, because 
+Steve never lost his desire to do a tablet,” Phil Schiller 
+recalled.
+The tablet project got a boost in 2007 when Jobs 
+was considering ideas for a low-cost netbook computer. 
+At an executive team brainstorming session one 
+Monday, Ive asked why it needed a keyboard hinged to 
+the screen; that was expensive and bulky. Put the 
+keyboard on the screen using a multi-touch interface, 
+Steve Jobs by Walter Isaacson 639
+he suggested. Jobs agreed. So the resources were 
+directed to revving up the tablet project rather than 
+designing a netbook.
+The process began with Jobs and Ive figuring out 
+the right screen size. They had twenty models made—
+all rounded rectangles, of course—in slightly varying 
+sizes and aspect ratios. Ive laid them out on a table in 
+the design studio, and in the afternoon they would lift 
+the velvet cloth hiding them and play with them. “That’s 
+how we nailed what the screen size was,” Ive said.
+As usual Jobs pushed for the purest possible 
+simplicity. That required determining what was the core 
+essence of the device. The answer: the display screen. 
+So the guiding principle was that everything they did 
+had to defer to the screen. “How do we get out of the 
+way so there aren’t a ton of features and buttons that 
+distract from the display?” Ive asked. At every step, Jobs 
+pushed to remove and simplify.
+At one point Jobs looked at the model and was 
+slightly dissatisfied. It didn’t feel casual and friendly 
+enough, so that you would naturally scoop it up and 
+whisk it away. Ive put his finger, so to speak, on the 
+problem: They needed to signal that you could grab it 
+with one hand, on impulse. The bottom of the edge 
+needed to be slightly rounded, so that you’d feel 
+comfortable just scooping it up rather than lifting it 
+carefully. That meant engineering had to design the 
+necessary connection ports and buttons in a simple lip 
+that was thin enough to wash away gently underneath.
+If you had been paying attention to patent filings, 
+you would have noticed the one numbered D504889 
+that Apple applied for in March 2004 and was issued 
+fourteen months later. Among the inventors listed were 
+Jobs and Ive. The application carried sketches of a 
+rectangular electronic tablet with rounded edges, which 
+looked just the way the iPad turned out, including one 
+Steve Jobs by Walter Isaacson 640
+of a man holding it casually in his left hand while using 
+his right index finger to touch the screen.
+  Since the Macintosh computers were now using 
+Intel chips, Jobs initially planned to use in the iPad the 
+low-voltage Atom chip that Intel was developing. Paul 
+Otellini, Intel’s CEO, was pushing hard to work together 
+on a design, and Jobs’s inclination was to trust him. His 
+company was making the fastest processors in the 
+world. But Intel was used to making processors for 
+machines that plugged into a wall, not ones that had to 
+preserve battery life. So Tony Fadell argued strongly for 
+something based on the ARM architecture, which was 
+simpler and used less power. Apple had been an early 
+partner with ARM, and chips using its architecture were 
+in the original iPhone. Fadell gathered support from 
+other engineers and proved that it was possible to 
+confront Jobs and turn him around. “Wrong, wrong, 
+wrong!” Fadell shouted at one meeting when Jobs 
+insisted it was best to trust Intel to make a good mobile 
+chip. Fadell even put his Apple badge on the table, 
+threatening to resign.
+Eventually Jobs relented. “I hear you,” he said. “I’m 
+not going to go against my best guys.” In fact he went to 
+the other extreme. Apple licensed the ARM architecture, 
+but it also bought a 150-person microprocessor design 
+firm in Palo Alto, called P.A. Semi, and had it create a 
+custom system-on-a-chip, called the A4, which was 
+based on the ARM architecture and manufactured in 
+South Korea by Samsung. As Jobs recalled:
+At the high-performance end, Intel is the best. 
+They build the fastest chip, if you don’t care about 
+power and cost. But they build just the processor on 
+one chip, so it takes a lot of other parts. Our A4 has the 
+processor and the graphics, mobile operating system, 
+Steve Jobs by Walter Isaacson 641
+and memory control all in the chip. We tried to help 
+Intel, but they don’t listen much. We’ve been telling 
+them for years that their graphics suck. Every quarter 
+we schedule a meeting with me and our top three guys 
+and Paul Otellini. At the beginning, we were doing 
+wonderful things together. They wanted this big joint 
+project to do chips for future iPhones. There were two 
+reasons we didn’t go with them. One was that they are 
+just really slow. They’re like a steamship, not very 
+flexible. We’re used to going pretty fast. Second is that 
+we just didn’t want to teach them everything, which they 
+could go and sell to our competitors.
+  According to Otellini, it would have made sense for 
+the iPad to use Intel chips. The problem, he said, was 
+that Apple and Intel couldn’t agree on price. Also, they 
+disagreed on who would control the design. It was 
+another example of Jobs’s desire, indeed compulsion, 
+to control every aspect of a product, from the silicon to 
+the flesh.
+The Launch, January 2010
+The usual excitement that Jobs was able to gin up 
+for a product launch paled in comparison to the frenzy 
+that built for the iPad unveiling on January 27, 2010, in 
+San Francisco. The Economistput him on its cover 
+robed, haloed, and holding what was dubbed “the 
+Jesus Tablet.” The Wall Street Journalstruck a similarly 
+exalted note: “The last time there was this much 
+excitement about a tablet, it had some commandments 
+written on it.”
+As if to underscore the historic nature of the 
+launch, Jobs invited back many of the old-timers from 
+his early Apple days. More poignantly, James Eason, 
+who had performed his liver transplant the year before, 
+and Jeffrey Norton, who had operated on his pancreas 
+in 2004, were in the audience, sitting with his wife, his 
+son, and Mona Simpson.
+Steve Jobs by Walter Isaacson 642
+Jobs did his usual masterly job of putting a new 
+device into context, as he had done for the iPhone three 
+years earlier. This time he put up a screen that showed 
+an iPhone and a laptop with a question mark in 
+between. “The question is, is there room for something 
+in the middle?” he asked. That “something” would have 
+to be good at web browsing, email, photos, video, 
+music, games, and ebooks. He drove a stake through 
+the heart of the netbook concept. “Netbooks aren’t 
+better at anything!” he said. The invited guests and 
+employees cheered. “But we have something that is. 
+We call it the iPad.”
+To underscore the casual nature of the iPad, Jobs 
+ambled over to a comfortable leather chair and side 
+table (actually, given his taste, it was a Le Corbusier 
+chair and an Eero Saarinen table) and scooped one up. 
+“It’s so much more intimate than a laptop,” he enthused. 
+He proceeded to surf to the New York Timeswebsite, 
+send an email to Scott Forstall and Phil Schiller (“Wow, 
+we really are announcing the iPad”), flip through a 
+photo album, use a calendar, zoom in on the Eiffel 
+Tower on Google Maps, watch some video clips (Star 
+Trekand Pixar’s Up), show off the iBook shelf, and play 
+a song (Bob Dylan’s “Like a Rolling Stone,” which he 
+had played at the iPhone launch). “Isn’t that awesome?” 
+he asked.
+With his final slide, Jobs emphasized one of the 
+themes of his life, which was embodied by the iPad: a 
+sign showing the corner of Technology Street and 
+Liberal Arts Street. “The reason Apple can create 
+products like the iPad is that we’ve always tried to be at 
+the intersection of technology and liberal arts,” he 
+concluded. The iPad was the digital reincarnation of the 
+Whole Earth Catalog, the place where creativity met 
+tools for living.
+For once, the initial reaction was not a Hallelujah 
+Steve Jobs by Walter Isaacson 643
+Chorus. The iPad was not yet available (it would go on 
+sale in April), and some who watched Jobs’s demo 
+were not quite sure what it was. An iPhone on steroids? 
+“I haven’t been this let down since Snooki hooked up 
+with The Situation,” wrote Newsweek’s Daniel Lyons 
+(who moonlighted as “The Fake Steve Jobs” in an 
+online parody). Gizmodo ran a contributor’s piece 
+headlined “Eight Things That Suck about the iPad” (no 
+multitasking, no cameras, no Flash . . . ). Even the name 
+came in for ridicule in the blogosphere, with snarky 
+comments about feminine hygiene products and maxi 
+pads. The hashtag “#iTampon” was the number-three 
+trending topic on Twitter that day.
+There was also the requisite dismissal from Bill 
+Gates. “I still think that some mixture of voice, the pen 
+and a real keyboard—in other words a netbook—will be 
+the mainstream,” he told Brent Schlender. “So, it’s not 
+like I sit there and feel the same way I did with the 
+iPhone where I say, ‘Oh my God, Microsoft didn’t aim 
+high enough.’ It’s a nice reader, but there’s nothing on 
+the iPad I look at and say, ‘Oh, I wish Microsoft had 
+done it.’” He continued to insist that the Microsoft 
+approach of using a stylus for input would prevail. “I’ve 
+been predicting a tablet with a stylus for many years,” 
+he told me. “I will eventually turn out to be right or be 
+dead.”
+The night after his announcement, Jobs was 
+annoyed and depressed. As we gathered in his kitchen 
+for dinner, he paced around the table calling up emails 
+and web pages on his iPhone.
+I got about eight hundred email messages in the 
+last twenty-four hours. Most of them are complaining. 
+There’s no USB cord! There’s no this, no that. Some of 
+them are like, “Fuck you, how can you do that?” I don’t 
+usually write people back, but I replied, “Your parents 
+would be so proud of how you turned out.” And some 
+Steve Jobs by Walter Isaacson 644
+don’t like the iPad name, and on and on. I kind of got 
+depressed today. It knocks you back a bit.
+  He did get one congratulatory call that day that he 
+appreciated, from President Obama’s chief of staff, 
+Rahm Emanuel. But he noted at dinner that the 
+president had not called him since taking office.
+The public carping subsided when the iPad went 
+on sale in April and people got their hands on it. Both 
+Timeand Newsweekput it on the cover. “The tough 
+thing about writing about Apple products is that they 
+come with a lot of hype wrapped around them,” Lev 
+Grossman wrote in Time.“The other tough thing about 
+writing about Apple products is that sometimes the hype 
+is true.” His main reservation, a substantive one, was 
+“that while it’s a lovely device for consuming content, it 
+doesn’t do much to facilitate its creation.” Computers, 
+especially the Macintosh, had become tools that 
+allowed people to make music, videos, websites, and 
+blogs, which could be posted for the world to see. “The 
+iPad shifts the emphasis from creating content to merely 
+absorbing and manipulating it. It mutes you, turns you 
+back into a passive consumer of other people’s 
+masterpieces.” It was a criticism Jobs took to heart. He 
+set about making sure that the next version of the iPad 
+would emphasize ways to facilitate artistic creation by 
+the user.
+Newsweek’s cover line was “What’s So Great 
+about the iPad? Everything.” Daniel Lyons, who had 
+zapped it with his “Snooki” comment at the launch, 
+revised his opinion. “My first thought, as I watched Jobs 
+run through his demo, was that it seemed like no big 
+deal,” he wrote. “It’s a bigger version of the iPod Touch, 
+right? Then I got a chance to use an iPad, and it hit me: 
+I want one.” Lyons, like others, realized that this was 
+Jobs’s pet project, and it embodied all that he stood for. 
+“He has an uncanny ability to cook up gadgets that we 
+Steve Jobs by Walter Isaacson 645
+didn’t know we needed, but then suddenly can’t live 
+without,” he wrote. “A closed system may be the only 
+way to deliver the kind of techno-Zen experience that 
+Apple has become known for.”
+Most of the debate over the iPad centered on the 
+issue of whether its closed end-to-end integration was 
+brilliant or doomed. Google was starting to play a role 
+similar to the one Microsoft had played in the 1980s, 
+offering a mobile platform, Android, that was open and 
+could be used by all hardware makers. Fortunestaged 
+a debate on this issue in its pages. “There’s no excuse 
+to be closed,” wrote Michael Copeland. But his 
+colleague Jon Fortt rebutted, “Closed systems get a bad 
+rap, but they work beautifully and users benefit. 
+Probably no one in tech has proved this more 
+convincingly than Steve Jobs. By bundling hardware, 
+software, and services, and controlling them tightly, 
+Apple is consistently able to get the jump on its rivals 
+and roll out polished products.” They agreed that the 
+iPad would be the clearest test of this question since 
+the original Macintosh. “Apple has taken its controlfreak rep to a whole new level with the A4 chip that 
+powers the thing,” wrote Fortt. “Cupertino now has 
+absolute say over the silicon, device, operating system, 
+App Store, and payment system.”
+Jobs went to the Apple store in Palo Alto shortly 
+before noon on April 5, the day the iPad went on sale. 
+Daniel Kottke—his acid-dropping soul mate from Reed 
+and the early days at Apple, who no longer harbored a 
+grudge for not getting founders’ stock options—made a 
+point of being there. “It had been fifteen years, and I 
+wanted to see him again,” Kottke recounted. “I grabbed 
+him and told him I was going to use the iPad for my 
+song lyrics. He was in a great mood and we had a nice 
+chat after all these years.” Powell and their youngest 
+child, Eve, watched from a corner of the store.
+Steve Jobs by Walter Isaacson 646
+Wozniak, who had once been a proponent of 
+making hardware and software as open as possible, 
+continued to revise that opinion. As he often did, he 
+stayed up all night with the enthusiasts waiting in line 
+for the store to open. This time he was at San Jose’s 
+Valley Fair Mall, riding a Segway. A reporter asked him 
+about the closed nature of Apple’s ecosystem. “Apple 
+gets you into their playpen and keeps you there, but 
+there are some advantages to that,” he replied. “I like 
+open systems, but I’m a hacker. But most people want 
+things that are easy to use. Steve’s genius is that he 
+knows how to make things simple, and that sometimes 
+requires controlling everything.”
+The question “What’s on your iPad?” replaced 
+“What’s on your iPod?” Even President Obama’s 
+staffers, who embraced the iPad as a mark of their tech 
+hipness, played the game. Economic Advisor Larry 
+Summers had the Bloomberg financial information app, 
+Scrabble, and The Federalist Papers.Chief of Staff 
+Rahm Emanuel had a slew of newspapers, 
+Communications Advisor Bill Burton had Vanity Fair
+and one entire season of the television series Lost,and 
+Political Director David Axelrod had Major League 
+Baseball and NPR.
+Jobs was stirred by a story, which he forwarded to 
+me, by Michael Noer on Forbes.com.Noer was reading 
+a science fiction novel on his iPad while staying at a 
+dairy farm in a rural area north of Bogotá, Colombia, 
+when a poor six-year-old boy who cleaned the stables 
+came up to him. Curious, Noer handed him the device. 
+With no instruction, and never having seen a computer 
+before, the boy started using it intuitively. He began 
+swiping the screen, launching apps, playing a pinball 
+game. “Steve Jobs has designed a powerful computer 
+that an illiterate six-year-old can use without 
+instruction,” Noer wrote. “If that isn’t magical, I don’t 
+Steve Jobs by Walter Isaacson 647
+know what is.”
+In less than a month Apple sold one million iPads. 
+That was twice as fast as it took the iPhone to reach that 
+mark. By March 2011, nine months after its release, 
+fifteen million had been sold. By some measures it 
+became the most successful consumer product launch 
+in history.

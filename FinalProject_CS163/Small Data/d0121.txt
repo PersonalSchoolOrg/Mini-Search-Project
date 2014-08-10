@@ -1,0 +1,567 @@
+car: transportation for individuals and families. But it had a very
+different form: a live animal versus a machine. Ford effectively converted
+the majority of noncustomers of the auto industry, namely
+customers of horse-drawn carriages, into customers of its own blue
+ocean by pricing its Model T against horse-drawn carriages and not
+the cars of other automakers.
+In the case of the school lunch catering industry, raising this
+question led to an interesting insight. Suddenly those parents who
+make their children’s lunches came into the equation. For many
+children, parents had the same function: making their child’s
+lunch. But they had a very different form: mom or dad versus a
+lunch line in the cafeteria.
+Different form and function, same objective. Some companies
+lure customers from even further away. Cirque du Soleil, for example,
+has diverted customers from a wide range of evening activities.
+Its growth came in part through drawing people away from other
+activities that differed in both form and function. For example, bars
+and restaurants have few physical features in common with a circus.
+They also serve a distinct function by providing conversational
+and gastronomical pleasure, a very different experience from the
+visual entertainment that a circus offers. Yet despite these differences
+in form and function, people have the same objective in undertaking
+these three activities: to enjoy a night out.
+Listing the groups of alternative products and services allows
+managers to see the full range of buyers they can poach from other
+industries as well as from nonindustries, such as parents (for the
+school lunch catering industry) or the noble pencil in managing
+household finances (for the personal finance software industry).
+Get the Strategic Sequence Right 129
+Having done this, managers should then graphically plot the price
+and volume of these alternatives, as shown in figure 6-5.
+This approach provides a straightforward way to identify where
+the mass of target buyers is and what prices these buyers are prepared
+to pay for the products and services they currently use. The
+price bandwidth that captures the largest groups of target buyers is
+the price corridor of the mass.
+In some cases, the range is very wide. For Southwest Airlines, for
+example, the price corridor of the mass covered the group of people
+paying, on average, $400 to buy an economy-class short-haul ticket
+to about $60 for the cost of going the same distance by car. The key
+here is not to pursue pricing against the competition within an industry
+but rather to pursue pricing against substitutes and alternatives
+across industries and nonindustries. Had Ford, for example,
+priced its Model T against other autos, which were more than three
+times the price of horse-drawn carriages, the market for the Model
+T would not have exploded.
+Step 2: Specify a Level Within the Price Corridor
+The second part of the tool helps managers determine how high a
+price they can afford to set within the corridor without inviting
+competition from imitation products or services. That assessment
+depends on two principal factors. First is the degree to which the
+product or service is protected legally through patents or copyrights.
+Second is the degree to which the company owns some exclusive
+asset or core capability, such as an expensive production plant, that
+can block imitation. Dyson, a British electrical white goods company,
+for example, has been able to charge a high unit price for its
+bagless vacuum cleaner since the product’s launch in 1995, thanks
+to both strong patents and hard-to-imitate service capabilities.
+Many other companies have used upper-boundary strategic pricing
+to attract the mass of target buyers. Examples include DuPont
+with its Lycra brand in specialty chemicals, Philips’ ALTO in the
+professional lighting industry, SAP in the business application
+software industry, and Bloomberg in the financial software industry.
+130 F O R M U L AT I N G B L U E O C E A N S T R AT E G Y
+On the other hand, companies with uncertain patent and asset
+protection should consider pricing somewhere in the middle of the
+corridor. As for companies that have no such protection, they must
+set a relatively low price. In the case of Southwest Airlines, because
+its service wasn’t patentable and required no exclusive assets, its
+ticket prices fell into the lower boundary of the corridor—namely,
+against the price of car travel. Companies would be wise to pursue
+the target cost. Here, price-minus costing, and not cost-plus
+pricing, is essential if you are to arrive at a cost structure that is
+both profitable and hard for potential followers to match.
+When target costing is driven by strategic pricing, however, it is
+usually aggressive. Part of the challenge of meeting the target cost
+Get the Strategic Sequence Right 131
+is addressed in building a strategic profile that has not only divergence
+but also focus, which makes a company strip out costs. Think
+of the cost reductions Cirque du Soleil enjoyed by eliminating animals
+and stars or that Ford enjoyed by making the Model T in one
+color and one model having few options.
+Sometimes these reductions are sufficient to hit the cost target,
+but often they are not. Consider the cost innovations that Ford had
+to introduce to meet its aggressive target cost for the Model T. Ford
+had to scrap the standard manufacturing system, in which cars
+were handmade by skilled craftsmen from start to finish. Instead,
+Ford introduced the assembly line, which replaced skilled craftsmen
+with ordinary unskilled laborers, who worked one small task
+faster and more efficiently, cutting the time to make a Model T from
+twenty-one days to four days and cutting labor hours by 60 percent.3
+Had Ford not introduced these cost innovations, it could not have
+met its strategic price profitably.
+Instead of drilling down and finding ways to creatively meet the
+target cost as Ford did, if companies give in to the tempting route
+of either bumping up the strategic price or cutting back on utility,
+they are not on the path to lucrative blue waters. To hit the cost target,
+companies have three principal levers.
+The first involves streamlining operations and introducing cost
+innovations from manufacturing to distribution. Can the product’s
+or service’s raw materials be replaced by unconventional, less expensive
+ones—such as switching from metal to plastic or shifting a
+call center from the U.K. to Bangalore? Can high-cost, low-valueadded
+activities in your value chain be significantly eliminated,
+reduced, or outsourced? Can the physical location of your product
+or service be shifted from prime real estate locations to lower-cost
+locations, as The Home Depot, IKEA, and Wal-Mart have done in
+retail or Southwest Airlines has done by shifting from major to secondary
+airports? Can you truncate the number of parts or steps
+used in production by shifting the way things are made, as Ford did
+by introducing the assembly line? Can you digitize activities to reduce
+costs?
+132 F O R M U L AT I N G B L U E O C E A N S T R AT E G Y
+By probing questions such as these, the Swiss watch company
+Swatch, for example, was able to arrive at a cost structure some 30
+percent lower than any other watch company in the world. At the
+start, Nicolas Hayek, chairman of Swatch, set up a project team to
+determine the strategic price for the Swatch. At the time, cheap
+(about $75), high-precision quartz watches from Japan and Hong
+Kong were capturing the mass market. Swatch set the price at $40,
+a price at which people could buy multiple Swatches as fashion accessories.
+The low price left no profit margin for Japanese or Hong
+Kong-based companies to copy Swatch and undercut its price. Directed
+to sell the Swatch for that price and not a penny more, the
+Swatch project team worked backwards to arrive at the target cost,
+a process that involved determining the margin Swatch needed to
+support marketing and services and earn a profit.
+Given the high cost of Swiss labor, Swatch was able to achieve
+this goal only by making radical changes in the product and production
+methods. Instead of using the more traditional metal or
+leather, for example, Swatch used plastic. Swatch’s engineers also
+drastically simplified the design of the watch’s inner workings, reducing
+the number of parts from one hundred fifty to fifty-one. Finally,
+the engineers developed new and cheaper assembly techniques;
+for example, the watch cases were sealed by ultrasonic welding instead
+of screws. Taken together, the design and manufacturing
+changes enabled Swatch to reduce direct labor costs from 30 percent
+to less than 10 percent of total costs. These cost innovations
+produced a cost structure that is hard to beat and let Swatch profitably
+dominate the mass market for watches, a market previously
+dominated by Asian manufacturers with a cheaper labor pool.
+Beyond streamlining operations and introducing cost innovations,
+a second lever companies can pull to meet their target cost is
+partnering. In bringing a new product or service to market, many
+companies mistakenly try to carry out all the production and distribution
+activities themselves. Sometimes that’s because they see
+the product or service as a platform for developing new capabilities.
+Other times it is simply a matter of not considering other out-
+Get the Strategic Sequence Right 133
+side options. Partnering, however, provides a way for companies to
+secure needed capabilities fast and effectively while dropping their
+cost structure. It allows a company to leverage other companies’ expertise
+and economies of scale. Partnering includes closing gaps in
+capabilities through making small acquisitions when doing so is
+faster and cheaper, providing access to needed expertise that has
+customers, with no cost implication to the company.
+Sometimes, however, no amount of streamlining and cost innovation
+or partnering will make it possible for a company to deliver
+its target cost. This brings us to the third lever companies can use
+to make their desired profit margin without compromising their
+strategic price: changing the pricing model of the industry. By
+changing the pricing model used—and not the level of the strategic
+price—companies can often overcome this problem.
+When film videotapes first came out, for example, they were
+tape, demand was not taking off. How could a company make
+money by selling the videos at only a few dollars if it followed the
+path of using strategic pricing? The answer was that it couldn’t.
+Blockbuster, however, got around this problem by changing the
+pricing model from selling to renting. This allowed it to strategically
+price videotapes at only a few dollars per rental. The result
+was that the home video market exploded and Blockbuster made
+more money by repeatedly renting the same $80 videos than it
+could have by selling them outright. Similarly, IBM exploded the
+tabulating market by shifting the pricing model from selling to
+leasing to hit its strategic price while covering its cost structure.
+In addition to Blockbuster’s rental model or IBM’s leasing
+model, companies have used several innovations in pricing models
+to profitably deliver on the strategic price. One model is the timeshare.
+The New Jersey company NetJets follows this model to make
+jets accessible to a wide range of corporate customers, who buy the
+right to use a jet for a certain amount of time rather than buy the
+jet itself. Another model is the slice-share; mutual fund managers,
+for example, bring high-quality portfolio services—traditionally
+provided by private banks to the rich—to the small investor by selling
+a sliver of the portfolio rather than its whole.
+Some companies are abandoning the concept of price altogether.
+Instead, they give products to customers in return for an equity interest
+in the customer’s business. Hewlett-Packard
+profit by using the foregoing three levers. As the figure depicts, a
+Get the Strategic Sequence Right 135
+company begins with its strategic price, from which it deducts its
+target profit margin to arrive at its target cost. To hit the cost target
+that supports that profit, companies have two key levers: One is
+streamlining and cost innovations, and the other is partnering.
+When the target cost cannot be met despite all efforts to build a
+low-cost business model, the company should turn to the third
+lever, pricing innovation, to profitably meet the strategic price. Of
+course, even when the target cost can be met, pricing innovation
+still can be pursued. When a company’s offering successfully addresses
+the profit side of the business model, the company is ready
+to advance to the final step in the sequence of blue ocean strategy
+of environmental concern and powerful agricultural lobbies.
+Monsanto’s mistake was to let others take charge of the debate.
+The company should have educated the environmental groups as
+well as the public on the benefits of genetically modified food and
+its potential to eliminate world famine and disease. When the products
+came out, Monsanto should have given consumers a choice between
+organic and genetically modified foods by labeling which
+products had genetically modified seeds as their base. If Monsanto
+had taken these steps, then instead of being vilified, it might have
+ended up as the “Intel Inside” of food for the future—the provider
+of the essential technology.
+In educating these three groups of stakeholders—your employees,
+your partners, and the general public—the key challenge is to
+engage in an open discussion about why the adoption of the new
+idea is necessary. You need to explain its merits, set clear expectations
+for its ramifications, and describe how the company will address
+them. Stakeholders need to know that their voices have been
+heard and that there will be no surprises. Companies that take the
+trouble to have such a dialogue with stakeholders will find that it
+amply repays the time and effort involved. (For a fuller discussion
+Philips CD-i, it did not create exceptional buyer utility with its offering
+of complex technological functions and limited software
+titles. It was priced out of reach of the mass of buyers, and its manufacturing
+process was complicated and costly. With its complicated
+design, it took more than thirty minutes to explain and sell to
+customers, something that gave no incentive for sales clerks to sell
+CD-i in fast-moving retail. Philips CD-i therefore failed all four criteria
+on the BOI index despite the billions poured into it.
+By assessing the business idea of the CD-i against the BOI index
+during development, Philips could have foreseen the shortcomings
+embedded in the idea and addressed them up front by simplifying
+the product and locking in partners to develop winning software titles,
+setting a strategic price accessible to the masses, instituting
+price-minus costing instead of cost-plus pricing, and working with
+retail to find a simple, easy way for the sales force to sell and explain
+the product in a few minutes.
+the mass of buyers, not being usable in buildings or cars and being
+the size of a brick. When it came to adoption, Motorola overcame
+many regulations and secured transmission rights from numerous
+countries. Employees, partners, and the society were also reasonably
+motivated to accept the idea. But the company had a weak
+sales team and marketing channels in the global markets. Because
+Motorola was not able to follow up sales leads effectively, Iridium
+phone sets were sometimes unavailable when requested. Weak utility,
+price, and cost positions, plus average adoption ability, indicated
+that the Iridium idea would be a flop.
+In contrast to these failures, consider NTT DoCoMo’s i-mode
+launch in Japan. In 1999, when most telecom operators were focusing
+on technology races and price competition over voice-based
+wireless devices, NTT DoCoMo, the largest Japanese telecom operator,
+launched i-mode to offer the Internet on cell phones. Regular
+mobile telephony in Japan had reached a high level of sophistication
+in terms of mobility, quality of voice, ease of use, and hardware
+design. But it offered few data-based services such as e-mail,
+access to information, news, and games, and transaction capabilities,
+capabilities. While it focused on its traditional role as an operator
+to develop and maintain a high-speed, high-capacity network in the
+i-mode project, it sought to deliver other key elements of its offering
+by actively partnering with handset manufacturers and information
+providers.
+By creating a win-win partnership network, the company aimed
+to meet and sustain the target cost set by its strategic price. Although
+there are many partners and dimensions involved in its
+partnership network, a few aspects are particularly relevant here.
+First, NTT DoCoMo regularly and persistently shared know-how
+and technology with its handset manufacturing partners to help
+them stay ahead of their competitors. Second, the company played
+the role of the portal and gateway to the wireless network, expanding
+and updating the list of i-mode menu sites while attracting content
+providers to join the i-mode list and create the content that
+would boost user traffic. By handling the billing for the content
+providers with a small commission fee, for example, the company
+offered content providers major cost savings associated with billing
+system development. At the same time DoCoMo also obtained a
+growing revenue stream for itself.
+More importantly, instead of using the Wireless Markup Language
+(WML) under the WAP standard for site creation, i-mode
+used c-HTML, an existing and already widely used language in
+Japan. This made i-mode more attractive to content providers because
+under c-HTML, software engineers needed no retraining to
+convert their existing Web sites, designed for the Internet environment,
+into sites for i-mode use, and thus they incurred no additional
+costs. NTT DoCoMo also entered into collaborative arrangements
+with key foreign partners, such as Sun Microsystems, Microsoft,
+and Symbian, to reduce the total development costs and shorten
+the time for an effective launch.
+Another key aspect of the i-mode strategy was the way the project
+was carried out. A team specially dedicated to the project was set
+142 F O R M U L AT I N G B L U E O C E A N S T R AT E G Y
+up and given a clear mandate and autonomy. The head of the i-mode
+team selected most of the team members and engaged them in an open
+discussion on how to create the new market of mobile data communications,
+making them committed to the project. All this created a
+favorable corporate environment for the adoption of i-mode. Moreover,
+the win-win game the company created for its partners, as well
+as the readiness of the Japanese general public to use database
+services, also contributed to the successful adoption of i-mode.
+The i-mode service passed all four criteria on the BOI index, as
+shown earlier in figure 6-7. Indeed, i-mode turned out to be an explosive
+success. Six months after its launch, subscribers had
+reached the 1 million mark. Within two years, the number of subscribers
+had reached 21.7 million, and revenues from packet transmission
+alone had increased 130 times. By the end of 2003 the
+number of subscribers had reached 40.1 million, and revenues from
+the transmission of data, pictures, and text increased from 295 million
+yen ($2.6 million) to 886.3 billion yen ($8 billion).
+DoCoMo is the only company that has been able to make money
+out of the mobile Internet. DoCoMo now exceeds its parent company,
+NTT, in terms of market capitalization as well as potential for
+profitable growth.
+Although i-mode has been a huge success in Japan, its success
+outside Japan hinges on whether it can overcome regional adoption
+barriers of a regulatory, cultural, and emotional nature as
+well as those stemming from partnership dynamics and infrastructure
+economics.
+Having passed the blue ocean idea index, companies are ready to
+shift gears from the formulation side of blue ocean strategy to its
+execution. The question is, How do you bring an organization with
+you to execute this strategy even though it often represents a significant
+departure from the past? This brings us to the second part
+of this book, and the fifth principle of blue ocean strategy: overcoming
+key organizational hurdles, the subject of our next chapter.
+Get the Strategic Sequence Right 143
+
+(
+)
+(
+)
+(
+)
+(
+)
+(
+P A R T T H R E E
+Executing Blue
+Ocean Strategy
+
+(
+)
+(
+)
+(
+)
+(
+)
+C H A P T E R 7
+Overcome Key
+Organizational Hurdles
+ONCE A COMPANY HAS DEVELOPED a blue ocean
+strategy with a profitable business model, it must execute
+it. The challenge of execution exists, of course, for any strategy.
+Companies, like individuals, often have a tough time translating
+thought into action whether in red or blue oceans. But compared
+with red ocean strategy, blue ocean strategy represents a significant
+departure from the status quo. It hinges on a shift from convergence
+to divergence in value curves at lower costs. That raises the
+execution bar.
+Managers have assured us that the challenge is steep. They face
+four hurdles. One is cognitive: waking employees up to the need for
+a strategic shift. Red oceans may not be the paths to future profitable
+growth, but they feel comfortable to people and may have
+even served an organization well until now, so why rock the boat?
+The second hurdle is limited resources. The greater the shift in
+strategy, the greater it is assumed are the resources needed to execute
+it. But resources were being cut, and not raised, in many of the
+organizations we studied.
+Third is motivation. How do you motivate key players to move
+fast and tenaciously to carry out a break from the status quo? That
+will take years, and managers don’t have that kind of time.
+The final hurdle is politics. As one manager put it, “In our organization
+you get shot down before you stand up.”
+Although all companies face different degrees of these hurdles,
+and many may face only some subset of the four, knowing how to
+triumph over them is key to attenuating organizational risk. This
+brings us to the fifth principle of blue ocean strategy: Overcome key
+organizational hurdles to make blue ocean strategy happen in action.
+To achieve this effectively, however, companies must abandon
+perceived wisdom on effecting change. Conventional wisdom asserts
+that the greater the change, the greater the resources and
+time you will need to bring about results. Instead, you need to flip
+conventional wisdom on its head using what we call tipping point
+leadership. Tipping point leadership allows you to overcome these
+four hurdles fast and at low cost while winning employees’ backing
+in executing a break from the status quo.
+Tipping Point Leadership in Action
+Consider the New York City Police Department (NYPD), which executed
+a blue ocean strategy in the 1990s in the public sector. When
+Bill Bratton was appointed police commissioner of New York City
+in February 1994, the odds were stacked against him to an extent
+few executives ever face. In the early 1990s, New York City was veering
+toward anarchy. Murders were at an all-time high. Muggings,
+Mafia hits, vigilantes, and armed robberies filled the daily headlines.
+New Yorkers were under siege. But Bratton’s budget was
+frozen. Indeed, after three decades of mounting crime in New York
+City, many social scientists had concluded that it was impervious
+to police intervention. The citizens of New York City were crying
+out. A front-page headline in the New York Post had screamed:
+“Dave do something!”—a direct call to then mayor David Dinkins
+to get crime down fast.1 With miserable pay, dangerous working
+148 E X E C U T I N G B L U E O C E A N S T R AT E G Y
+conditions, long hours, and little hope of advancement in a tenure
+promotion system, morale among the NYPD’s thirty-six thousand
+officers was at rock bottom—not to mention the debilitating effects
+of budget cuts, dilapidated equipment, and corruption.
+In business terms, the NYPD was a cash-strapped organization
+with thirty-six thousand employees wedded to the status quo, unmotivated,
+and underpaid; a disgruntled customer base—New York
+City’s citizens; and rapidly declining performance as measured by
+the increase in crime, fear, and disorder. Entrenched turf wars and
+politics topped off the cake. In short, leading the NYPD to execute
+a shift in strategy was a managerial nightmare far beyond the imaginations
+of most executives. The competition—the criminals—was
+strong and rising.
+Yet in less than two years and without an increase in his budget,
+Bratton turned New York City into the safest large city in the United
+States. He broke out of the red ocean with a blue ocean policing
+strategy that revolutionized U.S. policing as it was then known. Between
+1994 and 1996, the organization won as “profits” jumped:
+Felony crime fell 39 percent, murders 50 percent, and theft 35 percent.
+“Customers” won: Gallup polls reported that public confidence
+in the NYPD leaped from 37 percent to 73 percent. And employees
+won: Internal surveys showed job satisfaction in the NYPD reaching
+an all-time high. As one patrolman put it, “We would have
+marched to hell and back for that guy.” Perhaps most impressively,
+the changes have outlasted its leader, implying a fundamental shift
+in the organizational culture and strategy of the NYPD. Even after
+Bratton’s departure in 1996, crime rates have continued to fall.
+Few corporate leaders face organizational hurdles as steep as
+Bratton did in executing a break from the status quo. And still
+fewer are able to orchestrate the type of performance leap that
+Bratton achieved under any organizational conditions, let alone
+those as stringent as he encountered. Even Jack Welch needed
+some ten years and tens of millions of dollars of restructuring and
+training to turn GE into a powerhouse.
+Moreover, defying conventional wisdom, Bratton achieved these
+breakthrough results in record time with scarce resources while
+Overcome Key Organizational Hurdles 149
+lifting employee morale, creating a win-win for all involved. Nor
+was this Bratton’s first strategic reversal. It was his fifth, with each
+of the others also achieved despite his facing all four hurdles that
+managers consistently claim limit their ability to execute blue
+ocean strategy: the cognitive hurdle that blinds employees from
+seeing that radical change is necessary; the resource hurdle that is
+endemic in firms; the motivational hurdle that discourages and demoralizes
+staff; and the political hurdle of internal and external resistance
+to change (see figure 7-1).
+The Pivotal Lever: Disproportionate
+Influence Factors
+Tipping point leadership traces its roots to the field of epidemiology
+and the theory of tipping points.2 It hinges on the insight that
+150 E X E C U T I N G B L U E O C E A N S T R AT E G Y
+FIGURE 7-1
+The Four Organizational Hurdles to Strategy Execution
+Cognitive Hurdle
+An organization
+wedded to the
+status quo
+Motivational Hurdle
+Unmotivated staff
+Political Hurdle
+Opposition from
+powerful vested
+interests
+Resource Hurdle
+Limited resources
+in any organization, fundamental changes can happen quickly
+when the beliefs and energies of a critical mass of people create an
+epidemic movement toward an idea. Key to unlocking an epidemic
+movement is concentration, not diffusion.
+Tipping point leadership builds on the rarely exploited corporate
+reality that in every organization, there are people, acts, and activities
+that exercise a disproportionate influence on performance.
+Hence, contrary to conventional wisdom, mounting a massive challenge
+is not about putting forth an equally massive response where
+performance gains are achieved by proportional investments in
+time and resources. Rather, it is about conserving resources and
+cutting time by focusing on identifying and then leveraging the factors
+of disproportionate influence in an organization.
+The key questions answered by tipping point leaders are as follows:
+What factors or acts exercise a disproportionately positive influence
+on breaking the status quo? On getting the maximum bang
+out of each buck of resources? On motivating key players to aggressively
+move forward with change? And on knocking down political
+roadblocks that often trip up even the best strategies? By singlemindedly
+focusing on points of disproportionate influence, tipping
+point leaders can topple the four hurdles that limit execution of
+blue ocean strategy. They can do this fast and at low cost.
+Let us consider how you can leverage disproportionate influence
+factors to tip all four hurdles to move from thought to action in the
+execution of blue ocean strategy.
+Break Through the Cognitive Hurdle
+In many turnarounds and corporate transformations, the hardest
+battle is simply to make people aware of the need for a strategic shift
+and to agree on its causes. Most CEOs will try to make the case for
+change simply by pointing to the numbers and insisting that the company
+set and achieve better results: “There are only two performance
+alternatives: to make the performance targets or to beat them.”
+Overcome Key Organizational Hurdles 151
+But as we all know, figures can be manipulated. Insisting on
+stretch goals encourages abuse in the budgetary process. This, in
+turn, creates hostility and suspicion between the various parts of
+an organization. Even when the numbers are not manipulated, they
+can mislead. Salespeople on commission, for example, are seldom
+sensitive to the costs of the sales they produce.
+What’s more, messages communicated through numbers seldom
+stick with people. The case for change feels abstract and removed
+from the sphere of the line managers, who are the very people the
+CEO needs to win over. Those whose units are doing well feel that
+the criticism is not directed at them; the problem is top management’s.
+Meanwhile, managers of poorly performing units feel that
+they are being put on notice, and people who are worried about personal
+job security are more likely to scan the job market than to try
+to solve the company’s problems.
+Tipping point leadership does not rely on numbers to break
+through the organization’s cognitive hurdle. To tip the cognitive
+hurdle fast, tipping point leaders such as Bratton zoom in on the
+act of disproportionate influence: making people see and experience
+harsh reality firsthand. Research in neuroscience and cognitive
+science shows that people remember and respond most
+effectively to what they see and experience: “Seeing is believing.”
+In the realm of experience, positive stimuli reinforce behavior,
+whereas negative stimuli change attitudes and behavior. Simply
+put, if a child puts a finger in icing and tastes it, the better it tastes
+the more the child will taste it repetitively. No parental advice is
+needed to encourage that behavior. Conversely, after a child puts a
+finger on a burning stove, he or she will never do it again. After a
+negative experience, children will change their behavior of their
+own accord; again, no parental pestering is required.3 On the other
+hand, experiences that don’t involve touching, seeing, or feeling actual
+results, such as being presented with an abstract sheet of numbers,
+are shown to be non-impactful and easily forgotten.4
+Tipping point leadership builds on this insight to inspire a fast
+change in mindset that is internally driven of people’s own accord.
+152 E X E C U T I N G B L U E O C E A N S T R AT E G Y
+Instead of relying on numbers to tip the cognitive hurdle, they
+make people experience the need for change in two ways.
+Ride the “Electric Sewer”
+To break the status quo, employees must come face-to-face with the
+worst operational problems. Don’t let top brass, middle brass, or any
+brass hypothesize about reality. Numbers are disputable and uninspiring,
+but coming face-to-face with poor performance is shocking
+and inescapable, but actionable. This direct experience exercises a
+disproportionate influence on tipping people’s cognitive hurdle fast.
+Consider this example. In the 1990s the New York subway system
+reeked of fear, so much so that it earned the epithet “electric
+sewer.” Revenues were tumbling fast as citizens boycotted the system.
+But members of the New York City Transit Police department
+were in denial. Why? Only 3 percent of the city’s major crimes happened
+on the subway. So no matter how much the public cried out,
+their cries fell on deaf ears. There was no perceived need to rethink
+police strategies.
+Then Bratton was appointed chief, and in a matter of weeks he
+orchestrated a complete break from the status quo in the mindset of
+the city’s police. How? Not by force, nor by arguing for numbers,
+but by making top brass and middle brass—starting with himself—
+ride the electric sewer day and night. Until Bratton came along,
+that had not been done.
+Although the statistics may have told the police that the subway
+was safe, what they now saw was what every New Yorker faced every
+day: a subway system on the verge of anarchy. Gangs of youths patrolled
+the cars, people jumped turnstiles, and the riders faced graffiti,
+aggressive begging, and winos sprawled over benches. The
+police could no longer evade the ugly truth. No one could argue
+that current police strategies didn’t require a substantial departure
+from the status quo—and fast.
+Showing the worst reality to your superiors can also shift their

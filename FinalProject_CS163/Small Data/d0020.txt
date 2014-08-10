@@ -1,0 +1,607 @@
+NEW BATTLES
+And Echoes of Old Ones
+Google: Open versus Closed
+A few days after he unveiled the iPad in January 
+2010, Jobs held a “town hall” meeting with employees 
+at Apple’s campus. Instead of exulting about their 
+transformative new product, however, he went into a 
+rant against Google for producing the rival Android 
+operating system. Jobs was furious that Google had 
+decided to compete with Apple in the phone business. 
+“We did not enter the search business,” he said. “They 
+entered the phone business. Make no mistake. They 
+want to kill the iPhone. We won’t let them.” A few 
+minutes later, after the meeting moved on to another 
+topic, Jobs returned to his tirade to attack Google’s 
+famous values slogan. “I want to go back to that other 
+question first and say one more thing. This ‘Don’t be 
+evil’ mantra, it’s bullshit.”
+Jobs felt personally betrayed. Google’s CEO Eric 
+Schmidt had been on the Apple board during the 
+development of the iPhone and iPad, and Google’s 
+founders, Larry Page and Sergey Brin, had treated him 
+as a mentor. He felt ripped off. Android’s touchscreen 
+interface was adopting more and more of the features—
+multi-touch, swiping, a grid of app icons—that Apple 
+had created.
+Jobs had tried to dissuade Google from 
+developing Android. He had gone to Google’s 
+headquarters near Palo Alto in 2008 and gotten into a 
+shouting match with Page, Brin, and the head of the 
+Android development team, Andy Rubin. (Because 
+Schmidt was then on the Apple board, he recused 
+himself from discussions involving the iPhone.) “I said 
+Steve Jobs by Walter Isaacson 664
+we would, if we had good relations, guarantee Google 
+access to the iPhone and guarantee it one or two icons 
+on the home screen,” he recalled. But he also 
+threatened that if Google continued to develop Android 
+and used any iPhone features, such as multi-touch, he 
+would sue. At first Google avoided copying certain 
+features, but in January 2010 HTC introduced an 
+Android phone that boasted multi-touch and many other 
+aspects of the iPhone’s look and feel. That was the 
+context for Jobs’s pronouncement that Google’s “Don’t 
+be evil” slogan was “bullshit.”
+So Apple filed suit against HTC (and, by 
+extension, Android), alleging infringement of twenty of 
+its patents. Among them were patents covering various 
+multi-touch gestures, swipe to open, double-tap to 
+zoom, pinch and expand, and the sensors that 
+determined how a device was being held. As he sat in 
+his house in Palo Alto the week the lawsuit was filed, he 
+became angrier than I had ever seen him:
+Our lawsuit is saying, “Google, you fucking ripped 
+off the iPhone, wholesale ripped us off.” Grand theft. I 
+will spend my last dying breath if I need to, and I will 
+spend every penny of Apple’s $40 billion in the bank, to 
+right this wrong. I’m going to destroy Android, because 
+it’s a stolen product. I’m willing to go to thermonuclear 
+war on this. They are scared to death, because they 
+know they are guilty. Outside of Search, Google’s 
+products—Android, Google Docs—are shit.
+  A few days after this rant, Jobs got a call from 
+Schmidt, who had resigned from the Apple board the 
+previous summer. He suggested they get together for 
+coffee, and they met at a café in a Palo Alto shopping 
+center. “We spent half the time talking about personal 
+matters, then half the time on his perception that Google 
+had stolen Apple’s user interface designs,” recalled 
+Schmidt. When it came to the latter subject, Jobs did 
+Steve Jobs by Walter Isaacson 665
+most of the talking. Google had ripped him off, he said 
+in colorful language. “We’ve got you red-handed,” he 
+told Schmidt. “I’m not interested in settling. I don’t want 
+your money. If you offer me $5 billion, I won’t want it. 
+I’ve got plenty of money. I want you to stop using our 
+ideas in Android, that’s all I want.” They resolved 
+nothing.
+Underlying the dispute was an even more 
+fundamental issue, one that had unnerving historical 
+resonance. Google presented Android as an “open” 
+platform; its open-source code was freely available for 
+multiple hardware makers to use on whatever phones 
+or tablets they built. Jobs, of course, had a dogmatic 
+belief that Apple should closely integrate its operating 
+systems with its hardware. In the 1980s Apple had not 
+licensed out its Macintosh operating system, and 
+Microsoft eventually gained dominant market share by 
+licensing its system to multiple hardware makers and, in 
+Jobs’s mind, ripping off Apple’s interface.
+The comparison between what Microsoft wrought 
+in the 1980s and what Google was trying to do in 2010 
+was not exact, but it was close enough to be unsettling
+—and infuriating. It exemplified the great debate of the 
+digital age: closed versus open, or as Jobs framed it, 
+integrated versus fragmented. Was it better, as Apple 
+believed and as Jobs’s own controlling perfectionism 
+almost compelled, to tie the hardware and software and 
+content handling into one tidy system that assured a 
+simple user experience? Or was it better to give users 
+and manufacturers more choice and free up avenues 
+for more innovation, by creating software systems that 
+could be modified and used on different devices? 
+“Steve has a particular way that he wants to run Apple, 
+and it’s the same as it was twenty years ago, which is 
+that Apple is a brilliant innovator of closed systems,” 
+Schmidt later told me. “They don’t want people to be on 
+Steve Jobs by Walter Isaacson 666
+their platform without permission. The benefits of a 
+closed platform is control. But Google has a specific 
+belief that open is the better approach, because it leads 
+to more options and competition and consumer choice.”
+So what did Bill Gates think as he watched Jobs, 
+with his closed strategy, go into battle against Google, 
+as he had done against Microsoft twenty-five years 
+earlier? “There are some benefits to being more closed, 
+in terms of how much you control the experience, and 
+certainly at times he’s had the benefit of that,” Gates told 
+me. But refusing to license the Apple iOS, he added, 
+gave competitors like Android the chance to gain 
+greater volume. In addition, he argued, competition 
+among a variety of devices and manufacturers leads to 
+greater consumer choice and more innovation. “These 
+companies are not all building pyramids next to Central 
+Park,” he said, poking fun at Apple’s Fifth Avenue store, 
+“but they are coming up with innovations based on 
+competing for consumers.” Most of the improvements in 
+PCs, Gates pointed out, came because consumers had 
+a lot of choices, and that would someday be the case in 
+the world of mobile devices. “Eventually, I think, open 
+will succeed, but that’s where I come from. In the long 
+run, the coherence thing, you can’t stay with that.”
+Jobs believed in “the coherence thing.” His faith in 
+a controlled and closed environment remained 
+unwavering, even as Android gained market share. 
+“Google says we exert more control than they do, that 
+we are closed and they are open,” he railed when I told 
+him what Schmidt had said. “Well, look at the results—
+Android’s a mess. It has different screen sizes and 
+versions, over a hundred permutations.” Even if 
+Google’s approach might eventually win in the 
+marketplace, Jobs found it repellent. “I like being 
+responsible for the whole user experience. We do it not 
+to make money. We do it because we want to make 
+Steve Jobs by Walter Isaacson 667
+great products, not crap like Android.”
+Flash, the App Store, and Control
+Jobs’s insistence on end-to-end control was 
+manifested in other battles as well. At the town hall 
+meeting where he attacked Google, he also assailed 
+Adobe’s multimedia platform for websites, Flash, as a 
+“buggy” battery hog made by “lazy” people. The iPod 
+and iPhone, he said, would never run Flash. “Flash is a 
+spaghetti-ball piece of technology that has lousy 
+performance and really bad security problems,” he said 
+to me later that week.
+He even banned apps that made use of a compiler 
+created by Adobe that translated Flash code so that it 
+would be compatible with Apple’s iOS. Jobs disdained 
+the use of compilers that allowed developers to write 
+their products once and have them ported to multiple 
+operating systems. “Allowing Flash to be ported across 
+platforms means things get dumbed down to the lowest 
+common denominator,” he said. “We spend lots of effort 
+to make our platform better, and the developer doesn’t 
+get any benefit if Adobe only works with functions that 
+every platform has. So we said that we want developers 
+to take advantage of our better features, so that their 
+apps work better on our platform than they work on 
+anybody else’s.” On that he was right. Losing the ability 
+to differentiate Apple’s platforms—allowing them to 
+become commoditized like HP and Dell machines—
+would have meant death for the company.
+There was, in addition, a more personal reason. 
+Apple had invested in Adobe in 1985, and together the 
+two companies had launched the desktop publishing 
+revolution. “I helped put Adobe on the map,” Jobs 
+claimed. In 1999, after he returned to Apple, he had 
+asked Adobe to start making its video editing software 
+and other products for the iMac and its new operating 
+system, but Adobe refused. It focused on making its 
+Steve Jobs by Walter Isaacson 668
+products for Windows. Soon after, its founder, John 
+Warnock, retired. “The soul of Adobe disappeared 
+when Warnock left,” Jobs said. “He was the inventor, 
+the person I related to. It’s been a bunch of suits since 
+then, and the company has turned out crap.”
+When Adobe evangelists and various Flash 
+supporters in the blogosphere attacked Jobs for being 
+too controlling, he decided to write and post an open 
+letter. Bill Campbell, his friend and board member, 
+came by his house to go over it. “Does it sound like I’m 
+just trying to stick it to Adobe?” he asked Campbell. “No, 
+it’s facts, just put it out there,” the coach said. Most of the 
+letter focused on the technical drawbacks of Flash. But 
+despite Campbell’s coaching, Jobs couldn’t resist 
+venting at the end about the problematic history 
+between the two companies. “Adobe was the last major 
+third party developer to fully adopt Mac OS X,” he noted.
+Apple ended up lifting some of its restrictions on 
+cross-platform compilers later in the year, and Adobe 
+was able to come out with a Flash authoring tool that 
+took advantage of the key features of Apple’s iOS. It 
+was a bitter war, but one in which Jobs had the better 
+argument. In the end it pushed Adobe and other 
+developers of compilers to make better use of the 
+iPhone and iPad interface and its special features.
+Jobs had a tougher time navigating the 
+controversies over Apple’s desire to keep tight control 
+over which apps could be downloaded onto the iPhone 
+and iPad. Guarding against apps that contained viruses 
+or violated the user’s privacy made sense; preventing 
+apps that took users to other websites to buy 
+subscriptions, rather than doing it through the iTunes 
+Store, at least had a business rationale. But Jobs and 
+his team went further: They decided to ban any app that 
+defamed people, might be politically explosive, or was 
+deemed by Apple’s censors to be pornographic.
+Steve Jobs by Walter Isaacson 669
+The problem of playing nanny became apparent 
+when Apple rejected an app featuring the animated 
+political cartoons of Mark Fiore, on the rationale that his 
+attacks on the Bush administration’s policy on torture 
+violated the restriction against defamation. Its decision 
+became public, and was subjected to ridicule, when 
+Fiore won the 2010 Pulitzer Prize for editorial 
+cartooning in April. Apple had to reverse itself, and Jobs 
+made a public apology. “We’re guilty of making 
+mistakes,” he said. “We’re doing the best we can, we’re 
+learning as fast as we can—but we thought this rule 
+made sense.”
+ It was more than a mistake. It raised the specter of 
+Apple’s controlling what apps we got to see and read, 
+at least if we wanted to use an iPad or iPhone. Jobs 
+seemed in danger of becoming the Orwellian Big 
+Brother he had gleefully destroyed in Apple’s “1984” 
+Macintosh ad. He took the issue seriously. One day he 
+called the New York Timescolumnist Tom Friedman to 
+discuss how to draw lines without looking like a censor. 
+He asked Friedman to head an advisory group to help 
+come up with guidelines, but the columnist’s publisher 
+said it would be a conflict of interest, and no such 
+committee was formed.
+The pornography ban also caused problems. “We 
+believe we have a moral responsibility to keep porn off 
+the iPhone,” Jobs declared in an email to a customer. 
+“Folks who want porn can buy an Android.”
+This prompted an email exchange with Ryan Tate, 
+the editor of the tech gossip site Valleywag. Sipping a 
+stinger cocktail one evening, Tate shot off an email to 
+Jobs decrying Apple’s heavy-handed control over 
+which apps passed muster. “If Dylan was 20 today, how 
+would he feel about your company?” Tate asked. 
+“Would he think the iPad had the faintest thing to do 
+with ‘revolution’? Revolutions are about freedom.”
+Steve Jobs by Walter Isaacson 670
+To Tate’s surprise, Jobs responded a few hours 
+later, after midnight. “Yep,” he said, “freedom from 
+programs that steal your private data. Freedom from 
+programs that trash your battery. Freedom from porn. 
+Yep, freedom. The times they are a changin’, and some 
+traditional PC folks feel like their world is slipping away. 
+It is.”
+In his reply, Tate offered some thoughts on Flash 
+and other topics, then returned to the censorship issue. 
+“And you know what? I don’t want ‘freedom from porn.’ 
+Porn is just fine! And I think my wife would agree.”
+“You might care more about porn when you have 
+kids,” replied Jobs. “It’s not about freedom, it’s about 
+Apple trying to do the right thing for its users.” At the end 
+he added a zinger: “By the way, what have you done 
+that’s so great? Do you create anything, or just criticize 
+others’ work and belittle their motivations?”
+Tate admitted to being impressed. “Rare is the 
+CEO who will spar one-on-one with customers and 
+bloggers like this,” he wrote. “Jobs deserves big credit 
+for breaking the mold of the typical American executive, 
+and not just because his company makes such hugely 
+superior products: Jobs not only built and then rebuilt 
+his company around some very strong opinions about 
+digital life, but he’s willing to defend them in public. 
+Vigorously. Bluntly. At two in the morning on a 
+weekend.” Many in the blogosphere agreed, and they 
+sent Jobs emails praising his feistiness. Jobs was 
+proud as well; he forwarded his exchange with Tate 
+and some of the kudos to me.
+Still, there was something unnerving about 
+Apple’s decreeing that those who bought their products 
+shouldn’t look at controversial political cartoons or, for 
+that matter, porn. The humor site eSarcasm.com 
+launched a “Yes, Steve, I want porn” web campaign. 
+“We are dirty, sex-obsessed miscreants who need 
+Steve Jobs by Walter Isaacson 671
+access to smut 24 hours a day,” the site declared. 
+“Either that, or we just enjoy the idea of an uncensored, 
+open society where a techno-dictator doesn’t decide 
+what we can and cannot see.”
+At the time Jobs and Apple were engaged in a 
+battle with Valleywag’s affiliated website, Gizmodo, 
+which had gotten hold of a test version of the 
+unreleased iPhone 4 that a hapless Apple engineer 
+had left in a bar. When the police, responding to 
+Apple’s complaint, raided the house of the reporter, it 
+raised the question of whether control freakiness had 
+combined with arrogance.
+Jon Stewart was a friend of Jobs and an Apple fan. 
+Jobs had visited him privately in February when he took 
+his trip to New York to meet with media executives. But 
+that didn’t stop Stewart from going after him on The 
+Daily Show.“It wasn’t supposed to be this way! 
+Microsoft was supposed to be the evil one!” Stewart 
+said, only half-jokingly. Behind him, the word 
+“appholes” appeared on the screen. “You guys were 
+the rebels, man, the underdogs. But now, are you 
+becoming The Man? Remember back in 1984, you had 
+those awesome ads about overthrowing Big Brother? 
+Look in the mirror, man!”
+By late spring the issue was being discussed 
+among board members. “There is an arrogance,” Art 
+Levinson told me over lunch just after he had raised it at 
+a meeting. “It ties into Steve’s personality. He can react 
+viscerally and lay out his convictions in a forceful 
+manner.” Such arrogance was fine when Apple was the 
+feisty underdog. But now Apple was dominant in the 
+mobile market. “We need to make the transition to being 
+a big company and dealing with the hubris issue,” said 
+Levinson. Al Gore also talked about the problem at 
+board meetings. “The context for Apple is changing 
+dramatically,” he recounted. “It’s not hammer-thrower 
+Steve Jobs by Walter Isaacson 672
+against Big Brother. Now Apple’s big, and people see it 
+as arrogant.” Jobs became defensive when the topic 
+was raised. “He’s still adjusting to it,” said Gore. “He’s 
+better at being the underdog than being a humble 
+giant.”
+Jobs had little patience for such talk. The reason 
+Apple was being criticized, he told me then, was that 
+“companies like Google and Adobe are lying about us 
+and trying to tear us down.” What did he think of the 
+suggestion that Apple sometimes acted arrogantly? “I’m 
+not worried about that,” he said, “because we’re not 
+arrogant.”
+Antennagate: Design versus Engineering
+In many consumer product companies, there’s 
+tension between the designers, who want to make a 
+product look beautiful, and the engineers, who need to 
+make sure it fulfills its functional requirements. At Apple, 
+where Jobs pushed both design and engineering to the 
+edge, that tension was even greater.
+When he and design director Jony Ive became 
+creative coconspirators back in 1997, they tended to 
+view the qualms expressed by engineers as evidence 
+of a can’t-do attitude that needed to be overcome. Their 
+faith that awesome design could force superhuman 
+feats of engineering was reinforced by the success of 
+the iMac and iPod. When engineers said something 
+couldn’t be done, Ive and Jobs pushed them to try, and 
+usually they succeeded. There were occasional small 
+problems. The iPod Nano, for example, was prone to 
+getting scratched because Ive believed that a clear 
+coating would lessen the purity of his design. But that 
+was not a crisis.
+When it came to designing the iPhone, Ive’s 
+design desires bumped into a fundamental law of 
+physics that could not be changed even by a reality 
+distortion field. Metal is not a great material to put near 
+Steve Jobs by Walter Isaacson 673
+an antenna. As Michael Faraday showed, 
+electromagnetic waves flow around the surface of 
+metal, not through it. So a metal enclosure around a 
+phone can create what is known as a Faraday cage, 
+diminishing the signals that get in or out. The original 
+iPhone started with a plastic band at the bottom, but Ive 
+thought that would wreck the design integrity and asked 
+that there be an aluminum rim all around. After that 
+ended up working out, Ive designed the iPhone 4 with a 
+steel rim. The steel would be the structural support, look 
+really sleek, and serve as part of the phone’s antenna.
+There were significant challenges. In order to 
+serve as an antenna, the steel rim had to have a tiny 
+gap. But if a person covered that gap with a finger or 
+sweaty palm, there could be some signal loss. The 
+engineers suggested a clear coating over the metal to 
+help prevent this, but again Ive felt that this would 
+detract from the brushed-metal look. The issue was 
+presented to Jobs at various meetings, but he thought 
+the engineers were crying wolf. You can make this 
+work, he said. And so they did.
+And it worked, almost perfectly. But not totally 
+perfectly. When the iPhone 4 was released in June 
+2010, it looked awesome, but a problem soon became 
+evident: If you held the phone a certain way, especially 
+using your left hand so your palm covered the tiny gap, 
+you could lose your connection. It occurred with 
+perhaps one in a hundred calls. Because Jobs insisted 
+on keeping his unreleased products secret (even the 
+phone that Gizmodo scored in a bar had a fake case 
+around it), the iPhone 4 did not go through the live 
+testing that most electronic devices get. So the flaw was 
+not caught before the massive rush to buy it began. 
+“The question is whether the twin policies of putting 
+design in front of engineering and having a policy of 
+supersecrecy surrounding unreleased products helped 
+Steve Jobs by Walter Isaacson 674
+Apple,” Tony Fadell said later. “On the whole, yes, but 
+unchecked power is a bad thing, and that’s what 
+happened.”
+Had it not been the Apple iPhone 4, a product that 
+had everyone transfixed, the issue of a few extra 
+dropped calls would not have made news. But it 
+became known as “Antennagate,” and it boiled to a 
+head in early July, when Consumer Reportsdid some 
+rigorous tests and said that it could not recommend the 
+iPhone 4 because of the antenna problem.
+Jobs was in Kona Village, Hawaii, with his family 
+when the issue arose. At first he was defensive. Art 
+Levinson was in constant contact by phone, and Jobs 
+insisted that the problem stemmed from Google and 
+Motorola making mischief. “They want to shoot Apple 
+down,” he said.
+Levinson urged a little humility. “Let’s try to figure 
+out if there’s something wrong,” he said. When he again 
+mentioned the perception that Apple was arrogant, 
+Jobs didn’t like it. It went against his black-white, rightwrong way of viewing the world. Apple was a company 
+of principle, he felt. If others failed to see that, it was 
+their fault, not a reason for Apple to play humble.
+Jobs’s second reaction was to be hurt. He took the 
+criticism personally and became emotionally 
+anguished. “At his core, he doesn’t do things that he 
+thinks are blatantly wrong, like some pure pragmatists 
+in our business,” Levinson said. “So if he feels he’s 
+right, he will just charge ahead rather than question 
+himself.” Levinson urged him not to get depressed. But 
+Jobs did. “Fuck this, it’s not worth it,” he told Levinson. 
+Finally Tim Cook was able to shake him out of his 
+lethargy. He quoted someone as saying that Apple was 
+becoming the new Microsoft, complacent and arrogant. 
+The next day Jobs changed his attitude. “Let’s get to the 
+bottom of this,” he said.
+Steve Jobs by Walter Isaacson 675
+When the data about dropped calls were 
+assembled from AT&T, Jobs realized there was a 
+problem, even if it was more minor than people were 
+making it seem. So he flew back from Hawaii. But 
+before he left, he made some phone calls. It was time to 
+gather a couple of trusted old hands, wise men who 
+had been with him during the original Macintosh days 
+thirty years earlier.
+His first call was to Regis McKenna, the public 
+relations guru. “I’m coming back from Hawaii to deal 
+with this antenna thing, and I need to bounce some stuff 
+off of you,” Jobs told him. They agreed to meet at the 
+Cupertino boardroom at 1:30 the next afternoon. The 
+second call was to the adman Lee Clow. He had tried to 
+retire from the Apple account, but Jobs liked having him 
+around. His colleague James Vincent was summoned 
+as well.
+Jobs also decided to bring his son Reed, then a 
+high school senior, back with him from Hawaii. “I’m 
+going to be in meetings 24/7 for probably two days and 
+I want you to be in every single one because you’ll 
+learn more in those two days than you would in two 
+years at business school,” he told him. “You’re going to 
+be in the room with the best people in the world making 
+really tough decisions and get to see how the sausage 
+is made.” Jobs got a little misty-eyed when he recalled 
+the experience. “I would go through that all again just 
+for that opportunity to have him see me at work,” he 
+said. “He got to see what his dad does.”
+They were joined by Katie Cotton, the steady 
+public relations chief at Apple, and seven other top 
+executives. The meeting lasted all afternoon. “It was 
+one of the greatest meetings of my life,” Jobs later said. 
+He began by laying out all the data they had gathered. 
+“Here are the facts. So what should we do about it?”
+McKenna was the most calm and straightforward. 
+Steve Jobs by Walter Isaacson 676
+“Just lay out the truth, the data,” he said. “Don’t appear 
+arrogant, but appear firm and confident.” Others, 
+including Vincent, pushed Jobs to be more apologetic, 
+but McKenna said no. “Don’t go into the press 
+conference with your tail between your legs,” he 
+advised. “You should just say: ‘Phones aren’t perfect, 
+and we’re not perfect. We’re human and doing the best 
+we can, and here’s the data.’” That became the 
+strategy. When the topic turned to the perception of 
+arrogance, McKenna urged him not to worry too much. 
+“I don’t think it would work to try to make Steve look 
+humble,” McKenna explained later. “As Steve says 
+about himself, ‘What you see is what you get.’”
+At the press event that Friday, held in Apple’s 
+auditorium, Jobs followed McKenna’s advice. He did 
+not grovel or apologize, yet he was able to defuse the 
+problem by showing that Apple understood it and would 
+try to make it right. Then he changed the framework of 
+the discussion, saying that all cell phones had some 
+problems. Later he told me that he had sounded a bit 
+“too annoyed” at the event, but in fact he was able to 
+strike a tone that was unemotional and straightforward. 
+He captured it in four short, declarative sentences: 
+“We’re not perfect. Phones are not perfect. We all know 
+that. But we want to make our users happy.”
+If anyone was unhappy, he said, they could return 
+the phone (the return rate turned out to be 1.7%, less 
+than a third of the return rate for the iPhone 3GS or most 
+other phones) or get a free bumper case from Apple. He 
+went on to report data showing that other mobile 
+phones had similar problems. That was not totally true. 
+Apple’s antenna design made it slightly worse than 
+most other phones, including earlier versions of the 
+iPhone. But it was true that the media frenzy over the 
+iPhone 4’s dropped calls was overblown. “This is blown 
+so out of proportion that it’s incredible,” he said. Instead 
+Steve Jobs by Walter Isaacson 677
+of being appalled that he didn’t grovel or order a recall, 
+most customers realized that he was right.
+The wait list for the phone, which was already sold 
+out, went from two weeks to three. It remained the 
+company’s fastest-selling product ever. The media 
+debate shifted to the issue of whether Jobs was right to 
+assert that other smartphones had the same antenna 
+problems. Even if the answer was no, that was a better 
+story to face than one about whether the iPhone 4 was 
+a defective dud.
+Some media observers were incredulous. “In a 
+bravura demonstration of stonewalling, righteousness, 
+and hurt sincerity, Steve Jobs successfully took to the 
+stage the other day to deny the problem, dismiss the 
+criticism, and spread the blame among other 
+smartphone makers,” Michael Wolff of newser.com 
+wrote. “This is a level of modern marketing, corporate 
+spin, and crisis management about which you can only 
+ask with stupefied incredulity and awe: How do they get 
+away with it? Or, more accurately, how does he get 
+away with it?” Wolff attributed it to Jobs’s mesmerizing 
+effect as “the last charismatic individual.” Other CEOs 
+would be offering abject apologies and swallowing 
+massive recalls, but Jobs didn’t have to. “The grim, 
+skeletal appearance, the absolutism, the ecclesiastical 
+bearing, the sense of his relationship with the sacred, 
+really works, and, in this instance, allows him the 
+privilege of magisterially deciding what is meaningful 
+and what is trivial.”
+ Scott Adams, the creator of the cartoon strip 
+Dilbert, was also incredulous, but far more admiring. He 
+wrote a blog entry a few days later (which Jobs proudly 
+emailed around) that marveled at how Jobs’s “high 
+ground maneuver” was destined to be studied as a new 
+public relations standard. “Apple’s response to the 
+iPhone 4 problem didn’t follow the public relations 
+Steve Jobs by Walter Isaacson 678
+playbook, because Jobs decided to rewrite the 
+playbook,” Adams wrote. “If you want to know what 
+genius looks like, study Jobs’ words.” By proclaiming up 
+front that phones are not perfect, Jobs changed the 
+context of the argument with an indisputable assertion. 
+“If Jobs had not changed the context from the iPhone 4 
+to all smartphones in general, I could make you a 
+hilarious comic strip about a product so poorly made 
+that it won’t work if it comes in contact with a human 
+hand. But as soon as the context is changed to ‘all 
+smartphones have problems,’ the humor opportunity is 
+gone. Nothing kills humor like a general and boring 
+truth.”
+Here Comes the Sun
+There were a few things that needed to be 
+resolved for the career of Steve Jobs to be complete. 
+Among them was an end to the Thirty Years’ War with 
+the band he loved, the Beatles. In 2007 Apple had 
+settled its trademark battle with Apple Corps, the 
+holding company of the Beatles, which had first sued 
+the fledgling computer company over use of the name 
+in 1978. But that still did not get the Beatles into the 
+iTunes Store. The band was the last major holdout, 
+primarily because it had not resolved with EMI music, 
+which owned most of its songs, how to handle the 
+digital rights.
+By the summer of 2010 the Beatles and EMI had 
+sorted things out, and a four-person summit was held in 
+the boardroom in Cupertino. Jobs and his vice 
+president for the iTunes Store, Eddy Cue, played host to 
+Jeff Jones, who managed the Beatles’ interests, and 
+Roger Faxon, the chief of EMI music. Now that the 
+Beatles were ready to go digital, what could Apple offer 
+to make that milestone special? Jobs had been 
+anticipating this day for a long time. In fact he and his 
+advertising team, Lee Clow and James Vincent, had 
+Steve Jobs by Walter Isaacson 679
+mocked up some ads and commercials three years 
+earlier when strategizing on how to lure the Beatles on 
+board.
+“Steve and I thought about all the things that we 
+could possibly do,” Cue recalled. That included taking 
+over the front page of the iTunes Store, buying 
+billboards featuring the best photographs of the band, 
+and running a series of television ads in classic Apple 
+style. The topper was offering a $149 box set that 
+included all thirteen Beatles studio albums, the twovolume “Past Masters” collection, and a nostalgiainducing video of the 1964 Washington Coliseum 
+concert.
+Once they reached an agreement in principle, 
+Jobs personally helped choose the photographs for the 
+ads. Each commercial ended with a still black-andwhite shot of Paul McCartney and John Lennon, young 
+and smiling, in a recording studio looking down at a 
+piece of music. It evoked the old photographs of Jobs 
+and Wozniak looking at an Apple circuit board. “Getting 
+the Beatles on iTunes was the culmination of why we 
+got into the music business,” said Cue.

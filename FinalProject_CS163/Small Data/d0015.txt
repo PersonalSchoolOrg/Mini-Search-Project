@@ -1,0 +1,689 @@
+DESIGN PRINCIPLES
+The Studio of Jobs and Ive
+With Jony Ive and the sunflower iMac, 2002
+Jony Ive
+When Jobs gathered his top management for a 
+pep talk just after he became iCEO in September 1997, 
+sitting in the audience was a sensitive and passionate 
+thirty-year-old Brit who was head of the company’s 
+design team. Jonathan Ive, known to all as Jony, was 
+planning to quit. He was sick of the company’s focus on 
+profit maximization rather than product design. Jobs’s 
+talk led him to reconsider. “I remember very clearly 
+Steve announcing that our goal is not just to make 
+money but to make great products,” Ive recalled. “The 
+decisions you make based on that philosophy are 
+fundamentally different from the ones we had been 
+making at Apple.” Ive and Jobs would soon forge a 
+bond that would lead to the greatest industrial design 
+collaboration of their era.
+Ive grew up in Chingford, a town on the northeast 
+edge of London. His father was a silversmith who 
+taught at the local college. “He’s a fantastic craftsman,” 
+Ive recalled. “His Christmas gift to me would be one day 
+of his time in his college workshop, during the 
+Christmas break when no one else was there, helping 
+me make whatever I dreamed up.” The only condition 
+was that Jony had to draw by hand what they planned 
+to make. “I always understood the beauty of things 
+made by hand. I came to realize that what was really 
+important was the care that was put into it. What I really 
+Steve Jobs by Walter Isaacson 447
+despise is when I sense some carelessness in a 
+product.”
+Ive enrolled in Newcastle Polytechnic and spent 
+his spare time and summers working at a design 
+consultancy. One of his creations was a pen with a little 
+ball on top that was fun to fiddle with. It helped give the 
+owner a playful emotional connection to the pen. For 
+his thesis he designed a microphone and earpiece—in 
+purest white plastic—to communicate with hearingimpaired kids. His flat was filled with foam models he 
+had made to help him perfect the design. He also 
+designed an ATM machine and a curved phone, both of 
+which won awards from the Royal Society of Arts. 
+Unlike some designers, he didn’t just make beautiful 
+sketches; he also focused on how the engineering and 
+inner components would work. He had an epiphany in 
+college when he was able to design on a Macintosh. “I 
+discovered the Mac and felt I had a connection with the 
+people who were making this product,” he recalled. “I 
+suddenly understood what a company was, or was 
+supposed to be.”
+After graduation Ive helped to build a design firm 
+in London, Tangerine, which got a consulting contract 
+with Apple. In 1992 he moved to Cupertino to take a job 
+in the Apple design department. He became the head 
+of the department in 1996, the year before Jobs 
+returned, but wasn’t happy. Amelio had little 
+appreciation for design. “There wasn’t that feeling of 
+putting care into a product, because we were trying to 
+maximize the money we made,” Ive said. “All they 
+wanted from us designers was a model of what 
+something was supposed to look like on the outside, 
+and then engineers would make it as cheap as 
+possible. I was about to quit.”
+When Jobs took over and gave his pep talk, Ive 
+decided to stick around. But Jobs at first looked around 
+Steve Jobs by Walter Isaacson 448
+for a world-class designer from the outside. He talked to 
+Richard Sapper, who designed the IBM ThinkPad, and 
+Giorgetto Giugiaro, who designed the Ferrari 250 and 
+the Maserati Ghibli. But then he took a tour of Apple’s 
+design studio and bonded with the affable, eager, and 
+very earnest Ive. “We discussed approaches to forms 
+and materials,” Ive recalled. “We were on the same 
+wavelength. I suddenly understood why I loved the 
+company.”
+Ive reported, at least initially, to Jon Rubinstein, 
+whom Jobs had brought in to head the hardware 
+division, but he developed a direct and unusually 
+strong relationship with Jobs. They began to have lunch 
+together regularly, and Jobs would end his day by 
+dropping by Ive’s design studio for a chat. “Jony had a 
+special status,” said Laurene Powell. “He would come 
+by our house, and our families became close. Steve is 
+never intentionally wounding to him. Most people in 
+Steve’s life are replaceable. But not Jony.”
+Jobs described to me his respect for Ive:
+The difference that Jony has made, not only at 
+Apple but in the world, is huge. He is a wickedly 
+intelligent person in all ways. He understands business 
+concepts, marketing concepts. He picks stuff up just like 
+that, click. He understands what we do at our core 
+better than anyone. If I had a spiritual partner at Apple, 
+it’s Jony. Jony and I think up most of the products 
+together and then pull others in and say, “Hey, what do 
+you think about this?” He gets the big picture as well as 
+the most infinitesimal details about each product. And 
+he understands that Apple is a product company. He’s 
+not just a designer. That’s why he works directly for me. 
+He has more operational power than anyone else at 
+Apple except me. There’s no one who can tell him what 
+to do, or to butt out. That’s the way I set it up.
+    Like most designers, Ive enjoyed analyzing the 
+Steve Jobs by Walter Isaacson 449
+philosophy and the step-by-step thinking that went into 
+a particular design. For Jobs, the process was more 
+intuitive. He would point to models and sketches he 
+liked and dump on the ones he didn’t. Ive would then 
+take the cues and develop the concepts Jobs blessed.
+Ive was a fan of the German industrial designer 
+Dieter Rams, who worked for the electronics firm Braun. 
+Rams preached the gospel of “Less but better,” 
+Weniger aber besser, and likewise Jobs and Ive 
+wrestled with each new design to see how much they 
+could simplify it. Ever since Apple’s first brochure 
+proclaimed “Simplicity is the ultimate sophistication,” 
+Jobs had aimed for the simplicity that comes from 
+conquering complexities, not ignoring them. “It takes a 
+lot of hard work,” he said, “to make something simple, to 
+truly understand the underlying challenges and come 
+up with elegant solutions.”
+In Ive, Jobs met his soul mate in the quest for true 
+rather than surface simplicity. Sitting in his design 
+studio, Ive described his philosophy:
+Why do we assume that simple is good? Because 
+with physical products, we have to feel we can 
+dominate them. As you bring order to complexity, you 
+find a way to make the product defer to you. Simplicity 
+isn’t just a visual style. It’s not just minimalism or the 
+absence of clutter. It involves digging through the depth 
+of the complexity. To be truly simple, you have to go 
+really deep. For example, to have no screws on 
+something, you can end up having a product that is so 
+convoluted and so complex. The better way is to go 
+deeper with the simplicity, to understand everything 
+about it and how it’s manufactured. You have to deeply 
+understand the essence of a product in order to be able 
+to get rid of the parts that are not essential.
+    That was the fundamental principle Jobs and Ive 
+shared. Design was not just about what a product 
+Steve Jobs by Walter Isaacson 450
+looked like on the surface. It had to reflect the product’s 
+essence. “In most people’s vocabularies, design means 
+veneer,” Jobs told Fortuneshortly after retaking the 
+reins at Apple. “But to me, nothing could be further from 
+the meaning of design. Design is the fundamental soul 
+of a man-made creation that ends up expressing itself 
+in successive outer layers.”
+As a result, the process of designing a product at 
+Apple was integrally related to how it would be 
+engineered and manufactured. Ive described one of 
+Apple’s Power Macs. “We wanted to get rid of anything 
+other than what was absolutely essential,” he said. “To 
+do so required total collaboration between the 
+designers, the product developers, the engineers, and 
+the manufacturing team. We kept going back to the 
+beginning, again and again. Do we need that part? Can 
+we get it to perform the function of the other four parts?”
+The connection between the design of a product, 
+its essence, and its manufacturing was illustrated for 
+Jobs and Ive when they were traveling in France and 
+went into a kitchen supply store. Ive picked up a knife 
+he admired, but then put it down in disappointment. 
+Jobs did the same. “We both noticed a tiny bit of glue 
+between the handle and the blade,” Ive recalled. They 
+talked about how the knife’s good design had been 
+ruined by the way it was manufactured. “We don’t like to 
+think of our knives as being glued together,” Ive said. 
+“Steve and I care about things like that, which ruin the 
+purity and detract from the essence of something like a 
+utensil, and we think alike about how products should 
+be made to look pure and seamless.”
+At most other companies, engineering tends to 
+drive design. The engineers set forth their specifications 
+and requirements, and the designers then come up with 
+cases and shells that will accommodate them. For Jobs, 
+the process tended to work the other way. In the early 
+Steve Jobs by Walter Isaacson 451
+days of Apple, Jobs had approved the design of the 
+case of the original Macintosh, and the engineers had 
+to make their boards and components fit.
+After he was forced out, the process at Apple 
+reverted to being engineer-driven. “Before Steve came 
+back, engineers would say ‘Here are the guts’—
+processor, hard drive—and then it would go to the 
+designers to put it in a box,” said Apple’s marketing 
+chief Phil Schiller. “When you do it that way, you come 
+up with awful products.” But when Jobs returned and 
+forged his bond with Ive, the balance was again tilted 
+toward the designers. “Steve kept impressing on us that 
+the design was integral to what would make us great,” 
+said Schiller. “Design once again dictated the 
+engineering, not just vice versa.”
+On occasion this could backfire, such as when 
+Jobs and Ive insisted on using a solid piece of brushed 
+aluminum for the edge of the iPhone 4 even when the 
+engineers worried that it would compromise the 
+antenna. But usually the distinctiveness of its designs—
+for the iMac, the iPod, the iPhone, and the iPad—would 
+set Apple apart and lead to its triumphs in the years 
+after Jobs returned.
+Inside the Studio
+The design studio where Jony Ive reigns, on the 
+ground floor of Two Infinite Loop on the Apple campus, 
+is shielded by tinted windows and a heavy clad, locked 
+door. Just inside is a glass-booth reception desk where 
+two assistants guard access. Even high-level Apple 
+employees are not allowed in without special 
+permission. Most of my interviews with Jony Ive for this 
+book were held elsewhere, but one day in 2010 he 
+arranged for me to spend an afternoon touring the 
+studio and talking about how he and Jobs collaborate 
+there.
+To the left of the entrance is a bullpen of desks 
+Steve Jobs by Walter Isaacson 452
+with young designers; to the right is the cavernous main 
+room with six long steel tables for displaying and 
+playing with works in progress. Beyond the main room 
+is a computer-aided design studio, filled with 
+workstations, that leads to a room with molding 
+machines to turn what’s on the screens into foam 
+models. Beyond that is a robot-controlled spraypainting chamber to make the models look real. The 
+look is sparse and industrial, with metallic gray décor. 
+Leaves from the trees outside cast moving patterns of 
+light and shadows on the tinted windows. Techno and 
+jazz play in the background.
+Almost every day when Jobs was healthy and in 
+the office, he would have lunch with Ive and then 
+wander by the studio in the afternoon. As he entered, 
+he could survey the tables and see the products in the 
+pipeline, sense how they fit into Apple’s strategy, and 
+inspect with his fingertips the evolving design of each. 
+Usually it was just the two of them alone, while the other 
+designers glanced up from their work but kept a 
+respectful distance. If Jobs had a specific issue, he 
+might call over the head of mechanical design or 
+another of Ive’s deputies. If something excited him or 
+sparked some thoughts about corporate strategy, he 
+might ask the chief operating officer Tim Cook or the 
+marketing head Phil Schiller to come over and join 
+them. Ive described the usual process:
+This great room is the one place in the company 
+where you can look around and see everything we 
+have in the works. When Steve comes in, he will sit at 
+one of these tables. If we’re working on a new iPhone, 
+for example, he might grab a stool and start playing with 
+different models and feeling them in his hands, 
+remarking on which ones he likes best. Then he will 
+graze by the other tables, just him and me, to see where 
+all the other products are heading. He can get a sense 
+Steve Jobs by Walter Isaacson 453
+of the sweep of the whole company, the iPhone and 
+iPad, the iMac and laptop and everything we’re 
+considering. That helps him see where the company is 
+spending its energy and how things connect. And he 
+can ask, “Does doing this make sense, because over 
+here is where we are growing a lot?” or questions like 
+that. He gets to see things in relationship to each other, 
+which is pretty hard to do in a big company. Looking at 
+the models on these tables, he can see the future for 
+the next three years.
+Much of the design process is a conversation, a 
+back-and-forth as we walk around the tables and play 
+with the models. He doesn’t like to read complex 
+drawings. He wants to see and feel a model. He’s right. 
+I get surprised when we make a model and then realize 
+it’s rubbish, even though based on the CAD [computeraided design] renderings it looked great.
+He loves coming in here because it’s calm and 
+gentle. It’s a paradise if you’re a visual person. There 
+are no formal design reviews, so there are no huge 
+decision points. Instead, we can make the decisions 
+fluid. Since we iterate every day and never have dumbass presentations, we don’t run into major 
+disagreements.
+  On this day Ive was overseeing the creation of a 
+new European power plug and connector for the 
+Macintosh. Dozens of foam models, each with the 
+tiniest variation, have been cast and painted for 
+inspection. Some would find it odd that the head of 
+design would fret over something like this, but Jobs got 
+involved as well. Ever since he had a special power 
+supply made for the Apple II, Jobs has cared about not 
+only the engineering but also the design of such parts. 
+His name is listed on the patent for the white power 
+brick used by the MacBook as well as its magnetic 
+connector with its satisfying click. In fact he is listed as 
+Steve Jobs by Walter Isaacson 454
+one of the inventors for 212 different Apple patents in 
+the United States as of the beginning of 2011.
+Ive and Jobs have even obsessed over, and 
+patented, the packaging for various Apple products. 
+U.S. patent D558572, for example, granted on January 
+1, 2008, is for the iPod Nano box, with four drawings 
+showing how the device is nestled in a cradle when the 
+box is opened. Patent D596485, issued on July 21, 
+2009, is for the iPhone packaging, with its sturdy lid and 
+little glossy plastic tray inside.
+Early on, Mike Markkula had taught Jobs to 
+“impute”—to understand that people dojudge a book 
+by its cover—and therefore to make sure all the 
+trappings and packaging of Apple signaled that there 
+was a beautiful gem inside. Whether it’s an iPod Mini or 
+a MacBook Pro, Apple customers know the feeling of 
+opening up the well-crafted box and finding the product 
+nestled in an inviting fashion. “Steve and I spend a lot of 
+time on the packaging,” said Ive. “I love the process of 
+unpacking something. You design a ritual of unpacking 
+to make the product feel special. Packaging can be 
+theater, it can create a story.”
+Ive, who has the sensitive temperament of an 
+artist, at times got upset with Jobs for taking too much 
+credit, a habit that has bothered other colleagues over 
+the years. His personal feelings for Jobs were so 
+intense that at times he got easily bruised. “He will go 
+through a process of looking at my ideas and say, 
+‘That’s no good. That’s not very good. I like that one,’” 
+Ive said. “And later I will be sitting in the audience and 
+he will be talking about it as if it was his idea. I pay 
+maniacal attention to where an idea comes from, and I 
+even keep notebooks filled with my ideas. So it hurts 
+when he takes credit for one of my designs.” Ive also 
+has bristled when outsiders portrayed Jobs as the only 
+ideas guy at Apple. “That makes us vulnerable as a 
+Steve Jobs by Walter Isaacson 455
+company,” Ive said earnestly, his voice soft. But then he 
+paused to recognize the role Jobs in fact played. “In so 
+many other companies, ideas and great design get lost 
+in the process,” he said. “The ideas that come from me 
+and my team would have been completely irrelevant, 
+nowhere, if Steve hadn’t been here to push us, work 
+with us, and drive through all the resistance to turn our 
+ideas into products.
+
+THE iMAC
+Hello (Again)
+Back to the Future
+ The first great design triumph to come from the 
+Jobs-Ive collaboration was the iMac, a desktop 
+computer aimed at the home consumer market that was 
+introduced in May 1998. Jobs had certain 
+specifications. It should be an all-in-one product, with 
+keyboard and monitor and computer ready to use right 
+out of the box. It should have a distinctive design that 
+made a brand statement. And it should sell for $1,200 
+or so. (Apple had no computer selling for less than 
+$2,000 at the time.) “He told us to go back to the roots of 
+the original 1984 Macintosh, an all-in-one consumer 
+appliance,” recalled Schiller. “That meant design and 
+engineering had to work together.”
+The initial plan was to build a “network computer,” 
+Steve Jobs by Walter Isaacson 458
+a concept championed by Oracle’s Larry Ellison, which 
+was an inexpensive terminal without a hard drive that 
+would mainly be used to connect to the Internet and 
+other networks. But Apple’s chief financial officer Fred 
+Anderson led the push to make the product more robust 
+by adding a disk drive so it could become a full-fledged 
+desktop computer for the home. Jobs eventually 
+agreed.
+Jon Rubinstein, who was in charge of hardware, 
+adapted the microprocessor and guts of the PowerMac 
+G3, Apple’s high-end professional computer, for use in 
+the proposed new machine. It would have a hard drive 
+and a tray for compact disks, but in a rather bold move, 
+Jobs and Rubinstein decided not to include the usual 
+floppy disk drive. Jobs quoted the hockey star Wayne 
+Gretzky’s maxim, “Skate where the puck’s going, not 
+where it’s been.” He was a bit ahead of his time, but 
+eventually most computers eliminated floppy disks.
+Ive and his top deputy, Danny Coster, began to 
+sketch out futuristic designs. Jobs brusquely rejected 
+the dozen foam models they initially produced, but Ive 
+knew how to guide him gently. Ive agreed that none of 
+them was quite right, but he pointed out one that had 
+promise. It was curved, playful looking, and did not 
+seem like an unmovable slab rooted to the table. “It has 
+a sense that it’s just arrived on your desktop or it’s just 
+about to hop off and go somewhere,” he told Jobs.
+By the next showing Ive had refined the playful 
+model. This time Jobs, with his binary view of the world, 
+raved that he loved it. He took the foam prototype and 
+began carrying it around the headquarters with him, 
+showing it in confidence to trusted lieutenants and 
+board members. In its ads Apple was celebrating the 
+glories of being able to think different, yet until now 
+nothing had been proposed that was much different 
+from existing computers. Finally, Jobs had something 
+Steve Jobs by Walter Isaacson 459
+new.
+The plastic casing that Ive and Coster proposed 
+was sea-green blue, later named bondi blue after the 
+color of the water at a beach in Australia, and it was 
+translucent so that you could see through to the inside 
+of the machine. “We were trying to convey a sense of 
+the computer being changeable based on your needs, 
+to be like a chameleon,” said Ive. “That’s why we liked 
+the translucency. You could have color but it felt so 
+unstatic. And it came across as cheeky.”
+Both metaphorically and in reality, the 
+translucency connected the inner engineering of the 
+computer to the outer design. Jobs had always insisted 
+that the rows of chips on the circuit boards look neat, 
+even though they would never be seen. Now they 
+would be seen. The casing would make visible the care 
+that had gone into making all components of the 
+computer and fitting them together. The playful design 
+would convey simplicity while also revealing the depths 
+that true simplicity entails.
+Even the simplicity of the plastic shell itself 
+involved great complexity. Ive and his team worked with 
+Apple’s Korean manufacturers to perfect the process of 
+making the cases, and they even went to a jelly bean 
+factory to study how to make translucent colors look 
+enticing. The cost of each case was more than $60 per 
+unit, three times that of a regular computer case. Other 
+companies would probably have demanded 
+presentations and studies to show whether the 
+translucent case would increase sales enough to justify 
+the extra cost. Jobs asked for no such analysis.
+Topping off the design was the handle nestled into 
+the iMac. It was more playful and semiotic than it was 
+functional. This was a desktop computer; not many 
+people were really going to carry it around. But as Ive 
+later explained:
+Steve Jobs by Walter Isaacson 460
+Back then, people weren’t comfortable with 
+technology. If you’re scared of something, then you 
+won’t touch it. I could see my mum being scared to 
+touch it. So I thought, if there’s this handle on it, it makes 
+a relationship possible. It’s approachable. It’s intuitive. It 
+gives you permission to touch. It gives a sense of its 
+deference to you. Unfortunately, manufacturing a 
+recessed handle costs a lot of money. At the old Apple, I 
+would have lost the argument. What was really great 
+about Steve is that he saw it and said, “That’s cool!” I 
+didn’t explain all the thinking, but he intuitively got it. He 
+just knew that it was part of the iMac’s friendliness and 
+playfulness.
+  Jobs had to fend off the objections of the 
+manufacturing engineers, supported by Rubinstein, 
+who tended to raise practical cost considerations when 
+faced with Ive’s aesthetic desires and various design 
+whims. “When we took it to the engineers,” Jobs said, 
+“they came up with thirty-eight reasons they couldn’t do 
+it. And I said, ‘No, no, we’re doing this.’ And they said, 
+‘Well, why?’ And I said, ‘Because I’m the CEO, and I 
+think it can be done.’ And so they kind of grudgingly did 
+it.”
+Jobs asked Lee Clow and Ken Segall and others 
+from the TBWAad team to fly up to see what he had in 
+the works. He brought them into the guarded design 
+studio and dramatically unveiled Ive’s translucent 
+teardrop-shaped design, which looked like something 
+from The Jetsons, the animated TV show set in the 
+future. For a moment they were taken aback. “We were 
+pretty shocked, but we couldn’t be frank,” Segall 
+recalled. “We were really thinking, ‘Jesus, do they know 
+what they are doing?’ It was so radical.” Jobs asked 
+them to suggest names. Segall came back with five 
+options, one of them “iMac.” Jobs didn’t like any of them 
+at first, so Segall came up with another list a week later, 
+Steve Jobs by Walter Isaacson 461
+but he said that the agency still preferred “iMac.” Jobs 
+replied, “I don’t hate it this week, but I still don’t like it.” 
+He tried silk-screening it on some of the prototypes, and 
+the name grew on him. And thus it became the iMac.
+As the deadline for completing the iMac drew 
+near, Jobs’s legendary temper reappeared in force, 
+especially when he was confronting manufacturing 
+issues. At one product review meeting, he learned that 
+the process was going slowly. “He did one of his 
+displays of awesome fury, and the fury was absolutely 
+pure,” recalled Ive. He went around the table assailing 
+everyone, starting with Rubinstein. “You know we’re 
+trying to save the company here,” he shouted, “and you 
+guys are screwing it up!”
+Like the original Macintosh team, the iMac crew 
+staggered to completion just in time for the big 
+announcement. But not before Jobs had one last 
+explosion. When it came time to rehearse for the launch 
+presentation, Rubinstein cobbled together two working 
+prototypes. Jobs had not seen the final product before, 
+and when he looked at it onstage he saw a button on 
+the front, under the display. He pushed it and the CD 
+tray opened. “What the fuck is this?!?” he asked, though 
+not as politely. “None of us said anything,” Schiller 
+recalled, “because he obviously knew what a CD tray 
+was.” So Jobs continued to rail. It was supposed to 
+have a clean CD slot, he insisted, referring to the 
+elegant slot drives that were already to be found in 
+upscale cars. “Steve, this is exactly the drive I showed 
+you when we talked about the components,” Rubinstein 
+explained. “No, there was never a tray, just a slot,” Jobs 
+insisted. Rubinstein didn’t back down. Jobs’s fury didn’t 
+abate. “I almost started crying, because it was too late to 
+do anything about it,” Jobs later recalled.
+They suspended the rehearsal, and for a while it 
+seemed as if Jobs might cancel the entire product 
+Steve Jobs by Walter Isaacson 462
+launch. “Ruby looked at me as if to say, ‘Am I crazy?’” 
+Schiller recalled. “It was my first product launch with 
+Steve and the first time I saw his mind-set of ‘If it’s not 
+right we’re not launching it.’” Finally, they agreed to 
+replace the tray with a slot drive for the next version of 
+the iMac. “I’m only going to go ahead with the launch if 
+you promise we’re going to go to slot mode as soon as 
+possible,” Jobs said tearfully.
+There was also a problem with the video he 
+planned to show. In it, Jony Ive is shown describing his 
+design thinking and asking, “What computer would the 
+Jetsons have had? It was like, the future yesterday.” At 
+that moment there was a two-second snippet from the 
+cartoon show, showing Jane Jetson looking at a video 
+screen, followed by another two-second clip of the 
+Jetsons giggling by a Christmas tree. At a rehearsal a 
+production assistant told Jobs they would have to 
+remove the clips because Hanna-Barbera had not 
+given permission to use them. “Keep it in,” Jobs barked 
+at him. The assistant explained that there were rules 
+against that. “I don’t care,” Jobs said. “We’re using it.” 
+The clip stayed in.
+Lee Clow was preparing a series of colorful 
+magazine ads, and when he sent Jobs the page proofs 
+he got an outraged phone call in response. The blue in 
+the ad, Jobs insisted, was different from that of the iMac. 
+“You guys don’t know what you’re doing!” Jobs 
+shouted. “I’m going to get someone else to do the ads, 
+because this is fucked up.” Clow argued back. 
+Compare them, he said. Jobs, who was not in the office, 
+insisted he was right and continued to shout. Eventually 
+Clow got him to sit down with the original photographs. 
+“I finally proved to him that the blue was the blue was 
+the blue.” Years later, on a Steve Jobs discussion board 
+on the website Gawker, the following tale appeared 
+from someone who had worked at the Whole Foods 
+Steve Jobs by Walter Isaacson 463
+store in Palo Alto a few blocks from Jobs’s home: “I was 
+shagging carts one afternoon when I saw this silver 
+Mercedes parked in a handicapped spot. Steve Jobs 
+was inside screaming at his car phone. This was right 
+before the first iMac was unveiled and I’m pretty sure I 
+could make out, ‘Not. Fucking. Blue. Enough!!!’”
+As always, Jobs was compulsive in preparing for 
+the dramatic unveiling. Having stopped one rehearsal 
+because he was angry about the CD drive tray, he 
+stretched out the other rehearsals to make sure the 
+show would be stellar. He repeatedly went over the 
+climactic moment when he would walk across the stage 
+and proclaim, “Say hello to the new iMac.” He wanted 
+the lighting to be perfect so that the translucence of the 
+new machine would be vivid. But after a few runthroughs he was still unsatisfied, an echo of his 
+obsession with stage lighting that Sculley had 
+witnessed at the rehearsals for the original 1984 
+Macintosh launch. He ordered the lights to be brighter 
+and come on earlier, but that still didn’t please him. So 
+he jogged down the auditorium aisle and slouched into 
+a center seat, draping his legs over the seat in front. 
+“Let’s keep doing it till we get it right, okay?” he said. 
+They made another attempt. “No, no,” Jobs complained. 
+“This isn’t working at all.” The next time, the lights were 
+bright enough, but they came on too late. “I’m getting 
+tired of asking about this,” Jobs growled. Finally, the 
+iMac shone just right. “Oh! Right there! That’s great!” 
+Jobs yelled.
+A year earlier Jobs had ousted Mike Markkula, his 
+early mentor and partner, from the board. But he was so 
+proud of what he had wrought with the new iMac, and 
+so sentimental about its connection to the original 
+Macintosh, that he invited Markkula to Cupertino for a 
+private preview. Markkula was impressed. His only 
+objection was to the new mouse that Ive had designed. 
+Steve Jobs by Walter Isaacson 464
+It looked like a hockey puck, Markkula said, and people 
+would hate it. Jobs disagreed, but Markkula was right. 
+Otherwise the machine had turned out to be, as had its 
+predecessor, insanely great.
+The Launch, May 6, 1998
+With the launch of the original Macintosh in 1984, 
+Jobs had created a new kind of theater: the product 
+debut as an epochal event, climaxed by a let-there-belight moment in which the skies part, a light shines 
+down, the angels sing, and a chorus of the chosen 
+faithful sings “Hallelujah.” For the grand unveiling of the 
+product that he hoped would save Apple and again 
+transform personal computing, Jobs symbolically chose 
+the Flint Auditorium of De Anza Community College in 
+Cupertino, the same venue he had used in 1984. He 
+would be pulling out all the stops in order to dispel 
+doubts, rally the troops, enlist support in the developers’ 
+community, and jump-start the marketing of the new 
+machine. But he was also doing it because he enjoyed 
+playing impresario. Putting on a great show piqued his 
+passions in the same way as putting out a great 
+product.
+Displaying his sentimental side, he began with a 
+graceful shout-out to three people he had invited to be 
+up front in the audience. He had become estranged 
+from all of them, but now he wanted them rejoined. “I 
+started the company with Steve Wozniak in my parents’ 
+garage, and Steve is here today,” he said, pointing him 
+out and prompting applause. “We were joined by Mike 
+Markkula and soon after that our first president, Mike 
+Scott,” he continued. “Both of those folks are in the 
+audience today. And none of us would be here without 
+these three guys.” His eyes misted for a moment as the 
+applause again built. Also in the audience were Andy 
+Hertzfeld and most of the original Mac team. Jobs gave 
+them a smile. He believed he was about to do them 
+Steve Jobs by Walter Isaacson 465
+proud.
+After showing the grid of Apple’s new product 
+strategy and going through some slides about the new 
+computer’s performance, he was ready to unveil his 
+new baby. “This is what computers look like today,” he 
+said as a picture of a beige set of boxy components and 
+monitor was projected on the big screen behind him. 
+“And I’d like to take the privilege of showing you what 
+they are going to look like from today on.” He pulled the 
+cloth from the table at center stage to reveal the new 
+iMac, which gleamed and sparkled as the lights came 
+up on cue. He pressed the mouse, and as at the launch 
+of the original Macintosh, the screen flashed with fastpaced images of all the wondrous things the computer 
+could do. At the end, the word “hello” appeared in the 
+same playful script that had adorned the 1984 
+Macintosh, this time with the word “again” below it in 
+parentheses: Hello (again).There was thunderous 
+applause. Jobs stood back and proudly gazed at his 
+new Macintosh. “It looks like it’s from another planet,” 
+he said, as the audience laughed. “A good planet. A 
+planet with better designers.”
+Once again Jobs had produced an iconic new 
+product, this one a harbinger of a new millennium. It 
+fulfilled the promise of “Think Different.” Instead of beige 
+boxes and monitors with a welter of cables and a bulky 
+setup manual, here was a friendly and spunky 
+appliance, smooth to the touch and as pleasing to the 
+eye as a robin’s egg. You could grab its cute little 
+handle and lift it out of the elegant white box and plug it 
+right into a wall socket. People who had been afraid of 
+computers now wanted one, and they wanted to put it in 
+a room where others could admire and perhaps covet it. 
+“A piece of hardware that blends sci-fi shimmer with the 
+kitsch whimsy of a cocktail umbrella,” Steven Levy 
+wrote in Newsweek, “it is not only the coolest-looking 
+Steve Jobs by Walter Isaacson 466
+computer introduced in years, but a chest-thumping 
+statement that Silicon Valley’s original dream company 
+is no longer somnambulant.” Forbescalled it “an 
+industry-altering success,” and John Sculley later came 
+out of exile to gush, “He has implemented the same 
+simple strategy that made Apple so successful 15 years 
+ago: make hit products and promote them with terrific 
+marketing.”
+Carping was heard from only one familiar corner. 
+As the iMac garnered kudos, Bill Gates assured a 
+gathering of financial analysts visiting Microsoft that this 
+would be a passing fad. “The one thing Apple’s 
+providing now is leadership in colors,” Gates said as he 
+pointed to a Windows-based PC that he jokingly had 
+painted red. “It won’t take long for us to catch up with 
+that, I don’t think.” Jobs was furious, and he told a 
+reporter that Gates, the man he had publicly decried for 
+being completely devoid of taste, was clueless about 
+what made the iMac so much more appealing than 
+other computers. “The thing that our competitors are 
+missing is that they think it’s about fashion, and they 
+think it’s about surface appearance,” he said. “They say, 
+We’ll slap a little color on this piece of junk computer, 
+and we’ll have one, too.”
+The iMac went on sale in August 1998 for $1,299. 
+It sold 278,000 units in its first six weeks, and would sell 
+800,000 by the end of the year, making it the fastestselling computer in Apple history. Most notably, 32% of 
+the sales went to people who were buying a computer 
+for the first time, and another 12% to people who had 
+been using Windows machines.
+Ive soon came up with four new juicy-looking 
+colors, in addition to bondi blue, for the iMacs. Offering 
+the same computer in five colors would of course create 
+huge challenges for manufacturing, inventory, and 
+distribution. At most companies, including even the old 
+Steve Jobs by Walter Isaacson 467
+Apple, there would have been studies and meetings to 
+look at the costs and benefits. But when Jobs looked at 
+the new colors, he got totally psyched and summoned 
+other executives over to the design studio. “We’re going 
+to do all sorts of colors!” he told them excitedly. When 
+they left, Ive looked at his team in amazement. “In most 
+places that decision would have taken months,” Ive 
+recalled. “Steve did it in a half hour.”
+
+

@@ -1,0 +1,399 @@
+In the middle of the last century, two young scientists conducted experiments that should
+have changed the world—but did not.
+Harry F. Harlow was a professor of psychology at the University of Wisconsin who, in
+the 1940s, established one of the world’s first laboratories for studying primate behavior.
+One day in 1949, Harlow and two colleagues gathered eight rhesus monkeys for a twoweek
+experiment on learning. The researchers devised a simple mechanical puzzle like
+the one pictured on the next page. Solving it required three steps: pull out the vertical pin,
+undo the hook, and lift the hinged cover. Pretty easy for you and me, far more
+challenging for a thirteen-pound lab monkey.
+Harlow’s puzzle in the starting (left) and solved (right) positions.
+The experimenters placed the puzzles in the monkeys’ cages to observe how they
+reacted—and to prepare them for tests of their problem-solving prowess at the end of the
+two weeks. But almost immediately, something strange happened. Unbidden by any
+outside urging and unprompted by the experimenters, the monkeys began playing with
+the puzzles with focus, determination, and what looked like enjoyment. And in short
+order, they began figuring out how the contraptions worked. By the time Harlow tested
+the monkeys on days 13 and 14 of the experiment, the primates had become quite adept.
+They solved the puzzles frequently and quickly; two-thirds of the time they cracked the
+code in less than sixty seconds.
+Now, this was a bit odd. Nobody had taught the monkeys how to remove the pin, slide
+the hook, and open the cover. Nobody had rewarded them with food, affection, or even
+quiet applause when they succeeded. And that ran counter to the accepted notions of how
+primates—including the bigger-brained, less hairy primates known as human beings—
+behaved.
+Scientists then knew that two main drives powered behavior. The first was the biological
+drive. Humans and other animals ate to sate their hunger, drank to quench their thirst, and
+copulated to satisfy their carnal urges. But that wasn’t happening here. “Solution did not
+lead to food, water, or sex gratification,” Harlow reported.1
+But the only other known drive also failed to explain the monkeys’ peculiar behavior. If
+biological motivations came from within, this second drive came from without—the
+rewards and punishments the environment delivered for behaving in certain ways. This
+was certainly true for humans, who responded exquisitely to such external forces. If you
+promised to raise our pay, we’d work harder. If you held out the prospect of getting an A
+on the test, we’d study longer. If you threatened to dock us for showing up late or for
+incorrectly completing a form, we’d arrive on time and tick every box. But that didn’t
+account for the monkeys’ actions either. As Harlow wrote, and you can almost hear him
+scratching his head, “The behavior obtained in this investigation poses some interesting
+questions for motivation theory, since significant learning was attained and efficient
+performance maintained without resort to special or extrinsic incentives.”
+What else could it be?
+To answer the question, Harlow offered a novel theory—what amounted to a third drive:
+“The performance of the task,” he said, “provided intrinsic reward.” The monkeys solved
+the puzzles simply because they found it gratifying to solve puzzles. They enjoyed it. The
+joy of the task was its own reward.
+If this notion was radical, what happened next only deepened the confusion and
+controversy. Perhaps this newly discovered drive—Harlow eventually called it “intrinsic
+motivation”—was real. But surely it was subordinate to the other two drives. If the
+monkeys were rewarded—with raisins!—for solving the puzzles, they’d no doubt
+perform even better. Yet when Harlow tested that approach, the monkeys actually made
+more errors and solved the puzzles less frequently. “Introduction of food in the present
+experiment,” Harlow wrote, “served to disrupt performance, a phenomenon not reported
+in the literature.”
+Now, this was really odd. In scientific terms, it was akin to rolling a steel ball down an
+inclined plane to measure its velocity—only to watch the ball float into the air instead. It
+suggested that our understanding of the gravitational pulls on our behavior was
+inadequate—that what we thought were fixed laws had plenty of loopholes. Harlow
+emphasized the “strength and persistence” of the monkeys’ drive to complete the puzzles.
+Then he noted:
+It would appear that this drive . . . may be as basic and strong as the [other] drives.
+Furthermore, there is some reason to believe that [it] can be as efficient in facilitating
+learning.2
+At the time, however, the prevailing two drives held a tight grip on scientific thinking. So
+Harlow sounded the alarm. He urged scientists to “close down large sections of our
+theoretical junkyard” and offer fresher, more accurate accounts of human behavior.3 He
+warned that our explanation of why we did what we did was incomplete. He said that to
+truly understand the human condition, we had to take account of this third drive.
+Then he pretty much dropped the whole idea.
+Rather than battle the establishment and begin offering a more complete view of
+motivation, Harlow abandoned this contentious line of research and later became famous
+for studies on the science of affection.4 His notion of this third drive bounced around the
+psychological literature, but it remained on the periphery—of behavioral science and of
+our understanding of ourselves. It would be two decades before another scientist picked
+up the thread that Harlow had so provocatively left on that Wisconsin laboratory table.
+In the summer of 1969, Edward Deci was a Carnegie Mellon University psychology
+graduate student in search of a dissertation topic. Deci, who had already earned an MBA
+from Wharton, was intrigued by motivation but suspected that scholars and
+businesspeople had misunderstood it. So, tearing a page from the Harlow playbook, he
+set out to study the topic with the help of a puzzle.
+Deci chose the Soma puzzle cube, a then popular Parker Brothers offering that, thanks to
+YouTube, retains something of a cult following today. The puzzle, shown below, consists
+of seven plastic pieces—six comprising four one-inch cubes, one comprising three oneinch
+cubes. Players can assemble the seven pieces into a few million possible
+combinations—from abstract shapes to recognizable objects.
+The seven pieces of the Soma puzzle unassembled (left) and then fashioned into one of
+several million possible configurations.
+For the study, Deci divided participants, male and female university students, into an
+experimental group (what I’ll call Group A) and a control group (what I’ll call Group B).
+Each participated in thr
+Here’s how the sessions worked: Each participant entered a room and sat at a table on top
+of which were the seven Soma puzzle pieces, drawings of three puzzle configurations,
+and copies of Time, The New Yorker, and Playboy. (Hey, it was 1969.) Deci sat on the
+opposite end of the table to explain the instructions and to time performance with a
+stopwatch.
+In the first session, members of both groups had to assemble the Soma pieces to replicate
+the configurations before them. In the second session, they did the same thing with
+different drawings—only this time Deci told Group A that they’d be paid $1 (the
+equivalent of nearly $6 today) for every configuration they successfully reproduced.
+Group B, meanwhile, got new drawings but no pay. Finally, in the third session, both
+groups received new drawings and had to reproduce them for no compensation, just as in
+session one. (See the table below.)
+HOW THE TWO GROUPS WERE TREATED
+The twist came midway through each session. After a participant had assembled the
+Soma puzzle pieces to match two of the three drawings, Deci halted the proceedings. He
+said that he was going to give them a fourth drawing—but to choose the right one, he
+needed to feed their completion times into a computer. And—this being the late 1960s,
+when room-straddling mainframes were the norm and desktop PCs were still a decade
+away—that meant he had to leave for a little while.
+On the way out, he said, “I shall be gone only a few minutes, you may do whatever you
+like while I’m gone.” But Deci wasn’t really plugging numbers into an ancient teletype.
+Instead, he walked to an adjoining room connected to the experiment room by a one-way
+window. Then, for exactly eight minutes, he watched what people did when left alone.
+Did they continue fiddling with the puzzle, perhaps attempting to reproduce the third
+drawing? Or did they do something else—page through the magazines, check out the
+centerfold, stare into space, catch a quick nap?
+In the first session, not surprisingly, there wasn’t much difference between what the
+Group A and Group B participants did during that secretly watched eight-minute freechoice
+period. Both continued playing with the puzzle, on average, for between three and
+a half and four minutes, suggesting they found it at least somewhat interesting.
+On the second day, during which Group A participants were paid for each successful
+configuration and Group B participants were not, the unpaid group behaved mostly as
+they had during the first free-choice period. But the paid group suddenly got really
+interested in Soma puzzles. On average, the people in Group A spent more than five
+minutes messing with the puzzle, perhaps getting a head start on that third challenge or
+gearing up for the chance to earn some beer money when Deci returned. This makes
+intuitive sense, right? It’s consistent with what we believe about motivation: Reward me
+and I’ll work harder.
+Yet what happened on the third day confirmed Deci’s own suspicions about the peculiar
+workings of motivation—and gently called into question a guiding premise of modern
+life. This time, Deci told the participants in Group A that there was only enough money
+to pay them for one day and that this third session would therefore be unpaid. Then things
+unfolded just as before—two puzzles, followed by Deci’s interruption.
+During the ensuing eight-minute free-choice period, the subjects in the never-been-paid
+Group B actually played with the puzzle for a little longer than they had in previous
+sessions. Maybe they were becoming ever more engaged; maybe it was just a statistical
+quirk. But the subjects in Group A, who previously had been paid, responded differently.
+They now spent significantly less time playing with the puzzle—not only about two
+minutes less than during their paid session, but about a full minute less than in the first
+session when they initially encountered, and obviously enjoyed, the puzzles.
+In an echo of what Harlow discovered two decades earlier, Deci revealed that human
+motivation seemed to operate by laws that ran counter to what most scientists and citizens
+believed. From the office to the playing field, we knew what got people going.
+Rewards—especially cold, hard cash—intensified interest and enhanced performance.
+What Deci found, and then confirmed in two additional studies he conducted shortly
+thereafter, was almost the opposite. “When money is used as an external reward for some
+activity, the subjects lose intrinsic interest for the activity,” he wrote.5 Rewards can
+deliver a short-term boost—just as a jolt of caffeine can keep you cranking for a few
+more hours. But the effect wears off—and, worse, can reduce a person’s longer-term
+motivation to continue the project.
+Human beings, Deci said, have an “inherent tendency to seek out novelty and challenges,
+to extend and exercise their capacities, to explore, and to learn.” But this third drive was
+more fragile than the other two; it needed the right environment to survive. “One who is
+interested in developing and enhancing intrinsic motivation in children, employees,
+students, etc., should not concentrate on external-control systems such as monetary
+rewards,” he wrote in a f ollow-up paper.6 Thus began what for Deci became a lifelong
+quest to rethink why we do what we do—a pursuit that sometimes put him at odds with
+fellow psychologists, got him fired from a business school, and challenged the operating
+assumptions of organizations everywhere.
+“It was controversial,” Deci told me one spring morning forty years after the Soma
+experiments. “Nobody was expecting rewards would have a negative effect.”
+THIS IS A BOOK about motivation. I will show that much of what we believe about the
+subject just isn’t so—and that the insights that Harlow and Deci began uncovering a few
+decades ago come much closer to the truth. The problem is that most businesses haven’t
+caught up to this new understanding of what motivates us. Too many organizations—not
+just companies, but governments and nonprofits as well—still operate from assumptions
+about human potential and individual performance that are outdated, unexamined, and
+rooted more in folklore than in science. They continue to pursue practices such as shortterm
+incentive plans and pay-for-performance schemes in the face of mounting evidence
+that such measures usually don’t work and often do harm. Worse, these practices have
+infiltrated our schools, where we ply our future workforce with iPods, cash, and pizza
+coupons to “incentivize” them to learn. Something has gone wrong.
+The good news is that the solution stands before us—in the work of a band of behavioral
+scientists who have carried on the pioneering efforts of Harlow and Deci and whose quiet
+work over the last half-century offers us a more dynamic view of human motivation. For
+too long, there’s been a mismatch between what science knows and what business does.
+The goal of this book is to repair that breach.
+Drive has three parts. Part One will look at the flaws in our reward-and-punishment
+system and propose a new way to think about motivation. Chapter 1 will examine how
+the prevailing view of motivation is becoming incompatible with many aspects of
+contemporary business and life. Chapter 2 will reveal the seven reasons why carrot-andstick
+extrinsic motivators often produce the opposite of what they set out to achieve.
+(Following that is a short addendum, Chapter 2a, that shows the special circumstances
+when carrots and sticks actually can be effective.) Chapter 3 will introduce what I call
+“Type I” behavior, a way of thinking and an approach to business grounded in the real
+science of human motivation and powered by our third drive—our innate need to direct
+our own lives, to learn and create new things, and to do better by ourselves and our
+world.
+Part Two will examine the three elements of Type I behavior and show how individuals
+and organizations are using them to improve performance and deepen satisfaction.
+Chapter 4 will explore autonomy, our desire to be self-directed. Chapter 5 will look at
+mastery, our urge to get better and better at what we do. Chapter 6 will explore purpose,
+our yearning to be part of something larger than ourselves.
+Part Three, the Type I Toolkit, is a comprehensive set of resources to help you create
+settings in which Type I behavior can flourish. Here you’ll find everything from dozens
+of exercises to awaken motivation in yourself and others, to discussion questions for your
+book club, to a supershort summary of Drive that will help you fake your way through a
+cocktail party. And while this book is mostly about business, in this section I’ll offer
+some thoughts about how to apply these concepts to education and to our lives outside of
+work.
+But before we get down to all that, let’s begin with a thought experiment, one that
+requires going back in time—to the days when John Major was Britain’s prime minister,
+Barack Obama was a skinny young law professor, Internet connections were dial-up, and
+a blackberry was still just a fruit.
+Part One
+A New Operating System
+CHAPTER 1
+The Rise and Fall of Motivation 2.0
+Imagine it’s 1995. You sit down with an economist—an accomplished business school
+professor with a Ph.D. in economics. You say to her: “I’ve got a crystal ball here that can
+peer fifteen years into the future. I’d like to test your forecasting powers.”
+She’s skeptical, but she decides to humor you.
+“I’m going to describe two new encyclopedias—one just out, the other to be launched in
+a few years. You have to predict which will be more successful in 2010.”
+“Bring it,” she says.
+“The first encyclopedia comes from Microsoft. As you know, Microsoft is already a large
+and profitable company. And with this year’s introduction of Windows 95, it’s about to
+become an era-defining colossus. Microsoft will fund this encyclopedia. It will pay
+professional writers and editors to craft articles on thousands of topics. Wellcompensated
+managers will oversee the project to ensure it’s completed on budget and on
+time. Then Microsoft will sell the encyclopedia on CD-ROMs and later online.
+“The second encyclopedia won’t come from a company. It will be created by tens of
+thousands of people who write and edit articles for fun. These hobbyists won’t need any
+special qualifications to participate. And nobody will be paid a dollar or a euro or a yen to
+write or edit articles. Participants will have to contribute their labor—sometimes twenty
+and thirty hours per week—for free. The encyclopedia itself, which will exist online, will
+also be free—no charge for anyone who wants to use it.
+“Now,” you say to the economist, “think forward fifteen years. According to my crystal
+ball, in 2010, one of these encyclopedias will be the largest and most popular in the world
+and the other will be defunct. Which is which?”
+In 1995, I doubt you could have a found a single sober economist anywhere on planet
+Earth who would not have picked that first model as the success. Any other conclusion
+would have been laughable—contrary to nearly every business principle she taught her
+students. It would have been like asking a zoologist who would win a 200-meter footrace
+between a cheetah and your brother-in-law. Not even close.
+Sure, that ragtag band of volunteers might produce something. But there was no way its
+product could compete with an offering from a powerful profit-driven company. The
+incentives were all wrong. Microsoft stood to gain from the success of its product;
+everyone involved in the other project knew from the outset that success would earn them
+nothing. Most important, Microsoft’s writers, editors, and managers were paid. The other
+project’s contributors were not. In fact, it probably cost them money each time they
+performed free work instead of remunerative labor. The question was such a no-brainer
+that our economist wouldn’t even have considered putting it on an exam for her MBA
+class. It was too easy.
+But you know how things turned out.
+On October 31, 2009, Microsoft pulled the plug on MSN Encarta, its disc and online
+encyclopedia, which had been on the market for sixteen years. Meanwhile, Wikipedia—
+that second model—ended up becoming the largest and most popular encyclopedia in the
+world. Just eight years after its inception, Wikipedia had more than 13 million articles in
+some 260 languages, including 3 million in English alone.1
+What happened? The conventional view of human motivation has a very hard time
+explaining this result.
+THE TRIUMPH OF CARROTS AND
+STICKS
+Computers—whether the giant mainframes in Deci’s experiments, the iMac on which
+I’m writing this sentence, or the mobile phone chirping in your pocket—all have
+operating systems. Beneath the surface of the hardware you touch and the programs you
+manipulate is a complex layer of software that contains the instructions, protocols, and
+suppositions that enable everything to function smoothly. Most of us don’t think much
+about operating systems. We notice them only when they start failing—when the
+hardware and software they’re supposed to manage grow too large and complicated for
+the current operating system to handle. Then our computer starts crashing. We complain.
+And smart software developers, who’ve always been tinkering with pieces of the
+program, sit down to write a fundamentally better one—an upgrade.
+Societies also have operating systems. The laws, social customs, and economic
+arrangements that we encounter each day sit atop a layer of instructions, protocols, and
+suppositions about how the world works. And much of our societal operating system
+consists of a set of assumptions about human behavior.
+In our very early days—I mean very early days, say, fifty thousand years ago—the
+underlying assumption about human behavior was simple and true. We were trying to
+survive. From roaming the savannah to gather food to scrambling for the bushes when a
+saber-toothed tiger approached, that drive guided most of our behavior. Call this early
+operating system Motivation 1.0. It wasn’t especially elegant, nor was it much different
+from those of rhesus monkeys, giant apes, or many other animals. But it served us nicely.
+It worked well. Until it didn’t.
+As humans formed more complex societies, bumping up against strangers and needing to
+cooperate in order to get things done, an operating system based purely on the biological
+drive was inadequate. In fact, sometimes we needed ways to restrain this drive—to
+prevent me from swiping your dinner and you from stealing my spouse. And so in a feat
+of remarkable cultural engineering, we slowly replaced what we had with a version more
+compatible with how we’d begun working and living.
+At the core of this new and improved operating system was a revised and more accurate
+assumption: Humans are more than the sum of our biological urges. That first drive still
+mattered—no doubt about that—but it didn’t fully account for who we are. We also had a
+second drive—to seek reward and avoid punishment more broadly. And it was from this
+insight that a new operating system—call it Motivation 2.0—arose. (Of course, other
+animals also respond to rewards and punishments, but only humans have proved able to
+channel this drive to develop everything from contract law to convenience stores.)
+Harnessing this second drive has been essential to economic progress around the world,
+especially during the last two centuries. Consider the Industrial Revolution.
+Technological developments—steam engines, railroads, widespread electricity—played a
+crucial role in fostering the growth of industry. But so did less tangible innovations—in
+particular, the work of an American engineer named Frederick Winslow Taylor. In the
+early 1900s, Taylor, who believed businesses were being run in an inefficient, haphazard
+way, invented what he called “scientific management.” His invention was a form of
+“software” expertly crafted to run atop the Motivation 2.0 platform. And it was widely
+and quickly adopted.
+Workers, this approach held, were like parts in a complicated machine. If they did the
+right work in the right way at the right time, the machine would function smoothly. And
+to ensure that happened, you simply rewarded the behavior you sought and punished the
+behavior you discouraged. People would respond rationally to these external forces—
+these extrinsic motivators—and both they and the system itself would flourish. We tend
+to think that coal and oil have powered economic development. But in some sense, the
+engine of commerce has been fueled equally by carrots and sticks.
+The Motivation 2.0 operating system has endured for a very long time. Indeed, it is so
+deeply embedded in our lives that most of us scarcely recognize that it exists. For as long
+as any of us can remember, we’ve configured our organizations and constructed our lives
+around its bedrock assumption: The way to improve performance, increase productivity,
+and encourage excellence is to reward the good and punish the bad.
+Despite its greater sophistication and higher aspirations, Motivation 2.0 still wasn’t
+exactly ennobling. It suggested that, in the end, human beings aren’t much different from
+horses—that the way to get us moving in the right direction is by dangling a crunchier
+carrot or wielding a sharper stick. But what this operating system lacked in
+enlightenment, it made up for in effectiveness. It worked well—extremely well. Until it
+didn’t.
+As the twentieth century progressed, as economies grew still more complex, and as the
+people in them had to deploy new, more sophisticated skills, the Motivation 2.0 approach
+encountered some resistance. In the 1950s, Abraham Maslow, a former student of Harry
+Harlow’s at the University of Wisconsin, developed the field of humanistic psychology,
+which questioned the idea that human behavior was purely the ratlike seeking of positive
+stimuli and avoidance of negative stimuli. In 1960, MIT management professor Douglas
+McGregor imported some of Maslow’s ideas to the business world. McGregor challenged
+the presumption that humans are fundamentally inert—that absent external rewards and
+punishments, we wouldn’t do much. People have other, higher drives, he said. And these
+drives could benefit businesses if managers and business leaders respected them. Thanks
+in part to McGregor’s writing, companies evolved a bit. Dress codes relaxed, schedules
+became more flexible. Many organizations looked for ways to grant employees greater
+autonomy and to help them grow. These refinements repaired some weaknesses, but they
+amounted to a modest improvement rather than a thorough upgrade—Motivation 2.1.
+And so this general approach remained intact—because it was, after all, easy to
+understand, simple to monitor, and straightforward to enforce. But in the first ten years of
+this century—a period of truly staggering underachievement in business, technology, and
+Go back to that encyclopedic showdown between Microsoft and Wikipedia. The
+assumptions at the heart of Motivation 2.0 suggest that such a result shouldn’t even be
+possible. Wikipedia’s triumph seems to defy the laws of behavioral physics.
+Now, if this all-volunteer, all-amateur encyclopedia were the only instance of its kind, we
+might dismiss it as an aberration, an exception that proves the rule. But it’s not. Instead,
+Wikipedia represents the most powerful new business model of the twenty-first century:
+open source
+Fire up your home computer, for example. When you visit the Web to check the weather
+forecast or order some sneakers, you might be using Firefox, a free open-source Web
+browser created almost exclusively by volunteers around the world. Unpaid laborers who
+give away their product? That couldn’t be sustainable. The incentives are all wrong. Yet
+Firefox now has more than 150 million users.
+Or walk into the IT department of a large company anywhere in the world and ask for a
+tour. That company’s corporate computer servers could well run on Linux, software
+devised by an army of unpaid programmers and available for free. Linux now powers one
+in four corporate servers. Then ask an employee to explain how the company’s website
+works. Humming beneath the site is probably Apache, free open-source Web server
+software created and maintained by a far-flung global group of volunteers. Apache’s
+share of the corporate Web server market: 52 percent. In other words, companies that
+typically rely on external rewards to manage their employees run some of their most
+important systems with products created by nonemployees who don’t seem to need such
+rewards.
+And it’s not just the tens of thousands of software projects across the globe. Today you
+can find: open-source cookbooks; open-source textbooks; open-source car design; opensource
+medical research; open-source legal briefs; open-source stock photography; opensource
+prosthetics; open-source credit unions; open-source cola; and for those for whom
+soft drinks won’t suffice, open-source beer.
+This new way of organizing what we do doesn’t banish extrinsic rewards. People in the
+open-source movement haven’t taken vows of poverty. For many, participation in these
+projects can burnish their reputations and sharpen their skills, which can enhance their
+earning power. Entrepreneurs have launched new, and sometimes lucrative, companies to
+help organizations implement and maintain open-source software applications.
+But ultimately, open source depends on intrinsic motivation with the same ferocity that
+older business models rely on extrinsic motivation, as several scholars have shown. MIT
+management professor Karim Lakhani and Boston Consulting Group consultant Bob
+Wolf surveyed 684 open-source developers, mostly in North America and Europe, about
+why they participated in these projects. Lakhani and Wolf uncovered a range of motives,
+but they found “that enjoyment-based intrinsic motivation, namely how creative a person
+feels when working on the project, is the strongest and most pervasive driver.”2 A large
+majority of programmers, the researchers discovered, reported that they frequently
+reached the state of optimal challenge called “flow.” Likewise, three German economists
+who studied open-source projects around the world found that what drives participants is
+“a set of predominantly intrinsic motives”—in particular, “the fun . . . of mastering the
+challenge of a given software problem” and the “desire to give a gift to the programmer
+community.”3 Motivation 2.0 has little room for these sorts of impulses.
+What’s more, open source is only one way people are restructuring what they do along
+new organizational lines and atop different motivational ground. Let’s move from
+software code to the legal code. The laws in most developed countries permit essentially
+two types of business organizations—profit and nonprofit. One makes money, the other
+does good. And the most prominent member of that first category is the publicly held
+corporation—owned by shareholders and run by managers who are overseen by a board
+of directors. The managers and directors bear one overriding responsibility: to maximize
+shareholder gain. Other types of business organizations steer by the same rules of the
+road. In the United States, for instance, partnerships, S corporations, C corporations,
+limited liability corporations, and other business configurations all aim toward a common
+end. The objective of those who run them—practically, legally, in some ways morally—
+is to maximize profit.
+Let me give a rousing, heartfelt, and grateful cheer for these business forms and the
+farsighted countries that enable their citizens to create them. Without them, our lives
+would be infinitely less prosperous, less healthy, and less happy. But in the last few
+years, several people around the world have been changing the recipe and cooking up
+new varieties of business organizations.
+For example, in April 2008, Vermont became the first U.S. state to allow a new type of
+business called the “low-profit limited liability corporation.” Dubbed an L3C, this entity
+is a corporation—but not as we typically think of it. As one report explained, an L3C
+“operate[s] like a for-profit business generating at least modest profits, but its primary
+aim [is] to offer significant social benefits.” Three other U.S. states have followed
+Vermont’s lead.4 An L3C in North Carolina, for instance, is buying abandoned furniture
+factories in the state, updating them with green technology

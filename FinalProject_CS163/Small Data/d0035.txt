@@ -1,0 +1,424 @@
+Think back to the candle problem again. The incentivized participants performed worse
+than their counterparts because they were so focused on the prize that they failed to
+glimpse a novel solution on the periphery. Rewards, we’ve seen, can limit the breadth of
+our thinking. But extrinsic motivators—especially tangible, “if-then” ones—can also
+reduce the depth of our thinking. They can focus our sights on only what’s immediately
+before us rather than what’s off in the distance.
+Many times a concentrated focus makes sense. If your office building is on fire, you want
+to find an exit immediately rather than ponder how to rewrite the zoning regulations. But
+in less dramatic circumstances, fixating on an immediate reward can damage
+performance over time. Indeed, what our earlier examples—unethical actions and
+addictive behavior—have in common, perhaps more than anything else, is that they’re
+entirely short-term. Addicts want the quick fix regardless of the eventual harm. Cheaters
+want the quick win—regardless of the lasting consequences.
+Yet even when the behavior doesn’t devolve into shortcuts or addiction, the near-term
+allure of rewards can be harmful in the long run. Consider publicly held companies.
+Many such companies have existed for decades and hope to exist for decades more. But
+much of what their executives and middle managers do each day is aimed singlemindedly
+at the corporation’s performance over the next three months. At these
+companies, quarterly earnings are an obsession. Executives devote substantial resources
+to making sure the earnings come out just right. And they spend considerable time and
+brain-power offering guidance to stock analysts so that the market knows what to expect
+and therefore responds favorably. This laser focus on a narrow, near-term slice of
+corporate performance is understandable. It’s a rational response to stock markets that
+reward or punish tiny blips in those numbers, which, in turn, affect executives’
+compensation.
+But companies pay a steep price for not extending their gaze beyond the next quarter.
+Several researchers have found that companies that spend the most time offering
+guidance on quarterly earnings deliver significantly lower long-term growth rates than
+companies that offer guidance less frequently. (One reason: The earnings-obsessed
+companies typically invest less in research and development.)23 They successfully
+achieve their short-term goals, but threaten the health of the company two or three years
+hence. As the scholars who warned about goals gone wild put it, “The very presence of
+goals may lead employees to focus myopically on short-term gains and to lose sight of
+the potential devastating long-term effects on the organization.”24
+Perhaps nowhere is this clearer than in the economic calamity that gripped the world
+economy in 2008 and 2009. Each player in the system focused only on the short-term
+reward—the buyer who wanted a house, the mortgage broker who wanted a commission,
+the Wall Street trader who wanted new securities to sell, the politician who wanted a
+buoyant economy during reelection—and ignored the long-term effects of their actions
+on themselves or others. When the music stopped, the entire system nearly collapsed.
+This is the nature of economic bubbles: What seems to be irrational exuberance is
+ultimately a bad case of extrinsically motivated myopia.
+By contrast, the elements of genuine motivation that we’ll explore later, by their very
+nature, defy a short-term view. Take mastery. The objective itself is inherently long-term
+because complete mastery, in a sense, is unattainable. Even Roger Federer, for instance,
+will never fully “master” the game of tennis. But introducing an “if-then” reward to help
+develop mastery usually backfires. That’s why schoolchildren who are paid to solve
+problems typically choose easier problems and therefore learn less.25 The short-term prize
+crowds out the l ong-term learning.
+In environments where extrinsic rewards are most salient, many people work only to the
+point that triggers the reward—and no further. So if students get a prize for reading three
+books, many won’t pick up a fourth, let alone embark on a lifetime of reading—just as
+executives who hit their quarterly numbers often won’t boost earnings a penny more, let
+alone contemplate the long-term health of their company. Likewise, several studies show
+that paying people to exercise, stop smoking, or take their medicines produces terrific
+results at first—but the healthy behavior disappears once the incentives are removed.
+However, when contingent rewards aren’t involved, or when incentives are used with the
+proper deftness, performance improves and understanding deepens. Greatness and
+nearsightedness are incompatible. Meaningful achievement depends on lifting one’s
+sights and pushing toward the horizon.
+CARROTS AND STICKS: The Seven Deadly Flaws
+1. They can extinguish intrinsic motivation.
+2. They can diminish performance.
+3. They can crush creativity.
+4. They can crowd out good behavior.
+5. They can encourage cheating, shortcuts, and unethical behavior.
+6. They can become addictive.
+7. They can foster short-term thinking.
+CHAPTER 2A
+. . . and the Special Circumstances When They Do
+Carrots and sticks aren’t all bad. If they were, Motivation 2.0 would never have
+flourished so long or accomplished so much. While an operating system centered around
+rewards and punishments has outlived its usefulness and badly needs an upgrade, that
+doesn’t mean we should scrap its every piece. Indeed, doing so would run counter to the
+science. The scholars exploring human motivation have revealed not only the many
+glitches in the traditional approach, but also the narrow band of circumstances in which
+carrots and sticks do their jobs reasonably well.
+The starting point, of course, is to ensure that the baseline rewards—wages, salaries,
+benefits, and so on—are adequate and fair. Without a healthy baseline, motivation of any
+sort is difficult and often impossible.
+But once that’s established, there are circumstances where it’s okay to fall back on
+extrinsic motivators. To understand what those circumstances are, let’s return to the
+candle problem. In his study, Sam Glucksberg found that the participants who were
+offered a cash prize took longer to solve the problem than those working in a reward-free
+environment. The reason, you’ll recall, is that the prospect of a prize narrowed
+participants’ focus and limited their ability to see an inventive, nonobvious solution.
+In the same experiment, Glucksberg presented a separate set of participants with a
+slightly different version of the problem. Once again, he told half of them he was timing
+their performance to collect data—and the other half that those who posted the fastest
+times could win cash. But he altered things just a bit. Instead of giving participants a box
+full of tacks, he emptied the tacks onto the desk as shown below.
+The candle problem presented differently.
+Can you guess what happened?
+This time, the participants vying for the reward solved the problem faster than their
+counterparts. Why? By removing the tacks and displaying the empty box, Glucksberg
+essentially revealed the solution. He transformed a challenging right-brain task into a
+routine left-brain one. Since participants simply had to race down an obvious path, the
+carrot waiting for them at the finish line encouraged them to gallop faster.
+Glucksberg’s experiment provides the first question you should ask when contemplating
+external motivators: Is the task at hand routine? That is, does accomplishing it require
+following a prescribed set of rules to a specified end?
+For routine tasks, which aren’t very interesting and don’t demand much creative thinking,
+rewards can provide a small motivational booster shot without the harmful side effects. In
+some ways, that’s just common sense. As Edward Deci, Richard Ryan, and Richard
+Koestner explain, “Rewards do not undermine people’s intrinsic 
+motivation for dull tasks
+because there is little or no intrinsic motivation to be undermined.”1 Likewise, when Dan
+Ariely and his colleagues conducted their Madurai, India, performance study with a
+group of MIT students, they found that when the task called for “even rudimentary
+cognitive skill,” a larger reward “led to poorer performance.” But “as long as the task
+involved only mechanical skill, bonuses worked as they would be expected: the higher
+the pay, the better the performance.”2
+This is extremely important. Although advanced economies now revolve less around
+those algorithmic, rule-based functions, some of what we do each day—especially on the
+job—still isn’t all that interesting. We have TPS reports to fill out and boring e-mail to
+answer and all manner of drudge work that doesn’t necessarily fire our soul. What’s
+more, for some people, much of what they do all day consists of these routine, not
+terribly captivating, tasks. In these situations, it’s best to try to unleash the positive side
+of the Sawyer Effect by attempting to turn work into play—to increase the task’s variety,
+to make it more like a game, or to use it to help master other skills. Alas, that’s not
+always possible. And this means that sometimes, even “if-then” rewards are an option.
+Let’s put this insight about rewards and routines into practice. Suppose you’re a manager
+at a small nonprofit organization. Your design team created a terrific poster promoting
+your group’s next big event. And now you need to send the poster to twenty thousand
+members of your organization. Since the costs of outsourcing the job to a professional
+mailing firm are too steep for your budget, you decide to do the work in-house. Trouble
+is, the posters came back from the printer much later than you expected and they need to
+get in the mail this weekend.
+What’s the best way to enlist your staff of ten, and maybe a few others, in a massive
+weekend poster mailing session? The task is the very definition of routine: The people
+participating must roll up the posters, slide them into the mailing tubes, cap those tubes,
+and apply a mailing label and the proper postage. Four steps—none of them notably
+interesting.
+One managerial option is coercion. If you’re the boss, you could force people to spend
+their Saturday and Sunday on this mind-numbing project. They might comply, but the
+damage to their morale and long-term commitment could be substantial. Another option
+is to ask for volunteers. But face it: Most people can think of far better ways to spend a
+weekend.
+So in this case, an “if-then” reward might be effective. For instance, you could promise a
+big office-wide party if everybody pitches in on the project. You could offer a gift
+certificate to everyone who participates. Or you could go further and pay people a small
+sum for every poster they insert, enclose, and send—in the hope that the piecework fee
+will boost their productivity.
+While such tangible, contingent rewards can often undermine intrinsic motivation and
+creativity, those drawbacks matter less here. The assignment neither inspires deep
+passion nor requires deep thinking. Carrots, in this case, won’t hurt and might help. And
+you’ll increase your chances of success by supplementing the poster-packing rewards
+with three important practices:
+• Offer a rationale for why the task is necessary.A job that’s not inherently interesting
+can become more meaningful, and therefore more engaging, if it’s part of a larger
+purpose. Explain why this poster is so important and why sending it out now is critical to
+your organization’s mission.
+• Acknowledge that the task is boring.This is an act of empathy, of course. And the
+acknowledgment will help people understand why this is the rare instance when “if-then”
+rewards are part of how your organization operates.
+• Allow people to complete the task their own way. Think autonomy, not control. State
+the outcome you need. But instead of specifying precisely the way to reach it—how each
+poster must be rolled and how each mailing label must be affixed—give them freedom
+over how they do the job.
+That’s the approach for routine tasks. What about for other sorts of undertakings?
+For work that requires more than just climbing, rung by rung, up a ladder of instructions,
+rewards are more perilous. The best way to avoid the seven deadly flaws of extrinsic
+motivators is to avoid them altogether or to downplay them significantly and instead
+emphasize the elements of deeper motivation—autonomy, mastery, and purpose—that
+we’ll explore later in the book. But in the workplace, a rigid adherence to this approach
+bumps up against a fact of life: Even people who do groovy, creative, right-brain work
+still want to be paid. And here Teresa Amabile has shed some light on how to use
+rewards in a way that reckons with life’s realities but reduces extrinsic motivators’
+hidden costs.
+Go back to the study in which Amabile and two colleagues compared the quality of
+commissioned and noncommissioned paintings from a group of artists. A panel of
+experts, blind to what the investigators were exploring, consistently rated the
+noncommissioned artwork as more creative. One reason is that several artists said their
+commissions were “constraining”—that they found themselves working toward a goal
+they didn’t endorse in a manner they didn’t control. However, in the same study, Amabile
+also discovered that when the artists considered their commissions “enabling”—that is,
+“the commission enabled the artist to do something interesting or exciting”3—the
+creativity ranking of what they produced shot back up. The same was true for
+commissions the artists felt provided them with useful information and feedback about
+their ability.
+This is a crucial research insight. The science shows that it is possible—though tricky—
+to incorporate rewards into nonroutine, more creative settings without causing a cascade
+of damage.
+So suppose we’re back at your nonprofit nine months later. The mailing went out
+flawlessly. The poster was a hit. The event was a smash. You’re planning another for
+later this year. You’ve settled on the date and found your venue. Now you need an
+inspiring poster to captivate imaginations and draw a crowd.
+What should you do?
+Here’s what you shouldn’t do: Offer an “if-then” reward to the design staff. Do not stride
+into their offices and announce: “If you come up with a poster that rocks my world or that
+boosts attendance over last year, then you’ll get a ten-percent bonus.” Although that
+motivational approach is common in organizations all over the world, it’s a recipe for
+reduced performance. Creating a poster isn’t routine. It requires conceptual,
+breakthrough, artistic thinking. And as we’ve learned, “if-then” rewards are an ideal way
+to squash this sort of thinking.
+Your best approach is to have already established the conditions of a genuinely
+motivating environment. The baseline rewards must be sufficient. That is, the team’s
+basic compensation must be adequate and fair—particularly compared with people doing
+similar work for similar organizations. Your nonprofit must be a congenial place to work.
+And the people on your team must have autonomy, they must have ample opportunity to
+pursue mastery, and their daily duties must relate to a larger purpose. If these elements
+are in place, the best strategy is to provide a sense of urgency and significance—and then
+get out of the talent’s way.
+But you may still be able to boost performance a bit—more for future tasks than for this
+one—through the delicate use of rewards. Just be careful. Your efforts will backfire
+unless the rewards you offer meet one essential requirement. And you’ll be on firmer
+motivational footing if you follow two additional principles.
+The essential requirement: Any extrinsic reward should be unexpected and offered only
+after the task is complete.
+Holding out a prize at the beginning of a project—and offering it as a contingency—will
+inevitably focus people’s attention on obtaining the reward rather than on attacking the
+problem. But introducing the subject of rewards after the job is done is less risky.
+In other words, where “if-then” rewards are a mistake, shift to “now that” rewards—as
+in “Now that you’ve finished the poster and it turned out so well, I’d like to celebrate by
+taking you out to lunch.”
+As Deci and his colleagues explain, “If tangible rewards are given unexpectedly to people
+after they have finished a task, the rewards are less likely to be experienced as the reason
+for doing the task and are thus less likely to be detrimental to intrinsic motivation.”4
+Likewise, Amabile has found in some studies “that the highest levels of creativity were
+produced by subjects who received a reward as a kind of a bonus.”5 So when the poster
+turns out great, you could buy the design team a case of beer or even hand them a cash
+bonus without snuffing their creativity. The team didn’t expect any extras and getting
+them didn’t hinge on a particular outcome. You’re simply offering your appreciation for
+their stellar work. But keep in mind one ginormous caveat: Repeated “now that” bonuses
+can quickly become expected “if-then” entitlements—which can ultimately crater
+effective performance.
+At this point, by limiting rewards for nonroutine, creative work to the unexpected, “now
+that” variety, you’re in less dangerous waters. But you’ll do even better if you follow two
+more guidelines.
+First, consider nontangible rewards. Praise and positive feedback are much less corrosive
+than cash and trophies. In fact, in Deci’s original experiments, and in his subsequent
+analysis of other studies, he found that “positive feedback can have an enhancing effect
+on intrinsic motivation.”6 So if the folks on the design team turn out a show-stopping
+poster, maybe just walk into their offices and say, “Wow. You really did an amazing job
+on that poster. It’s going to have a huge impact on getting people to come to this event.
+Thank you.” It sounds small and simple, but it can have an enormous effect.
+Second, provide useful information. Amabile has found that while controlling extrinsic
+motivators can clobber creativity, “informational or enabling motivators can be
+conducive” to it.7 In the workplace, people are thirsting to learn about how they’re doing,
+but only if the information isn’t a tacit effort to manipulate their behavior. So don’t tell
+the design team: “That poster was perfect. You did it exactly the way I asked.” Instead,
+give people meaningful information about their work. The more feedback focuses on
+specifics (“great use of color”)—and the more the praise is about effort and strategy
+rather than about achieving a particular outcome—the more effective it can be.
+In brief, for creative, right-brain, heuristic tasks, you’re on shaky ground offering “ifthen”
+rewards. You’re better off using “now that” rewards. And you’re best off if your
+“now that” rewards provide praise, feedback, and useful information.
+(For a visual depiction of this approach, see the flowchart on the next page.)
+When to Use Rewards: A Simple Flowchart
+CHAPTER 3
+Type I and Type X
+Rochester, New York, is an unlikely epicenter for a social earthquake. The companies
+that built this stolid city, just sixty-two miles from the Canadian border, were titans of the
+industrial economy. Eastman Kodak made film. Western Union delivered telegrams.
+Xerox produced photocopiers. And they piloted their enterprises by the precepts of
+Motivation 2.0: If you offer people steady employment and carefully calibrated rewards,
+they’ll do what executives and shareholders want, and everyone will prosper.
+But starting in the 1970s, on the campus of the University of Rochester, a motivational
+revolution was brewing. It began in 1971, when Edward Deci, fresh from his Soma
+puzzle experiments, arrived on campus for a joint appointment in the psychology
+department and the business school. It intensified in 1973, when the business school
+unceremoniously booted Deci because of his heretical findings about rewards, and the
+psychology department hired him full-time. It gathered more steam in 1975, when Deci
+published a book called Intrinsic Motivation. And it launched in earnest in 1977, when a
+student named Richard Ryan showed up for graduate school.
+Ryan, a philosophy major in college, had just missed being drafted into the military.
+Nursing a bit of survivor’s guilt, he’d been working with Vietnam War veterans suffering
+from post-traumatic stress disorder. And he’d come to the University of Rochester to
+learn how to become a better clinician. One day, in a seminar, a professor brought up the
+subject of intrinsic motivation—and then denounced it with table-pounding ferocity. “I
+figured that if there was that much resistance, this must be something interesting,” Ryan
+told me. He picked up a copy of Deci’s book, found it compelling, and asked its author to
+lunch. So commenced a remarkable research collaboration that continues to this day.
+When I met them not long ago, in U of R’s blocky Meliora Hall, the two were a study in
+both contrast and similarity. Deci is tall and reedy, with a pale complexion and thin,
+wispy hair. He speaks in a quiet, soothing voice that reminded me of the late American
+children’s television host Mr. Rogers. Ryan, who has straight white hair parted down the
+middle, is ruddier and more intense. He presses his point like a skilled litigator. Deci,
+meanwhile, waits patiently for you to reach his point—then he agrees with you and
+praises your insight. Deci is the classical music station on your FM dial; Ryan is more
+cable TV. And yet they talk to each other in a cryptic academic shorthand, their ideas
+smoothly in sync. The combination has been powerful enough to make them among the
+most influential behavioral scientists of their generation.
+Together Deci and Ryan have fashioned what they call “self-determination theory.”
+Many theories of behavior pivot around a particular human tendency: We’re keen
+responders to positive and negative reinforcements, or zippy calculators of our selfinterest,
+or lumpy duffel bags of psychosexual conflicts. SDT, by contrast, begins with a
+notion of universal human needs. It argues that we have three innate psychological
+needs—competence, autonomy, and relatedness. When those needs are satisfied, we’re
+motivated, productive, and happy. When they’re thwarted, our motivation, productivity,
+and happiness plummet.1 “If there’s anything [fundamental] about our nature, it’s the
+capacity for interest. Some things facilitate it. Some things undermine it,” Ryan explained
+during one of our conversations. Put another way, we’ve all got that third drive. It’s part
+of what it means to be human. But whether that aspect of our humanity emerges in our
+lives depends on whether the conditions around us support it.
+And the main mechanisms of Motivation 2.0 are more stifling than supportive. “This is a
+really big thing in management,” says Ryan. When people aren’t producing, companies
+typically resort to rewards or punishment. “What you haven’t done is the hard work of
+diagnosing what the problem is. You’re trying to run over the problem with a carrot or a
+stick,” Ryan explains. That doesn’t mean that SDT unequivocally opposes rewards. “Of
+course, they’re necessary in workplaces and other settings,” says Deci. “But the less
+salient they are made, the better. When people use rewards to motivate, that’s when
+they’re most demotivating.” Instead, Deci and Ryan say we should focus our efforts on
+creating environments for our innate psychological needs to flourish.
+Over the last thirty years, through both their scholarship and mentorship, Deci and Ryan
+have established a network of several dozen SDT scholars conducting research in the
+United States, Canada, Israel, Singapore, and throughout Western Europe. These
+scientists have explored self-determination and intrinsic motivation in laboratory
+experiments and field studies that encompass just about every realm—business,
+education, medicine, sports, exercise, personal productivity, environmentalism,
+relationships, and physical and mental health. They have produced hundreds of research
+papers, most of which point to the same conclusion. Human beings have an innate inner
+drive to be autonomous, self-determined, and connected to one another. And when that
+drive is liberated, people achieve more and live richer lives.
+SDT is an important part of a broad swirl of new thinking about the human condition.
+This constellation includes, perhaps most prominently, the positive psychology
+movement, which has reoriented the study of psychological science away from its
+previous focus on malady and dysfunction and toward well-being and effective
+functioning. Under the leadership of the University of Pennsylvania’s Martin Seligman,
+positive psychology has been minting legions of new scholars and leaving a deep imprint
+on how scientists, economists, therapists, and everyday people think about human
+behavior. One of positive psychology’s most influential figures is Mihaly
+Csikszentmihalyi, whom I mentioned earlier. Csikszentmihalyi’s first book about “flow”
+and Seligman’s first book on his theories (which argued that helplessness was learned,
+rather than innate, behavior) appeared in the same year as Deci’s book on intrinsic
+motivation. Clearly, something big was in the air in 1975. It’s just taken us a generation
+to reckon with it.
+The broad assortment of new thinkers includes Carol Dweck of Stanford University and
+Harvard’s Amabile. It includes a few economists—most prominently, Roland Bénabou of
+Princeton University and Bruno Frey of the University of Zurich—who are applying
+some of these concepts to the dismal science. And it includes some scholars who don’t
+study motivation per se—in particular, Harvard University’s Howard Gardner and Tufts
+University’s Robert Sternberg—who have changed our view of intelligence and creativity
+and offered a brighter view of human potential.
+This collection of scholars—not in concert, not intentionally, and perhaps not even
+knowing they’ve been doing so—has been creating the foundation for a new, more
+effective, operating system. At long last, the times may be catching up to their work.
+THE POWER OF THE ALPHABET
+Words matter, of course, but so do letters. Case in point: Meyer Friedman. You’ve
+probably never heard of him, but you almost certainly know his legacy. Friedman, who
+died in 2001 at the ripe old age of ninety, was a cardiologist who for decades ran a
+bustling office in San Francisco. In the late 1950s, he and fellow physician Ray
+Rosenman began noticing similarities in their patients who were prone to heart disease. It
+wasn’t only what these patients ate or what genes they inherited that affected their
+susceptibility to coronary trouble. It was also how they led their lives. These patients,
+Friedman noted, demonstrated:
+a particular complex of personality traits, including excessive competition drive,
+aggressiveness, impatience, and a harrying sense of time urgency. Individuals displaying
+this pattern seem to be engaged in a chronic, ceaseless, and often fruitless struggle—with
+themselves, with others, with circumstances, with time, sometimes with life itself.2
+These people were significantly more likely to develop heart disease than other
+patients—even those who shared similar physical attributes, exercise regimens, diets, and
+family histories. Looking for a convenient and memorable way to explain this insight to
+their medical colleagues and the wider world, Friedman and Rosenman found inspiration
+in the alphabet. They dubbed this behavioral pattern “Type A.”
+Type A behavior stood in contrast to—natch—Type B behavior. Unlike their hornhonking,
+foot-tapping counterparts, who suffered from “hurry sickness,” people
+displaying Type B behavior were rarely harried by life or made hostile by its demands. In
+their research, Friedman and Rosenman found that Type B people were just as intelligent,
+and frequently just as ambitious, as Type A’s. But they wore their ambition differently.
+Writing about the Type B person (and using the male-centered language common in the
+day), the cardiologists explained, “He may also have a considerable amount of ‘drive,’
+but its character is such that it seems to steady him, give confidence and security to him,
+rather than to goad, irritate, and infuriate, as with the Type A man.”3 One key to reducing
+deaths from heart disease and improving public health, therefore, was to help Type A’s
+learn to become a little more like Type B’s.
+Nearly fifty years later, this nomenclature remains. The two letters help us understand a
+complex web of behaviors—and guide us toward a better and more effective way to live.
+Around the same time that Friedman and Rosenman were making their discovery,
+another American was pushing frontiers of his own. Douglas McGregor was a
+management professor at MIT who brought to the job an interesting combination of
+experiences. He’d earned a Ph.D. from Harvard in psychology (rather than in economics
+or engineering). And in contrast to most of his colleagues, he’d actually run an
+institution. From 1948 to 1954, he was president of Antioch College.
+Drawing on his understanding of the human psyche, as well as his experience as a leader,
+McGregor began rethinking the conventions of modern management. He thought that the
+problem with corporate leadership wasn’t so much its execution as its premises.
+Beginning with a speech in 1957, and later in a groundbreaking book called The Human
+Side of Enterprise in 1960, McGregor argued that those running companies were
+operating from faulty assumptions about human behavior.
+Most leaders believed that the people in their organizations fundamentally disliked work
+and would avoid it if it they could. These faceless minions feared taking responsibility,
+craved security, and badly needed direction. As a result, “most people must be coerced,
+controlled, directed, and threatened with punishment to get them to put forth adequate
+effort toward the achievement of organizational objectives.” But McGregor said there
+was an alternative view of employees—one that offered a more accurate assessment of
+the human condition and a more effective starting point for running companies. This
+perspective held that taking an interest in work is “as natural as play or rest,” that
+creativity and ingenuity were widely distributed in the population, and that under the
+proper conditions, people will accept, and even seek, responsibility.4
+To explain these contrasting outlooks, McGregor mined the back end of the alphabet. He
+called the first view Theory X and the second Theory Y. If your starting point was
+Theory X, he said, your managerial techniques would inevitably produce limited results,
+or even go awry entirely. If you believed in the “mediocrity of the masses,” as he put it,
+then mediocrity became the ceiling on what you could achieve. But if your starting point
+was Theory Y, the possibilities were vast—not simply for the individual’s potential, but
+for the company’s bottom line as well. The way to make business organizations work
+better, therefore, was to shift management thinking away from Theory X and toward
+Theory Y.
+Once again, the nomenclature stuck—and McGregor’s approach soon became a staple of
+management education.d A picture may be worth a thousand words—but sometimes
+neither is as potent as just two letters.
+So with a hoist from Meyer Friedman onto the shoulders of Douglas McGregor, I’d like
+to introduce my own alphabetic way to think about human motivation.
+TYPE I AND TYPE X
+The Motivation 2.0 operating system depended on, and fostered, what I call Type X
+behavior. Type X behavior is fueled more by extrinsic desires than intrinsic ones. It
+concerns itself less with the inherent satisfaction of an activity and more with the external
+rewards to which that activity leads. The Motivation 3.0 operating system—the upgrade
+that’s needed to meet the new realities of how we organize, think about, and do what we
+do—depends on what I call Type I behavior. Type I behavior is fueled more by intrinsic
+desires than extrinsic ones. It concerns itself less with the external rewards to which an
+activity leads and more with the inherent satisfaction of the activity itself. At the center of
+Type X behavior is the second drive. At the center of Type I behavior is the third drive.
+If we want to strengthen our organizations, get beyond our decade of underachievement,
+and address the inchoate sense that something’s gone wrong in our businesses, our lives,
+and our world, we need to move from Type X to Type I. (I use these two letters largely to
+signify “extrinsic” and “intrinsic,” but also to pay homage to Douglas McGregor.)
+To be sure, reducing human behavior to two categories sacrifices a certain amount of
+nuance. And nobody exhibits purely Type X or Type I behavior every waking minute of
+every living day without exception. But we do have certain, often very clear, dispositions.
+You probably know what I mean. Think about yourself. Does what energizes you—what
+gets you up in the morning and propels you through the day—come from the inside or
+from the outside? What about your spouse, your partner, or your children? How about the

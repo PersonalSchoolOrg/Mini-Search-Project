@@ -1,0 +1,407 @@
+Cannon-Brookes was still dissatisfied. FedEx Days were working fine, but they had an
+inherent weakness. “You built something in twenty-four hours, but you didn’t get any
+more time to work on it,” he says. So he and cofounder Farquhar decided to double-down
+their bet on employee autonomy. In the spring of 2008, they announced that for the next
+six months, Atlassian developers could spend 20 percent of their time—rather than just
+one intense day—working on any project they wanted. As Cannon-Brookes explained in
+a blog post to employees:
+A startup engineer must be all things—he (or she) is a full time software developer and a
+part time product manager/ customer support guru/internal systems maven. As a company
+grows, an engineer spends less time building the things he personally wants in the
+product. Our hope is that 20% time gives engineers back dedicated stack time—of their
+own direction—to spend on product innovation, features, plugins, fixes or additions that
+they think are the most important.6
+This practice has a sturdy tradition and a well-known modern expression. Its pioneer was
+the American company 3M. In the 1930s and 1940s, 3M’s president and chairman was
+William McKnight, a fellow who was as unassuming in his manner as he was visionary
+in his thinking. McKnight believed in a simple, and at the time, subversive, credo: “Hire
+good people, and leave them alone.” Well before it was fashionable for managers to flap
+on about “empowerment,” he made a more vigorous case for autonomy. “Those men and
+women to whom we delegate authority and responsibility, if they are good people, are
+going to want to do their jobs in their own way,” he wrote in 1948.7 McKnight even
+encouraged employees to engage in what he called “experimental doodling.”
+“As an entrepreneur, I’m blessed with 100% autonomy over task, time, technique and
+team. Here’s the thing: If I maintain that autonomy, I fail. I fail to ship. I fail to excel. I
+fail to focus. I inevitably end up either with no product or a product the market rejects.
+The art of the art is picking your limits. That’s the autonomy I most cherish. The freedom
+to pick my boundaries.”
+SETH GODIN, Author of Tribes, Purple Cow, and the world’s most popular marketing
+blog
+With these unorthodox ideas percolating in his mind, this unlikely corporate heretic
+established a new policy: 3M’s technical staff could spend up to 15 percent of their time
+on projects of their choosing. The initiative felt so counter to the mores of Motivation 2.0,
+so seemingly illicit, that inside the company, it was known as the “bootlegging policy.”
+And yet it worked. These walled gardens of autonomy soon became fertile fields for a
+harvest of innovations—including Post-it notes. Scientist Art Fry came up with his idea
+for the ubiquitous stickie not in one of his regular assignments, but during his 15 percent
+time. Today, Post-its are a monumental business: 3M offers more than six hundred Post-it
+products in more than one hundred countries. (And their cultural impact might be even
+greater. Consider: But for McKnight’s early push for autonomy, we’d be living in a world
+without any small yellow squares stuck to our computer monitors. A chilling thought
+indeed.) According to 3M’s former head of research and development, most of the
+inventions that the company relies on even today emerged from those periods of
+bootlegging and experimental doodling.8
+McKnight’s innovation remains in place at 3M. But only a surprisingly small number of
+other companies have moved in this direction, despite its proven results. The best-known
+company to embrace it is Google, which has long encouraged engineers to spend one day
+a week working on a side project. Some Googlers use their “20 percent time” to fix an
+existing product, but most use it to develop something entirely new. Of course, Google
+doesn’t sign away the intellectual property rights to what’s created during that 20
+percent—which is wise. In a typical year, more than half of Google’s new offerings are
+birthed during this period of pure autonomy. For example, scientist Krishna Bharat,
+frustrated by how difficult it was to find news stories online, created Google News in his
+20 percent time. The site now receives millions of visitors every day. Former Google
+engineer Paul Bucheit created Gmail, now one of the world’s most popular e-mail
+programs, as his 20 percent project. Many other Google products share similar creation
+stories—among them Orkut (Google’s social networking software), Google Talk (its
+instant message application), Google Sky (which allows astronomically inclined users to
+browse pictures of the universe), and Google Translate (its translation software for
+mobile devices). As Google engineer Alec Proudfoot, whose own 20 percent project
+aimed at boosting the efficiency of hybrid cars, put it in a television interview: “Just
+about all the good ideas here at Google have bubbled up from 20 percent time.”9
+Back at Atlassian, the experiment in 20 percent time seemed to work. In what turned out
+to be a yearlong trial, developers launched forty-eight new projects. So in 2009, Cannon-
+Brookes decided to make this dose of task autonomy a permanent feature of Atlassian
+work life. The decision didn’t sit well with everyone. By Cannon-Brookes’s back-of-theblog
+calculations, seventy engineers, spending 20 percent of their time over just a sixmonth
+period, amounted to an investment of $1 million. The company’s chief financial
+officer was aghast. Some project managers—despite Atlassian’s forward-thinking ways,
+the company still uses the m-word—weren’t happy, because it meant ceding some of
+their control over employees. When a few wanted to track employees’ time to make sure
+they didn’t abuse the privilege, Cannon-Brookes said no. “That was too controlling. I
+wanted to back our engineers and take it on faith that they’ll do good things.” Besides, he
+says, “People are way more efficient about 20 percent time than regular work time. They
+say, ‘I’m not going to [expletive]ing do anything like read newsfeeds or do Facebook.’ ”
+These days, when a finance guy, pearls of sweat rolling from his green eyeshades, objects
+to the price tag, Cannon-Brookes has a ready response: “I show him a long list of things
+we’ve delivered. I show him that we have zero turnover in engineering. And I show him
+that we have highly motivated engineers who are always trying to perfect and improve
+our product.”
+Autonomy over task is one of the essential aspects of the Motivation 3.0 approach to
+work. And it isn’t reserved only for technology companies. At Georgetown University
+Hospital in Washington, D.C., for instance, many nurses have the freedom to conduct
+their own research projects, which in turn have changed a number of the hospital’s
+programs and policies.10 Autonomy measures can work in a range of fields—and offer a
+promising source for innovations and even institutional reforms.
+Initiatives like FedEx Days and sanctioned side projects aren’t always easy to execute in
+the day-to-day maw of serving customers, shipping products, and solving problems. But
+they’re becoming urgent in an economy that demands nonroutine, creative, conceptual
+abilities—as any artist or designer would agree. Autonomy over task has long been
+critical to their ability to create. And good leaders (as opposed to competent “managers”)
+understand this in their bones.
+Case in point: George Nelson, who was the design director at Her-man Miller, the iconic
+American furniture maker, for a few decades. He once laid down five simple tenets that
+he believed led to great design. One of these principles could serve as a rallying cry for
+Type I’s ethic of autonomy over task: “You decide what you will make.”
+Time
+Ever wonder why lawyers, as a group, are so miserable? Some social scientists have—
+and they’ve offered three explanations. One involves pessimism. Being pessimistic is
+almost always a recipe for low levels of what psychologists call “subjective well-being.”
+It’s also a detriment in most professions. But as Martin Seligman has written, “There is
+one glaring exception: pessimists do better at law.” In other words, an attitude that makes
+someone less happy as a human being actually makes her more effective as a lawyer.11 A
+second reason: Most other enterprises are positive-sum. If I sell you something you want
+and enjoy, we’re both better off. Law, by contrast, is often (though not always) a zerosum
+game: Because somebody wins, somebody else must lose.
+But the third reason might offer the best explanation of all—and help us understand why
+so few attorneys exemplify Type I behavior. Lawyers often face intense demands but
+have relatively little “decision latitude.” Behavioral scientists use this term to describe the
+choices, and perceived choices, a person has. In a sense, it’s another way of describing
+autonomy—and lawyers are glum and cranky because they don’t have much of it. The
+deprivation starts early. A 2007 study of two American law schools found that over the
+three-year period in school, students’ overall well-being plummeted—in large part
+because their need for autonomy was thwarted. But students who had greater autonomy
+over their course selection, their assignments, and their relations with professors showed
+far less steep declines and actually posted better grades and bar exam scores.12
+“Nothing is more important to my success than controlling my schedule. I’m most
+creative from five to nine A.M. If I had a boss or co-workers, they would ruin my best
+hours one way or another.”
+SCOTT ADAMS
+Dilbert creator
+Alas, at the heart of private legal practice is perhaps the most autonomy-crushing
+mechanism imaginable: the billable hour. Most lawyers—and nearly all lawyers in large,
+prestigious firms—must keep scrupulous track, often in six-minute increments, of their
+time. If they fail to bill enough hours, their jobs are in jeopardy. As a result, their focus
+inevitably veers from the output of their work (solving a client’s problem) to its input
+(piling up as many hours as possible). If the rewards come from time, then time is what
+firms will get. These sorts of high-stakes, measurable goals can drain intrinsic
+motivation, sap individual initiative, and even encourage unethical behavior. “If one is
+expected to bill more than two thousand hours per year,” former U.S. Supreme Court
+Chief Justice William Rehnquist once said, “there are bound to be temptations to
+exaggerate the hours actually put in.”13
+The billable hour is a relic of Motivation 2.0. It makes some sense for routine tasks—
+whether fitting doors onto the body of a Ford Taurus or adding up deductions on a simple
+tax form—because there’s a tight connection between how much time goes in and how
+much work comes out. And if your starting assumption is that workers’ default setting is
+to shirk, monitoring their time can keep them on their toes.
+But the billable hour has little place in Motivation 3.0. For nonroutine tasks, including
+law, the link between how much time somebody spends and what that somebody
+produces is irregular and unpredictable. Imagine requiring inventor Dean Kamen or
+actress Helen Mirren to bill for their time. If we begin from an alternative, and more
+accurate, presumption—that people want to do good work—then we ought to let them
+focus on the work itself rather than the time it takes them to do it. Already, a few law
+firms are moving in this new, more Type I direction—charging a flat rate rather than a
+time-based fee—with the presiding partner of one of New York’s leading law firms
+recently declaring, “This is the time to get rid of the billable hour.”14
+If the billable hour has an antithesis, it’s the results-only work environment of the kind
+that Jeff Gunther has introduced at his companies. The first large company to go ROWE
+was Best Buy—not in its stores, but in its corporate offices. Like 3M’s 15 percent time,
+Best Buy’s ROWE experiment began as something of a rogue project launched by
+Ressler and Thompson, whom I mentioned earlier and who have since become ROWE
+gurus, taking their message of autonomy around the world. Best Buy’s headquarters in
+Richfield, Minnesota, are airy, modern, and replete with a concierge, cafés, and dry
+cleaner. But the company had a reputation for punishing hours and intrusive bosses—and
+it was paying the price in lost talent. Best Buy’s then CEO Brad Anderson quietly agreed
+to Ressler and Thompson’s weird proposal, because it encouraged “people to contribute
+rather than just show up and grind out their days.”15
+Today, Best Buy’s headquarters has fewer people working a regular schedule than it has
+those working a ROWE un-schedule. And even though retail electronics is a brutally
+competitive industry, Best Buy has held its own both in the marketplace and in its quest
+for talent. Reporting on the company’s ROWE results in the Harvard Business Review,
+Tamara Erickson writes:
+Salaried people put in as much time as it takes to do their work. Hourly employees in the
+program work a set number of hours to comply with federal labor regulations, but they
+get to choose when. Those employees report better relationships with family and friends,
+more company loyalty, and more focus and energy. Productivity has increased by 35%,
+and voluntary turnover is 320 basis points lower than in teams that have not made the
+change. Employees say they don’t know whether they work fewer hours—they’ve
+stopped counting.16
+Without sovereignty over our time, it’s nearly impossible to have autonomy over our
+lives. A few Type I organizations have begun to recognize this truth about the human
+condition and to realign their practices. More, no doubt, will follow. “In the past, work
+was defined primarily by putting in time, and secondarily on getting results. We need to
+flip that model,” Ressler told me. “No matter what kind of business you’re in, it’s time to
+throw away the tardy slips, time clocks, and outdated industrial-age thinking.”
+Technique
+When you call a customer service line to complain about your cable television bill or to
+check the whereabouts of that blender you ordered, the phone usually rings in a colorless
+cavern known as a call center. The person who answers the call, a customer service
+representative, has a tough job. He typically sits for hours among a warren of cramped
+cubicles—headset strapped on, a diet soda by his side. The pay is paltry. And the people
+the rep encounters on the phone—one after another after another—generally aren’t
+ringing up to offer kudos or to ask about the rep’s weekend plans. They’ve got a gripe, a
+frustration, or a problem that needs solving. Right. Now.
+If that weren’t trying enough, call center reps have little decision latitude and their jobs
+are often the very definition of routine. When a call comes in, they listen to the caller—
+and then, in most cases, tap a few buttons on their computer to retrieve a script. Then they
+follow that script, sometimes word for word, in the hope of getting the caller off the line
+as quickly as possible. It can be deadening work, made drearier still because managers in
+many call centers, in an effort to boost productivity, listen in on reps’ conversations and
+monitor how long each call lasts. Little wonder, then, that call centers in the United States
+and the UK have annual turnover rates that average about 35 percent, double the rate for
+other jobs. In some call centers the annual turnover rate exceeds 100 percent, meaning
+that, on average, none of the people working there today will be there a year from now.
+Tony Hsieh, founder of the online shoe retailer Zappos.com (now part of Amazon.com),
+thought there was a better way to recruit, prepare, and challenge such employees. So new
+hires at Zappos go through a week of training. Then, at the end of those seven days,
+Hsieh makes them an offer. If they feel Zappos isn’t for them and want to leave, he’ll pay
+them $2,000—no hard feelings. Hsieh is hacking the Motivation 2.0 operating system
+like a brilliant and benevolent teenage computer whiz. He’s using an “if-then” reward not
+to motivate people to perform better, but to weed out those who aren’t fit for a
+Motivation 3.0-style workplace. The people who remain receive decent pay, and just as
+important, they have autonomy over technique. Zappos doesn’t monitor its customer
+service employees’ call times or require them to use scripts. The reps handle calls the
+way they want. Their job is to serve the customer well; how they do it is up to them.
+The results of this emphasis on autonomy over technique? Turnover at Zappos is
+minimal. And although it’s still young, Zappos consistently ranks as one of the best
+companies for customer service in the United States—ahead of better-known names like
+Cadillac, BMW, and Apple and roughly equal to ritzy brands like Jaguar and the Ritz-
+Carlton.17 Not bad for a shoe company based in the Nevada desert.
+What Zappos is doing is part of a small but growing move to restore some measure of
+individual freedom in jobs usually known for the lack of it. For instance, while many
+enterprises are offshoring work to low-cost providers overseas, some companies are
+reversing the trend by beginning what’s known as “homeshoring.” Instead of requiring
+customer service reps to report to a single large call center, they’re routing the calls to the
+employees’ homes. This cuts commuting time for staff, removes them from physical
+monitoring, and provides far greater autonomy over how they do their jobs.
+The American airline JetBlue was one of the first to try this approach. From its launch in
+2000, JetBlue has relied on telephone customer service employees who work at home.
+And from its launch, JetBlue has earned customer service rankings far ahead of its
+competitors. Productivity and job satisfaction are generally higher in homeshoring than in
+conventional arrangements—in part because employees are more comfortable and less
+monitored at home. But it’s also because this autonomy-centered approach draws from a
+deeper pool of talent. Many homeshore employees are parents, students, retirees, and
+people with disabilities—those who want to work, but need to do it their own way.
+According to one report, between 70 and 80 percent of home-based customer service
+agents have college degrees—double the percentage among people working in traditional
+call centers. Ventures like Alpine Access, PHH Arval, and LiveOps, which run customer
+service departments for a range of companies, report that after adopting this method, their
+recruiting costs fall to almost zero. Prospective employees come to them. And now these
+home-based customer service reps are working for a number of U.S. companies—
+including 1-800-Flowers, J. Crew, Office Depot, even the Internal Revenue Service—
+handling customer inquiries the way they choose.18 As in any effective Motivation 3.0
+workplace, it’s their call.
+Team
+Whatever your place in the birth order, consider what it’s like to be the third child in a
+family. You don’t get a say in choosing the people around you. They’re there when you
+arrive. Worse, one or two of them might not be so glad to see you. And getting rid of
+even just one of them is usually impossible.
+“Autonomy over what we do is most important. The biggest difference between working
+for other studios and running my own has been the fact that I can choose what job we
+take on and what product, service, or institution we promote. This I find the single most
+important question: When I’m close to the content, research becomes easy, meetings
+become interesting (people who produce interesting products or services are mostly
+interesting themselves), and I don’t have to be involved in false advertising.”
+STEFAN SAGMEISTER
+Designer
+Taking a new job and holding most jobs are similar. Enterprising souls might be able to
+scratch out some autonomy over task, time, and technique—but autonomy over team is a
+taller order. That’s one reason people are drawn to entrepreneurship—the chance to build
+a team of their own. But even in more traditional settings, although far from typical yet, a
+few organizations are discovering the virtues of offering people some amount of freedom
+over those with whom they work.
+For example, at the organic grocery chain Whole Foods, the people who are nominally in
+charge of each department don’t do the hiring. That task falls to a department’s
+employees. After a job candidate has worked a thirty-day trial period on a team, the
+prospective teammates vote on whether to hire that person full-time. At W. L. Gore &
+Associates, the makers of the GORE-TEX fabric and another example of Motivation 3.0
+in action, anybody who wants to rise in the ranks and lead a team must assemble people
+willing to work with her.19
+The ability to put together a pick-up basketball team of company talent is another
+attraction of 20 percent time. These initiatives usually slice across the organization chart,
+connecting people who share an interest, if not a department. As Google engineer Bharat
+Mediratta told The New York Times, “If your 20 percent idea is a new product, it’s
+usually pretty easy to just find a few like-minded people and start coding away.” And
+when pushing for a more systemic change in the organization, Mediratta says autonomy
+over team is even more important. Those efforts require what he calls a “grouplet”—a
+small, self-organized team that has almost no budget and even less authority, but that tries
+to change something within the company. For instance, Mediratta formed a testing
+grouplet to encourage engineers throughout the company to implement a more efficient
+way to test computer code. This informal band of coders, a team built autonomously
+without direction from the top, “slowly turned the organization on its axis.”20
+Still, the desire for autonomy can often collide with other obligations. One surprise as
+Atlassian ran the numbers on its task autonomy experiment was that most employees
+came in substantially under the 20 percent figure. The main reason? They didn’t want to
+let down their current teammates by abandoning ongoing projects.
+Although autonomy over team is the least developed of the four T’s, the ever-escalating
+power of social networks and the rise of mobile apps now make this brand of autonomy
+easier to achieve—and in ways that reach beyond a single organization. The open-source
+projects I mentioned in Chapter 1, in which ad hoc teams self-assemble to build a new
+browser or create better server software, are a potent example. And once again, the
+science affirms the value of something traditional businesses have been slow to embrace.
+Ample research has shown that people working in self-organized teams are more satisfied
+than those working in inherited teams.21 Likewise, studies by Deci and others have shown
+that people high in intrinsic motivation are better coworkers.22 And that makes the
+possibilities on this front enormous. If you want to work with more Type I’s, the best
+strategy is to become one yourself. Autonomy, it turns out, can be contagious.
+THE ART OF AUTONOMY
+Think for a moment about the great artists of the last hundred years and how they
+worked—people like Pablo Picasso, Georgia O’Keeffe, and Jackson Pollock. Unlike for
+the rest of us, Motivation 2.0 was never their operating system. Nobody told them: You
+must paint this sort of picture. You must begin painting precisely at eight-thirty A.M. You
+must paint with the people we select to work with you. And you must paint this way. The
+very idea is ludicrous.
+But you know what? It’s ludicrous for you, too. Whether you’re fixing sinks, ringing up
+groceries, selling cars, or writing a lesson plan, you and I need autonomy just as deeply
+as a great painter.
+However, encouraging autonomy doesn’t mean discouraging accountability. Whatever
+operating system is in place, people must be accountable for their work. But there are
+different ways to achieve this end, each built on different assumptions about who we are
+deep down. Motivation 2.0 assumed that if people had freedom, they would shirk—and
+that autonomy was a way to bypass accountability. Motivation 3.0 begins with a different
+assumption. It presumes that people want to be accountable—and that making sure they
+have control over their task, their time, their technique, and their team is a pathway to
+that destination.
+Of course, because most workplaces still reverberate with the assumptions of the old
+operating system, transitioning to autonomy won’t—often can’t—happen in one fell
+swoop. If we pluck people out of controlling environments, when they’ve known nothing
+else, and plop them in a ROWE or an environment of undiluted autonomy, they’ll
+struggle. Organizations must provide, as Richard Ryan puts it, “scaffolding” to help
+every employee find his footing to make the transition.
+What’s more, different individuals will prize different aspects of autonomy. Some might
+crave autonomy over a task; others might prefer autonomy over the team. As Zappos
+CEO Hsieh told me by e-mail, “Studies have shown that perceived control is an
+important component of one’s happiness. However, what people feel like they want
+control over really varies, so I don’t think there’s one aspect of autonomy that’s
+universally the most important. Different individuals have different desires, so the best
+strategy for an employer would be to figure out what’s important to each individual
+employee.”
+Still, however those individual desires express themselves on the surface, they grow from
+common roots. We’re born to be players, not pawns. We’re meant to be autonomous
+individuals, not individual automatons. We’re designed to be Type I. But outside
+forces—including the very idea that we need to be “managed”—have conspired to
+change our default setting and turn us into Type X. If we update the environments we’re
+in—not only at work, but also at school and at home—and if leaders recognize both the
+truth of the human condition and the science that supports it, we can return ourselves and
+our colleagues to our natural state.
+“The course of human history has always moved in the direction of greater freedom. And
+there’s a reason for that—because it’s in our nature to push for it,” Ryan told me. “If we
+were just plastic like [some] people think, this wouldn’t be happening. But somebody
+stands in front of a tank in China. Women, who’ve been denied autonomy, keep
+advocating for rights. This is the course of history. This is why ultimately human nature,
+if it ever realizes itself, will do so by becoming more autonomous.”
+CHAPTER 5
+Mastery
+You need not see what someone is doing
+to know if it is his vocation,
+you have only to watch his eyes:
+a cook mixing a sauce, a surgeon
+making a primary incision,
+a clerk completing a bill of lading,
+wear the same rapt expression, forgetting
+themselves in a function.
+How beautiful it is,
+that eye-on-the-object look.
+—W. H. Auden
+One summer morning in 1944, Mihaly Csikszentmihalyi, age ten, stood on a train
+platform in Budapest, Hungary, with his mother, two brothers, and about seventy
+relatives who’d come to see them off. World War II was raging, and Hungary, an
+ambivalent member of the Axis, was being squeezed from every political and geographic
+corner. Nazi soldiers were occupying the country in retaliation for Hungary’s secret
+peace negotiations with the United States and Great Britain. Meanwhile, Soviet troops
+were advancing on the capital city.
+It was time to leave. So the foursome boarded a train for Venice, Italy, where
+Csikszentmihalyi’s father, a diplomat, was working. As the train rumbled southwest,
+bombs exploded in the distance. Bullets ripped through the train’s windows, while a rifletoting
+soldier on board fired back at the attackers. The ten-year-old crouched under his
+seat, terrified but also a little annoyed.
+“It struck me at that point that grown-ups had really no idea how to live,”
+Csikszentmihalyi told me some sixty-five years later.
+His train would turn out to be the last to cross the Danube River for many years. Shortly
+after its departure, air strikes destroyed Hungary’s major bridges. The Csikszentmihalyis
+were well educated and well connected, but the war flattened their lives. Of the relatives
+on the train platform that morning, more than half would be dead five months later. One
+of Csikszentmihalyi’s brothers spent six years doing hard labor in the Ural Mountains.
+Another was killed fighting the Soviets.
+“The whole experience got me thinking,” Csikszentmihalyi said, recalling his ten-yearold
+self. “There has got to be a better way to live than this.”
+The opposite of autonomy is control. And since they sit at different poles of the
+behavioral compass, they point us toward different destinations. Control leads to
+compliance; autonomy leads to engagement. And this distinction leads to the second
+element of Type I behavior: mastery—the desire to get better and better at something that
+matters.
+As I explained in Part One, Motivation 2.0’s goal was to encourage people to do
+particular things in particular ways—that is, to get them to comply. And for that
+objective, few motivators are more effective than a nice bunch of carrots and the threat of
+an occasional stick. This was rarely a promising route to self-actualization, of course. But
+as an economic strategy, it had a certain logic. For routine tasks, the sort of work that
+defined most of the twentieth century, gaining compliance usually worked just fine.
+But that was then. For the definitional tasks of the twenty-first century, such a strategy
+falls short, often woefully short. Solving complex problems requires an inquiring mind
+and the willingness to experiment one’s way to a fresh solution. Where Motivation 2.0
+sought compliance, Motivation 3.0 seeks engagement. Only engagement can produce
+mastery. And the pursuit of mastery, an important but often dormant part of our third
+drive, has become essential in making one’s way in today’s economy.
+Unfortunately, despite sweet-smelling words like “empowerment” that waft through
+corporate corridors, the modern workplace’s most notable feature may be its lack of
+engagement and its disregard for mastery. Gallup’s extensive research on the subject
+shows that in the United States, more than 50 percent of employees are not engaged at
+work—and nearly 20 percent are actively disengaged. The cost of all this disengagement:
+about $300 billion a year in lost productivity—a sum larger than the GDP of Portugal,
+Singapore, or Israel.1 Yet in comparative terms, the United States looks like a veritable
+haven of Type I behavior at work. According to the consulting firm McKinsey & Co., in
+some countries as little as 2 to 3 percent of the workforce is highly engaged in their
+work.2
+Equally important, engagement as a route to mastery is a powerful force in our personal
+lives. While complying can be an effective strategy for physical survival, it’s a lousy one
+for personal fulfillment. Living a satisfying life requires more than simply meeting the
+demands of those in control. Yet in our offices and our classrooms we have way too
+much compliance and way too little engagement. The former might get you through the
+day, but only the latter will get you through the night. And that brings us back to
+Csikszentmihalyi’s story.
+In his early teens, after witnessing the atrocities of Nazi Germany and the Soviet takeover
+of his country, Csikszentmihalyi was understandably weary of compliance and looking
+for engagement. But he wouldn’t find it at school. He dropped out of high school at
+thirteen. For nearly a decade, he worked in various Western European countries at a
+series of jobs, some odder than others, to support himself. And hoping to answer his
+youthful question about a better way to live, he read everything he could get his hands on

@@ -1,0 +1,205 @@
+Google and Facebook can be legally intercepted, says UK spy boss
+The UK government has revealed that intelligence service GCHQ can snoop on British citizens' use of Facebook and Google without an individual warrant because the firms are based overseas.
+UK spy boss Charles Farr said that the services are classified as external communications.
+The policy was revealed as part of a continuing legal battle with campaign group Privacy International (PI).
+PI said the interpretation of the law "patronises the British people".
+It is the first time the UK has commented on how its legal framework allows the mass interception of communications as outlined by US whistleblower Edward Snowden in his leaks about global government surveillance.
+The former National Security Agency contractor revealed extensive details of internet and phone snooping and has since fled the US and sought temporary asylum in Russia.
+Charles Farr, director general of the Office of Security and Counter-Terrorism told PI that Facebook, Twitter, YouTube and web searches on Google - as well as webmail services such as Hotmail and Yahoo - are classified as "external communications", which means that they can be intercepted without the need for additional legal clearance.
+The internal communications between citizens can only be intercepted when a targeted warrant is issued. Warrants must be signed by a minister and can only be issued when there is suspicion of illegal activity.
+But when someone searches for something on Google or posts on Facebook they are sending information overseas - constituting an act of external communication which could be collected under a broader warrant which does not need to be signed by a minister, explained Mr Farr in a 48-page written statement.
+He said data collected in this way "cannot be read, looked at or listened to" except in strictly limited circumstances.
+Mr Farr said there was a "significant distinction" between intercepting material and a person actually reading, looking at or listening it.
+Analysis - Gordon Corera, security correspondent
+British intelligence has always said that its activities are lawful.
+But one of the problems has been that the law surrounding interception is incredibly hard to understand. Charles Farr's statement provides new details of how the government believes it applies to different forms of communications.
+It reveals that a Google search by someone in Britain may be considered an external communication because the request and the result goes abroad to Google's computers.
+That means it could be swept up under the broader warrant covering "external "communications.
+However, Mr Farr says that actually reading or examining a Briton's communications swept up in this way would still require a domestic, more targeted warrant.
+Much of the debate over whether the state does conduct mass surveillance comes down to a central question - does the act of computers collecting information constitute surveillance or does it take a person reading or accessing that data for someone's privacy to be invaded?
+Speak to privacy advocates and government officials and you get a radically different answer.
+Mr Farr did not reveal the extent to which GCHQ uses its power to intercept external communications.
+In a statement, GCHQ said all its work "is carried out in accordance with a strict legal and policy framework which ensures that our activities are authorised, necessary and proportionate".
+'Byzantine' laws
+But civil liberty groups were outraged by the revelations.
+James Welch, legal director of human rights group Liberty, said: "The security services consider that they're entitled to read, listen and analyse all our communications on Facebook, Google and other US-based platforms.
+"If there was any remaining doubt that our snooping laws need a radical overhaul there can be no longer."
+Meanwhile Eric King, deputy director of Privacy International said the revelation showed that spy agencies operated under their own laws.
+"Intelligence agencies cannot be considered accountable to parliament and to the public they serve when their actions are obfuscated through secret interpretations of Byzantine laws."
+But some others did not find the revelations surprising.
+Alan Woodward, a security expert who has undertaken consultancy work for GCHQ said: "I think what is happening is that people are just becoming familiar with legislation that has been in place for many years, probably because of all the civil liberty groups raising concerns. As you can see from the Act, it has never been a secret.
+"The bit that people tend to forget is that RIPA [Regulation of Investigatory Powers] has protections as well. Something you won't find in many other countries. The difference in the UK is that civil liberty organisations have the right to challenge these things, a right which they would not have in, say, Russia."
+The legal challenge, brought by PI, Amnesty, the American Civil Liberties Union and six other national civil liberties organisations, was a direct response to the revelations made by Edward Snowden about the UK's global digital surveillance.
+
+You want to fight something in the air? You get in the air and shoot it. You want to fight something on the ground? You slam down and get your feet dirty. No other weapon is as flexible or dangerous. Inside my rig, I can take on any terran machine and tear it apart. Anytime you think you're up for it, you're welcome to climb into a different ride and give that challenge a try." 
+Erik muttered an apology. "I was only making a—" 
+Baleog cut him off. "You might be the best damn transport chief around. Out here, you're nothing but a baby bird with a big mouth. Now shut up and try to learn something that might keep you from getting us all killed. 
+Erik didn't respond. 
+Varg pointed his Gatling cannon at the ridge again. "We go in fast before they notice us, then hit them hard with our big guns. Once that gets their attention, they'll send out some ground troops to deal with us. We'll jump into the air and switch to fighter mode before they reach us." 
+The tip of Varg's Gatling cannon rose up to target the airborne zerg. "From there, we go in and take out as many of those sky bugs as we can. Focus on the mutalisks first, the ones with wings. They're the biggest threat." 
+"And once we're done with that?" asked Scorch. Erik liked that she thought ahead. 
+"We land and start taking out the ground bugs again. We keep at it until we get the word that it's time to go home. Clear?" 
+"As ice," Scorch said. The others chimed in as well. 
+The plan seemed like a good one. It had the benefit of simplicity, which Erik prized, given how little experience he had in a viking. Back when he'd been flying a Wraith, his commanders had employed the same sort of hit-and-run tactics, only without the wrinkle of landing and taking off again. Erik felt a surge of hope, which he hadn't known since he'd first heard of the zerg invasion. 
+At Varg's signal, they resumed their march. Once they got within what the major deemed to be an acceptable range from the zerg, he called a halt again. When the snow settled this time, Erik saw how large the ridge really was, and hope drained right out of him. 
+From this distance, Erik could see the color of the zerg carapaces, the bruised purples and unnatural greens that bulged out of their basic palette of shit browns. He could see their mandibles moving, chewing, and his stomach churned in disgust. He didn't have much time to wallow in his growing sense of dread, though. 
+"Hit 'em hard!" Varg opened up with his Gatling cannons, and the rest of the vikings joined in. 
+Erik spun up his own cannons, one mounted on each of his walker's shoulders, and let loose. A fire-hose spray of metal slugs spat out and tore through the hard-shelled zerg, the thick and viscous creep, and the honeycombed ice underneath. The viking's carapace protected Erik's ears from the thunderous racket the guns produced, but he could still feel the constant rattle of the discharge thrumming through his bones. 
+Baleog howled with glee as the vikings' assault turned the zerg on the cliff's face into dark purple paste, and Scorch and Olaf chimed in. The vikings had caught many of the creatures unawares, killing them before they had a chance to flee. Others, though, had managed to slip back inside the ridge through the myriad tunnels they'd chewed into it, disappearing from sight. 
+"Keep it up!" Varg said. "We got 'em on the run!" 
+A grin broke out on Erik's face, and he found he couldn't suppress it. Taking out the bugs was more of a thrill than he could have imagined. The fact that doing it might save his wife and child and everyone else in the settlements only made it that much better. 
+His guns began to glow. At first they just showed a hint of red around the tips, but it soon crept backward along the barrels, growing brighter. The heat from the friction of the bullets must have been tremendous, especially given how cold it was outside. 
+"Looking good, my little vikings!" Varg said. 
+Rather than burrowing into the ridge, one line of zerg made a mad dash for the foot of the cliff. Erik followed them with his weapons, tearing them to pieces. The few that he missed managed to escape into tunnels near the base, and Erik redoubled his efforts to blast the zerg out of there, exposing them in their hidey-holes one vicious bullet at a time. 
+"Watch it, kid!" Varg said. "Raise your guns! You keep that up, you're liable to bring the whole—oh, shit." 
+As Varg spoke, the face of the ridge began to collapse. It started with the small section near the bottom where Erik had been focusing his fire. He'd just spotted a huge infestation of zerg, and no matter how many bullets he'd fired at it, more of the creatures squirted out of their burrows, as if there wasn't enough room for them all to hide. 
+That turned out to be true, Erik saw, when the first several meters of ice crumpled and gave way. The exposed zerg were packed in so tight that they almost exploded outward with the fragmented ice, and they scrambled for cover like cockroaches from light. They didn't get far, though, before the rest of the wall tumbled down on top of them. 
+Without the ice at the base to support it, the wall's face cracked and crumbled away, crashing to the ground like a combination of an avalanche and a waterfall. Erik could feel 
+the impact through the viking's insulation, rumbling like thunder that might never end. As the ice landed, it shattered and rolled up into the sky, forming a gigantic cloud that roiled out from the ridge like a tidal wave of snow. 
+"Dammit!" Varg said. "Brace yourselves!" 
+Erik had already planted his viking's feet square on the ice to deal with the recoil from his Gatling cannons. He didn't think the oncoming crush of snow could be much worse. As soon as it smacked into him, he realized how wrong he was. 
+The snow wasn't the thin, stirred-up powder that obstructed his vision when he and the rest of the vikings strode across the land. This was solid, heavy stuff, shards of ice that had stood there since the planet had refrozen after the protoss purification. It slammed into him like a tank and drove him backward, burying him deeper with every centimeter he gave. 
+At first Erik fought hard, struggling to stay upright, but he soon realized it was pointless. He raised the walker's Gatling-gun arms and did his best to ride the rising wave of snow. It swept his viking off its feet, and for a moment he felt as if the machine were treading water backward in a tsunami. 
+Then everything went white. And then it went black. 
+An avalanche hitting you was nature doing its level best to murder you. The noise—a low rumble like thunder from the ground—tumbled through him hard and fast until it felt as if it had absorbed him, as if he'd become a part of it. Although he could breathe just fine inside the viking, the avalanche's speed and force rattled him against his restraints and knocked the wind from him. He was sure he was about to die, and if it was going to happen, he hoped it would be quick. At least then, the sheer terror of the instant would be over and he'd be spared having to endure it any longer. 
+Employing his fear as a spur, Erik struggled to make the viking swim toward the surface of the avalanche, using its pumping legs and flailing weaponry to keep the craft upright as best as he could. After a moment, the force of the rolling snow ripped the bucking controls away from him and snatched his fate from his hands. As the viking spun down to a stop inside a massive crumble of ice, rock, and snow, the noise abated, and he realized he was alive—and stuck good. 
+Sounds of panic burst at Erik over the comm system. He couldn't make out any of the words, not for sure. He just knew that the people he'd come here with were in a great deal of trouble, and he couldn't do a thing to help them. 
+"Report!" Varg said. He might have been saying it for a while. "Shelve that damn squealing and report!" 
+The immediate danger over, Erik felt new dread over his situation threaten to reach up and swallow him. Hearing the officer's strong, stolid voice gave him a lifeline to hang on to. "Here!" Erik said. 
+"Present," said Olaf. 
+"Yo!" said Baleog. 
+No one else responded. 
+"Scorch?" Varg said. "Dammit! Scorch?" 
+Nothing. 
+Then her voice came over the comm, soft and weak but clear. "I'm, ah…" she said. "Um, here." 
+"Anyone got a visual on her?" 
+"I don't got any visual at all," said Baleog. "I'm buried up over my head." 
+"I'm afraid I've fallen over," said Olaf with a pained grunt. 
+Erik peered out through his windshield and saw little but a dim gray. He supposed that was a good thing. If he were buried deep, it would be nothing but utter blackness. The fact that he could see anything meant he wasn't too far beneath the avalanche's surface, or so he hoped. 
+"No visuals here." He tried to move his viking's arms. His Gatling cannons had been so hot that he wondered if they had melted any snow that came near them. Instead, it felt as if they'd been encased in blocks of flash-frozen ice. "Can't move my guns either." 
+"Don't panic," Varg said. "We're not licked yet." 
+"Sure," said Baleog. "As long as your name's not Scorch." 
+"Not helping." Varg hesitated for a moment. "Anyone got mode-transformation controls operational?" 
+Erik checked his HUD. The diagnostics section glowed green across the board, except for his guns, which were highlighted in bright yellow. "I'm good," he said. 
+"Me too," said Baleog. "My rig's left leg's shattered, but my cockpit's still intact." 
+"Affirmative," said Olaf. "My cockpit has maintained integrity as well. I lost one of my cannons, though. A rock clipped it clean off." 
+"Fire those engines up," Varg said. "Activating your vertical-lift jets ought to generate enough heat to bust you loose." 
+"How about you?" asked Baleog. 
+The major grunted. "I'm in one piece, but the avalanche spun me upside down. I fire up my engines, and I'll go in the wrong direction. Might be able to break free, though, if you three can loosen things up for me." 
+"We can manage that, right?" said Erik. "We've already accomplished our mission, which should give us plenty of time. And we did a lot more than just distract the zerg. That avalanche should have crushed them too. The clock's on our side." 
+Baleog let loose a sharp, bitter laugh. "You don't know much about the zerg, do you?" 
+Erik, who had been pretty thrilled about the avalanche until he was caught up in it, felt his heart sink. "How could anything have survived that?" 
+Varg coughed a weak laugh. Erik wondered if the man was hurt worse than he wanted to let on. 
+"The zerg are burrowers, kid," Varg said. "As long as that icefall didn't crush them flat, they have everything they need to dig themselves out of it." 
+"Must have got some of them, though," Baleog said. As gruff as he sounded, Erik detected a note of fear lacing his words. "Right?" 
+"Sure," Varg said. "Maybe. But all of them? Not a chance. They're out there, and they're pissed." 
+"Pissed and looking for revenge." Olaf's voice sounded small for a man as large as he was. 
+Varg only grunted at that. 
+Erik started to activate his viking's fighter mode as fast as he could. He set it up in sequence, in his head running through the checklist that Varg had gone over with him again and again on the flight out. When Erik reached the part about making sure his ship wasn't 
+held down or restrained in any way—because that might result in an overload that could cause the viking's engines to explode—he skipped right over it. He didn't have much choice. 
+"Fuel rerouted? Check," he said to himself. "Power to legs cut? Check." 
+He reached out and grabbed the lever that would transform his viking's arms into wings. He squeezed the green safety trigger on the end of it, then hauled on the lever with as much muscle as possible. 
+Nothing happened. Not a damn thing. 
+He swore and pulled on the lever again, putting his whole back into it. He could feel the lever start to give, but he feared it might snap off in his hand. He listened hard and thought he could hear the viking's servos whining in protest as they tried to dislodge his craft from what had to be at least a ton of snow on top of it. 
+"I'm stuck!" he said. "Standard operating procedure not providing results. Any ideas?" 
+"I am stuck as well," said Olaf. 
+"Try activating your VTOL jets," Varg said. "Just by themselves. Put as little juice into them as you can." 
+"How about we disable the auto-shutdown circuit?" Erik said. It made him nervous to try it; the governor had been installed to keep him from accidentally breaking the ship. Now, though, he needed every bit of help he could squeeze out of the machine, dangerous or not. 
+"Can't hurt," Varg said. "Well, it could blow you up, but that's the least of our problems." 
+"Wha's that?" Scorch said. "Wha's that noise?" 
+"Scorch!" Varg said. "You need to snap out of it." 
+"Somethin'—somethin's out there," Scorch said, concern creeping into her pain-drunk voice. "Can hear it scratchin' on m'rig." 
+"That's the zerg!" Varg said. "You got to move, Scorch! Do something now!" 
+A horrible cracking noise sounded over the comm. Erik had no doubt where it had come from, but it still made him jump. 
+"Dammit," Baleog said, his tone so soft with horror that Erik had to strain to hear him. "They found her." 
+A scream leaped out of the comm and pierced the air in Erik's cockpit. "Get off me!" Scorch said, her voice sharpened by terror. 
+There was something then that sounded like clicking and gnashing and squishing all together and all at once. Erik shuddered at it. 
+"No! NO!" Then there was another horrible gurgling noise—something far too human—that was cut short. 
+Erik wanted to bellow in rage at the zerg. He hadn't known Scorch that well. He'd never worked with her before today. But he ached to pulverize every last one of those damn creatures that had killed her. 
+Instead, he cut out the safety protocol that included the auto-shutdown circuit and gunned his VTOL jets. He felt them thrum to life. He might be too late to save Scorch, but if he didn't get moving, he'd be too late to save himself as well. 
+"Come on," he said. "Come on!" 
+He tried to move his viking's legs and found that the snow around them had loosened. It had probably vaporized into scalding steam. He knew that if he stopped his jets now, the ice 
+would re-form around the legs in a matter of seconds and trap him even tighter in Braxis's frozen shell. 
+He gave his VTOL jets a bit more gas and felt his armor shake from head to toe. Something would have to give soon. He just hoped it wouldn't be the viking. If he overdid it with the jets, they might malfunction, and that would kill him faster than a zerg. At least it would be over quick. 
+Still, dead was dead, and Erik wasn't ready to give up yet. He gunned the VTOL jets again, and this time, he heard a horrible crack. 
+Daylight appeared above him, almost blinding him with its brightness. 
+The snow beneath his VTOL jets had gone from solid to steam, and the pressure from that had built up around his viking until it had to find some way to escape. Instead of crushing his craft, the steam had expanded upward until it located a weakness in the layers of snow under which he was buried, blowing them away. 
+"You all right, kid?" Varg said. 
+"That sounded like his craft detonated," said Olaf, his voice filled with awe. 
+"Better than being eaten by the zerg," said Baleog. 
+Erik wanted to respond, but he was too busy getting his viking into the air. He was used to flying something more reasonable. Moving from a stand to zipping through the air was never easy. Even an expert like Varg would have a hard time getting a viking to pop out of a deep hole without sending the craft into a spin. 
+Erik wrestled with the controls, trying to reorder the proper maneuvers that would get him airborne and stable. He managed to slip from the hole fast enough, but he came out at a slight angle that sent him sideslipping back toward the ice. He had to swing down the 
+vertical jets hard, and then he fought for balance like a tightrope walker struggling through a tornado. 
+But he survived it. A moment later, he punched the control that triggered the rest of the transformation. The craft's legs folded in, and the wings at his shoulders stretched out, giving him the kind of lift he needed to stay in the sky. 
+"I'm out!" he said. 
+Baleog whooped with delight, and Varg chimed in. 
+"Excellent work!" Olaf said. "Is it possible you could give us a hand?" 
+"Hold on," Erik said. "Let me see what I can do." 
+He stopped short of kicking in his craft's rear jets. If he gave the engines their head, he'd be fully airborne, and the viking's momentum would make it hard for him to come back and help the others. Of course, landing his viking on the ice would leave him vulnerable to burrowing zerg, but Erik knew he didn't have a choice. He had to try to dig out his compatriots. 
+The only problem was that he had no idea where they were. Not only had the avalanche spun him dizzy, but it had also taken out most of his sensors. He couldn't pinpoint where he was, much less where the rest of the pilots were trapped. 
+"I can't see you," he said. "Can you—I don't know—send up a flare or something?" 
+An instant later, the snow about ten meters in front of him began to glow from some light source far below the surface. 
+"Does that help?" Olaf said. 
+"Nice headlights," Erik said. "I'm coming over." 
+He moved his craft to the spot where the freshly turned snow glowed, and then he lowered his legs again. He fired the VTOL jets straight down and peered over to see the ice melt away beneath them. But it was hard for him to look in that direction, and the buried viking remained hidden. 
+Erik didn't want to just melt anything he stood over until the others appeared. For one, he'd soon run out of fuel or time. For another, he had to be careful not to melt them as well as the snow. The viking's shell would protect them from some of the heat, but it wouldn't shield them from a sustained burn. 
+"If you could bring yourself back about two meters," Olaf said, "that might do the trick." 
+Olaf wasn't shining his headlights straight up but at an angle, Erik realized. He moved away from the surface of the avalanche's ruin and gunned his jets hard. As they lifted him into the air, he saw the top of Olaf's viking appear, and the big man whooped with joy. 
+Erik moved to the side fast, and a moment later Olaf's craft rose from its frozen grave to hover beside him. 
+"How about the rest of you?" Erik said. "Where are you?" 
+"Get the hell out of here!" Varg said. "Those mutalisks have to be coming back by now." 
+Erik glanced up, which he had been too busy to do before, and saw how right Varg was. High above, a huge number of flying zerg, more than he cared to count, were diving toward him. He didn't know when they'd spotted him—if it was when he'd burst out of the ice or when he'd fired his VTOL jets to free Olaf. Either way, his time was running out. 
+"We got a minute." Erik wasn't sure whether he was lying, but he wasn't about to give up. "Show me a signal—something—and we'll get you loose." 
+"I'm stuck face down," said Varg. "Headlights might not do much good." He hesitated for a moment. "See anything?" 
+Erik scanned the churned-up ice and snow. He thought he saw something glowing, but when he moved his viking forward, it turned out to be just a trick of the sunlight. If it were darker, he might be able to see the lights from Varg's viking, but he couldn't sit there and wait for the sun to set. 
+"Guns?" Erik suggested. It was dangerous for the major to fire blind, but at this point they were running out of options. 
+"Damn things are frozen solid." 
+"Same problem here," Baleog said, "but I think I got my jets working. Give me a second." 
+"Argh! Dammit!" Varg said. "I can hear them! They're tearing against my armor!" 
+"Where are you?" Erik said. "Show me something! Anything!" 
+"Get clear! I'm a dead man, but I'm going to take as many of these bastards as I can with me!" 
+"Hold on!" Baleog said. "Give me five more seconds!" 
+"I don't think I can—gah! They breached my cockpit!" 
+Erik studied the snow below him, but the avalanche had stripped it of any features. Other than the holes that he and Olaf had made, he couldn't see any difference between one part of the ice slide and another. All he knew was that the major was down there, dying. 
+The sound of gunshots cracked over the comm, mingled with Varg's bellows of anger, frustration, and rage. The major fired round after round into the creatures, determined to kill as many zerg as he could. Erik could tell he wasn't going to bother saving a bullet for himself. 
+ Erik wanted to melt every bit of snow until he found the man and rescued him, but he knew there wasn't time. The only thing he and Olaf could do now was get themselves into the air as fast as they could. 
+He looked up and saw a mutalisk right on top of them. The great bat-winged creature glared with its deep-set red eyes as it angled its massive tail toward him, the fanged and gaping maw on the tip reaching for him with ravenous intent. 
+Olaf was already transforming his viking into its airborne mode. As the mutalisk got nearer to him, he gunned his jets and was gone. 
+Erik tried to do the same, but he could see that he would never make the transformation in time. Instead, he did his best to backpedal from the creature. His only hope was that the bug had misjudged the distance to the ground and would smack into it before it could correct its course. 
+But the mutalisk hauled up at the last instant, the bottom of its thrashing tail hanging over the top of the snow. The creature had come so close to crashing, though, that it had to wind up its tail tight to cushion its partial landing on the ice. 
+The zerg bounced as if it were hopping on the curl of its backside, flapping its wings wide and hard. Then the ground beneath the mutalisk exploded. The blast tore it to shreds and sent Erik's viking skidding backward. 
+When he managed to get the viking's legs back underneath it, Erik wanted to stare into the smoking crater that had appeared, but he knew that indulgence might cost him his life. Having been granted another chance to survive, he wasn't inclined to waste it. 
+He punched the controls that would launch his viking into the air, and he shoved himself back into his harness, preparing himself for the impending tug of inertia. He glanced up and saw that the gathering of zerg coming his way had spread out to become a blanket. If he didn't move fast, it would close over him like a net. 
+The viking rocketed forward. If the transport he had driven for a living was a lumbering beast, the viking was a speedy jungle predator: quick, nimble, and almost impossible to control. He felt it struggling to escape his mastery, and he knew that if he let his grip over the craft slip even in the slightest, he might not live long enough to regret his error. 
+Olaf had drawn some of the mutalisks away, but just as many of them converged on Erik's craft. His HUD brought up targeting reticles centered on two oncoming mutalisks, and he took the hint. With the squeeze of a trigger, he let loose a matched pair of Lanzer torpedoes. 
+To Erik, it seemed as if they barely moved faster than his viking, and he feared that he might reach the mutalisks at the same time as his munitions. The torpedoes slammed into the creatures and detonated, sending shrapnel and bits of zerg everywhere. As Erik piloted his viking through the blast, debris splattered across the aircraft's windshield, splashes of acid etching fragile trails along its surface. 
+Erik couldn't help but throw back his head and whoop in triumph. But his elation lasted only a moment. 
+"Baleog?" Olaf said over the comm system. Erik spotted the freed pilot's viking beyond the perimeter of the overlords, circling back to join him. 
+"Varg loosened up the ice packed around me," the buried pilot said. "Just need another few seconds." 
+Erik looked back and scanned the fractured ice. A little ways off from the smoking crater where Varg's viking had been, he spied the top of another viking poking out of the ice. He also saw a number of mutalisks converging on it. The explosion might have scared them off for a bit, but they seemed to be getting over their fear fast. 
+"You're out of time," Erik said as he nosed his craft toward Baleog's snow-mired viking. 
+"There are too many of them," Olaf said. Erik saw his viking peeling off. "We cannot take them all on." 
+"We don't need to," Erik said. He knew how to handle himself in a dogfight, and for the first time today his confidence surged. The familiar rush of endorphins from engaging in midair battle felt just as great as he remembered. "We play the mutalisks here like Varg planned to play the whole force." 
+"Right!" said Olaf. "It's not necessary to challenge them all. We just need to draw them away from Baleog until he can get free." 
+"Exactly!" 
+Erik headed for a point to the far right of the bulk of the mutalisk flock. As he went, he started to let loose round after round of torpedoes. He didn't much care what they hit as long as they hit something. In such a target-rich environment, he knew they were sure to manage that. 
+As the first few torpedoes blasted apart a group of mutalisks that had been flapping too close to one another, Erik spotted another set of Lanzers zipping over his right shoulder. They found targets of their own and added to the mayhem. 
+"I can smell them!" Baleog said. "The zerg. They're ripping through my armor. They're coming for me!" 
+"Just hold on!" Erik glanced back over his shoulder to spy Olaf zooming up behind him, and the sight put a grin on his face. A huge flight of mutalisks that had been closing in on Baleog peeled off from that attack vector and set itself on Erik's and Olaf's tails instead. Their ploy had worked. 
+A scattering of glowing green glave wurms lanced through the sky. A few of them brushed close to Erik's viking, but none found their targets. The vikings were just too far away, and Erik aimed to keep it that way—at least long enough to give Baleog a chance. 
+"We bought you that time, Baleog!" Erik said into the comm system. "Use it!" 
+"I can hear them outside! They're tearing at my hull!" 
+"Punch it!" Erik said. "Go, go, go!" 
+For a moment, the comm went quiet, and Erik feared that roaches had destroyed Baleog's antenna. They might be tearing him to pieces, Baleog screaming his guts out, but Erik and Olaf would never hear a thing. Maybe he should think of that as a mercy. 
+Then the ice surrounding Baleog's craft sloughed away, and a third viking joined Erik and Olaf in the freezing air. Baleog roared in wordless triumph. 
+"I'm good!" Baleog said as he cleared the bug-filled portion of the sky. "Let's get out of here!" 
+The mutalisks were nimble little bastards, and they moved fast to hem the vikings in. The zerg had nothing on the terran craft when it came to sheer power, though. Erik and Olaf were able to evade the mutalisks' attacks until they could find daylight and break free. Soon enough, the pilots flew alone. 
+Once away from the zerg, they brought their craft around in a wide arc designed to intersect with Baleog's path, which curved to reach them too. Within minutes, they were flying in formation, with Erik at the point and the others at his wings. 
+Erik glanced at his rear-view camera to see the ruin of the ridge, the avalanche of ice and snow that had fallen at its base, and the wide column of smoke and steam still rising from where Varg's viking had exploded. He shook his head in disbelief. So much destruction in such a short time. 
+"Think that did the trick?" Baleog said. 
+"I certainly hope so," Olaf said. "I don't think we could survive another incident like that." 
+"I've got the only ship in one piece," Erik said. "I could go back and give them hell." 
+"Forget that, rookie," Olaf said. "You saved my life there. You try to return, and I'm coming with you." 
+"I think we've lost enough vikings for today," said Baleog. "Let's head home—for as long as it's still there." 
+"I'll bet they left the taps open at the tavern," said Olaf. "Drinks are free until doomsday." 
+"Right," Erik said in a solemn voice. With luck, Kyrie and Sif would be safely away before he and the other vikings made it back to the base, and they'd have some time to kill before the last transport left. "We have fallen friends to toast, and their tale to tell." 

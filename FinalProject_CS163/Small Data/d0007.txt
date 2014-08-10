@@ -1,0 +1,584 @@
+THE iTUNES STORE
+I’m the Pied Piper
+Warner Music
+At the beginning of 2002 Apple faced a challenge. 
+The seamless connection between your iPod, iTunes 
+software, and computer made it easy to manage the 
+music you already owned. But to get new music, you 
+had to venture out of this cozy environment and go buy 
+a CD or download the songs online. The latter 
+endeavor usually meant foraying into the murky 
+domains of file-sharing and piracy services. So Jobs 
+wanted to offer iPod users a way to download songs 
+that was simple, safe, and legal.
+The music industry also faced a challenge. It was 
+being plagued by a bestiary of piracy services—
+Napster, Grokster, Gnutella, Kazaa—that enabled 
+people to get songs for free. Partly as a result, legal 
+sales of CDs were down 9% in 2002.
+The executives at the music companies were 
+desperately scrambling, with the elegance of secondgraders playing soccer, to agree on a common 
+standard for copy-protecting digital music. Paul Vidich 
+of Warner Music and his corporate colleague Bill 
+Raduchel of AOL Time Warner were working with Sony 
+in that effort, and they hoped to get Apple to be part of 
+their consortium. So a group of them flew to Cupertino 
+in January 2002 to see Jobs.
+It was not an easy meeting. Vidich had a cold and 
+was losing his voice, so his deputy, Kevin Gage, began 
+the presentation. Jobs, sitting at the head of the 
+conference table, fidgeted and looked annoyed. After 
+four slides, he waved his hand and broke in. “You have 
+your heads up your asses,” he pointed out. Everyone 
+Steve Jobs by Walter Isaacson 517
+turned to Vidich, who struggled to get his voice working. 
+“You’re right,” he said after a long pause. “We don’t 
+know what to do. You need to help us figure it out.” Jobs 
+later recalled being slightly taken aback, and he agreed 
+that Apple would work with the Warner-Sony effort.
+If the music companies had been able to agree on 
+a standardized encoding method for protecting music 
+files, then multiple online stores could have proliferated. 
+That would have made it hard for Jobs to create an 
+iTunes Store that allowed Apple to control how online 
+sales were handled. Sony, however, handed Jobs that 
+opportunity when it decided, after the January 2002 
+Cupertino meeting, to pull out of the talks because it 
+favored its own proprietary format, from which it would 
+get royalties.
+“You know Steve, he has his own agenda,” Sony’s 
+CEO Nobuyuki Idei explained to Red Herringeditor 
+Tony Perkins. “Although he is a genius, he doesn’t 
+share everything with you. This is a difficult person to 
+work with if you are a big company. . . . It is a 
+nightmare.” Howard Stringer, then head of Sony North 
+America, added about Jobs: “Trying to get together 
+would frankly be a waste of time.”
+Instead Sony joined with Universal to create a 
+subscription service called Pressplay. Meanwhile, AOL 
+Time Warner, Bertelsmann, and EMI teamed up with 
+RealNetworks to create MusicNet. Neither would 
+license its songs to the rival service, so each offered 
+only about half the music available. Both were 
+subscription services that allowed customers to stream 
+songs but not keep them, so you lost access to them if 
+your subscription lapsed. They had complicated 
+restrictions and clunky interfaces. Indeed they would 
+earn the dubious distinction of becoming number nine 
+on PC World’s list of “the 25 worst tech products of all 
+time.” The magazine declared, “The services’ 
+Steve Jobs by Walter Isaacson 518
+stunningly brain-dead features showed that the record 
+companies still didn’t get it.”
+At this point Jobs could have decided simply to 
+indulge piracy. Free music meant more valuable iPods. 
+Yet because he reallyliked music, and the artists who 
+made it, he was opposed to what he saw as the theft of 
+creative products. As he later told me:
+From the earliest days at Apple, I realized that we 
+thrived when we created intellectual property. If people 
+copied or stole our software, we’d be out of business. If 
+it weren’t protected, there’d be no incentive for us to 
+make new software or product designs. If protection of 
+intellectual property begins to disappear, creative 
+companies will disappear or never get started. But 
+there’s a simpler reason: It’s wrong to steal. It hurts 
+other people. And it hurts your own character.
+  He knew, however, that the best way to stop piracy
+—in fact the only way—was to offer an alternative that 
+was more attractive than the brain-dead services that 
+music companies were concocting. “We believe that 
+80% of the people stealing stuff don’t want to be, there’s 
+just no legal alternative,” he told Andy Langer of 
+Esquire.“So we said, ‘Let’s create a legal alternative to 
+this.’ Everybody wins. Music companies win. The artists 
+win. Apple wins. And the user wins, because he gets a 
+better service and doesn’t have to be a thief.”
+So Jobs set out to create an “iTunes Store” and to 
+persuade the five top record companies to allow digital 
+versions of their songs to be sold there. “I’ve never 
+spent so much of my time trying to convince people to 
+do the right thing for themselves,” he recalled. Because 
+the companies were worried about the pricing model 
+and unbundling of albums, Jobs pitched that his new 
+service would be only on the Macintosh, a mere 5% of 
+the market. They could try the idea with little risk. “We 
+used our small market share to our advantage by 
+Steve Jobs by Walter Isaacson 519
+arguing that if the store turned out to be destructive it 
+wouldn’t destroy the entire universe,” he recalled.
+Jobs’s proposal was to sell digital songs for 99 
+cents—a simple and impulsive purchase. The record 
+companies would get 70 cents of that. Jobs insisted that 
+this would be more appealing than the monthly 
+subscription model preferred by the music companies. 
+He believed that people had an emotional connection 
+to the songs they loved. They wanted to own“Sympathy 
+for the Devil” and “Shelter from the Storm,” not just rent 
+them. As he told Jeff Goodell of Rolling Stoneat the 
+time, “I think you could make available the Second 
+Coming in a subscription model and it might not be 
+successful.”
+Jobs also insisted that the iTunes Store would sell 
+individual songs, not just entire albums. That ended up 
+being the biggest cause of conflict with the record 
+companies, which made money by putting out albums 
+that had two or three great songs and a dozen or so 
+fillers; to get the song they wanted, consumers had to 
+buy the whole album. Some musicians objected on 
+artistic grounds to Jobs’s plan to disaggregate albums. 
+“There’s a flow to a good album,” said Trent Reznor of 
+Nine Inch Nails. “The songs support each other. That’s 
+the way I like to make music.” But the objections were 
+moot. “Piracy and online downloads had already 
+deconstructed the album,” recalled Jobs. “You couldn’t 
+compete with piracy unless you sold the songs 
+individually.”
+At the heart of the problem was a chasm between 
+the people who loved technology and those who loved 
+artistry. Jobs loved both, as he had demonstrated at 
+Pixar and Apple, and he was thus positioned to bridge 
+the gap. He later explained:
+When I went to Pixar, I became aware of a great 
+divide. Tech companies don’t understand creativity. 
+Steve Jobs by Walter Isaacson 520
+They don’t appreciate intuitivethinking, like the ability of 
+an A&R guy at a music label to listen to a hundred 
+artists and have a feel for which five might be 
+successful. And they think that creative people just sit 
+around on couches all day and are undisciplined, 
+because they’ve not seen how driven and disciplined 
+the creative folks at places like Pixar are. On the other 
+hand, music companies are completely clueless about 
+technology. They think they can just go out and hire a 
+few tech folks. But that would be like Apple trying to hire 
+people to produce music. We’d get second-rate A&R 
+people, just like the music companies ended up with 
+second-rate tech people. I’m one of the few people who 
+understands how producing technology requires 
+intuition and creativity, and how producing something 
+artistic takes real discipline.
+  Jobs had a long relationship with Barry Schuler, 
+the CEO of the AOL unit of Time Warner, and began to 
+pick his brain about how to get the music labels into the 
+proposed iTunes Store. “Piracy is flipping everyone’s 
+circuit breakers,” Schuler told him. “You should use the 
+argument that because you have an integrated end-toend service, from iPods to the store, you can best 
+protect how the music is used.”
+One day in March 2002, Schuler got a call from 
+Jobs and decided to conference-in Vidich. Jobs asked 
+Vidich if he would come to Cupertino and bring the 
+head of Warner Music, Roger Ames. This time Jobs was 
+charming. Ames was a sardonic, fun, and clever Brit, a 
+type (such as James Vincent and Jony Ive) that Jobs 
+tended to like. So the Good Steve was on display. At 
+one point early in the meeting, Jobs even played the 
+unusual role of diplomat. Ames and Eddy Cue, who ran 
+iTunes for Apple, got into an argument over why radio 
+in England was not as vibrant as in the United States, 
+and Jobs stepped in, saying, “We know about tech, but 
+Steve Jobs by Walter Isaacson 521
+we don’t know as much about music, so let’s not argue.”
+Ames had just lost a boardroom battle to have his 
+corporation’s AOL division improve its own fledgling 
+music download service. “When I did a digital download 
+using AOL, I could never find the song on my shitty 
+computer,” he recalled. So when Jobs demonstrated a 
+prototype of the iTunes Store, Ames was impressed. 
+“Yes, yes, that’s exactly what we’ve been waiting for,” 
+he said. He agreed that Warner Music would sign up, 
+and he offered to help enlist other music companies.
+Jobs flew east to show the service to other Time 
+Warner execs. “He sat in front of a Mac like a kid with a 
+toy,” Vidich recalled. “Unlike any other CEO, he was 
+totally engaged with the product.” Ames and Jobs 
+began to hammer out the details of the iTunes Store, 
+including the number of times a track could be put on 
+different devices and how the copy-protection system 
+would work. They soon were in agreement and set out 
+to corral other music labels.
+Herding Cats
+The key player to enlist was Doug Morris, head of 
+the Universal Music Group. His domain included musthave artists such as U2, Eminem, and Mariah Carey, as 
+well as powerful labels such as Motown and 
+Interscope-Geffen-A&M. Morris was eager to talk. More 
+than any other mogul, he was upset about piracy and 
+fed up with the caliber of the technology people at the 
+music companies. “It was like the Wild West,” Morris 
+recalled. “No one was selling digital music, and it was 
+awash with piracy. Everything we tried at the record 
+companies was a failure. The difference in skill sets 
+between the music folks and technologists is just huge.”
+As Ames walked with Jobs to Morris’s office on 
+Broadway he briefed Jobs on what to say. It worked. 
+What impressed Morris was that Jobs tied everything 
+together in a way that made things easy for the 
+Steve Jobs by Walter Isaacson 522
+consumer and also safe for the record companies. 
+“Steve did something brilliant,” said Morris. “He 
+proposed this complete system: the iTunes Store, the 
+music-management software, the iPod itself. It was so 
+smooth. He had the whole package.”
+Morris was convinced that Jobs had the technical 
+vision that was lacking at the music companies. “Of 
+course we have to rely on Steve Jobs to do this,” he told 
+his own tech vice president, “because we don’t have 
+anyone at Universal who knows anything about 
+technology.” That did not make Universal’s 
+technologists eager to work with Jobs, and Morris had 
+to keep ordering them to surrender their objections and 
+make a deal quickly. They were able to add a few more 
+restrictions to FairPlay, the Apple system of digital rights 
+management, so that a purchased song could not be 
+spread to too many devices. But in general, they went 
+along with the concept of the iTunes Store that Jobs 
+had worked out with Ames and his Warner colleagues.
+Morris was so smitten with Jobs that he called 
+Jimmy Iovine, the fast-talking and brash chief of 
+Interscope-Geffen-A&M. Iovine and Morris were best 
+friends who had spoken every day for the past thirty 
+years. “When I met Steve, I thought he was our savior, 
+so I immediately brought Jimmy in to get his 
+impression,” Morris recalled.
+Jobs could be extraordinarily charming when he 
+wanted to be, and he turned it on when Iovine flew out 
+to Cupertino for a demo. “See how simple it is?” he 
+asked Iovine. “Your tech folks are never going to do 
+this. There’s no one at the music companies who can 
+make it simple enough.”
+Iovine called Morris right away. “This guy is 
+unique!” he said. “You’re right. He’s got a turnkey 
+solution.” They complained about how they had spent 
+two years working with Sony, and it hadn’t gone 
+Steve Jobs by Walter Isaacson 523
+anywhere. “Sony’s never going to figure things out,” he 
+told Morris. They agreed to quit dealing with Sony and 
+join with Apple instead. “How Sony missed this is 
+completely mind-boggling to me, a historic fuckup,” 
+Iovine said. “Steve would fire people if the divisions 
+didn’t work together, but Sony’s divisions were at war 
+with one another.”
+Indeed Sony provided a clear counterexample to 
+Apple. It had a consumer electronics division that made 
+sleek products and a music division with beloved artists 
+(including Bob Dylan). But because each division tried 
+to protect its own interests, the company as a whole 
+never got its act together to produce an end-to-end 
+service.
+Andy Lack, the new head of Sony music, had the 
+unenviable task of negotiating with Jobs about whether 
+Sony would sell its music in the iTunes Store. The 
+irrepressible and savvy Lack had just come from a 
+distinguished career in television journalism—a 
+producer at CBS News and president of NBC—and he 
+knew how to size people up and keep his sense of 
+humor. He realized that, for Sony, selling its songs in 
+the iTunes Store was both insane and necessary—
+which seemed to be the case with a lot of decisions in 
+the music business. Apple would make out like a 
+bandit, not just from its cut on song sales, but from 
+driving the sale of iPods. Lack believed that since the 
+music companies would be responsible for the success 
+of the iPod, they should get a royalty from each device 
+sold.
+Jobs would agree with Lack in many of their 
+conversations and claim that he wanted to be a true 
+partner with the music companies. “Steve, you’ve got 
+me if you just give me somethingfor every sale of your 
+device,” Lack told him in his booming voice. “It’s a 
+beautiful device. But our music is helping to sell it. 
+Steve Jobs by Walter Isaacson 524
+That’s what true partnership means to me.”
+“I’m with you,” Jobs replied on more than one 
+occasion. But then he would go to Doug Morris and 
+Roger Ames to lament, in a conspiratorial fashion, that 
+Lack just didn’t get it, that he was clueless about the 
+music business, that he wasn’t as smart as Morris and 
+Ames. “In classic Steve fashion, he would agree to 
+something, but it would never happen,” said Lack. “He 
+would set you up and then pull it off the table. He’s 
+pathological, which can be useful in negotiations. And 
+he’s a genius.”
+Lack knew that he could not win his case unless 
+he got support from others in the industry. But Jobs 
+used flattery and the lure of Apple’s marketing clout to 
+keep the other record labels in line. “If the industry had 
+stood together, we could have gotten a license fee, 
+giving us the dual revenue stream we desperately 
+needed,” Lack said. “We were the ones making the 
+iPod sell, so it would have been equitable.” That, of 
+course, was one of the beauties of Jobs’s end-to-end 
+strategy: Sales of songs on iTunes would drive iPod 
+sales, which would drive Macintosh sales. What made it 
+all the more infuriating to Lack was that Sony could 
+have done the same, but it never could get its hardware 
+and software and content divisions to row in unison.
+Jobs tried hard to seduce Lack. During one visit to 
+New York, he invited Lack to his penthouse at the Four 
+Seasons hotel. Jobs had already ordered a breakfast 
+spread—oatmeal and berries for them both—and was 
+“beyond solicitous,” Lack recalled. “But Jack Welch 
+taught me not to fall in love. Morris and Ames could be 
+seduced. They would say, ‘You don’t get it, you’re 
+supposed to fall in love,’ and they did. So I ended up 
+isolated in the industry.”
+Even after Sony agreed to sell its music in the 
+iTunes Store, the relationship remained contentious. 
+Steve Jobs by Walter Isaacson 525
+Each new round of renewals or changes would bring a 
+showdown. “With Andy, it was mostly about his big 
+ego,” Jobs claimed. “He never really understood the 
+music business, and he could never really deliver. I 
+thought he was sometimes a dick.” When I told him 
+what Jobs said, Lack responded, “I fought for Sony and 
+the music industry, so I can see why he thought I was a 
+dick.”
+Corralling the record labels to go along with the 
+iTunes plan was not enough, however. Many of their 
+artists had carve-outs in their contracts that allowed 
+them personally to control the digital distribution of their 
+music or prevent their songs from being unbundled 
+from their albums and sold singly. So Jobs set about 
+cajoling various top musicians, which he found fun but 
+also a lot harder than he expected.
+Before the launch of iTunes, Jobs met with almost 
+two dozen major artists, including Bono, Mick Jagger, 
+and Sheryl Crow. “He would call me at home, 
+relentless, at ten at night, to say he still needed to get to 
+Led Zeppelin or Madonna,” Ames recalled. “He was 
+determined, and nobody else could have convinced 
+some of these artists.”
+Perhaps the oddest meeting was when Dr. Dre 
+came to visit Jobs at Apple headquarters. Jobs loved 
+the Beatles and Dylan, but he admitted that the appeal 
+of rap eluded him. Now Jobs needed Eminem and 
+other rappers to agree to be sold in the iTunes Store, so 
+he huddled with Dr. Dre, who was Eminem’s mentor. 
+After Jobs showed him the seamless way the iTunes 
+Store would work with the iPod, Dr. Dre proclaimed, 
+“Man, somebody finally got it right.”
+On the other end of the musical taste spectrum 
+was the trumpeter Wynton Marsalis. He was on a West 
+Coast fund-raising tour for Jazz at Lincoln Center and 
+was meeting with Jobs’s wife, Laurene. Jobs insisted 
+Steve Jobs by Walter Isaacson 526
+that he come over to the house in Palo Alto, and he 
+proceeded to show off iTunes. “What do you want to 
+search for?” he asked Marsalis. Beethoven, the 
+trumpeter replied. “Watch what it can do!” Jobs kept 
+insisting when Marsalis’s attention would wander. “See 
+how the interface works.” Marsalis later recalled, “I don’t 
+care much about computers, and kept telling him so, but 
+he goes on for two hours. He was a man possessed. 
+After a while, I started looking at him and not the 
+computer, because I was so fascinated with his 
+passion.”
+Jobs unveiled the iTunes Store on April 28, 2003, 
+at San Francisco’s Moscone Center. With hair now 
+closely cropped and receding, and a studied unshaven 
+look, Jobs paced the stage and described how Napster 
+“demonstrated that the Internet was made for music 
+delivery.” Its offspring, such as Kazaa, he said, offered 
+songs for free. How do you compete with that? To 
+answer that question, he began by describing the 
+downsides of using these free services. The downloads 
+were unreliable and the quality was often bad. “A lot of 
+these songs are encoded by seven-year-olds, and they 
+don’t do a great job.” In addition, there were no 
+previews or album art. Then he added, “Worst of all it’s 
+stealing. It’s best not to mess with karma.”
+Why had these piracy sites proliferated, then? 
+Because, Jobs said, there was no alternative. The 
+subscription services, such as Pressplay and MusicNet, 
+“treat you like a criminal,” he said, showing a slide of an 
+inmate in striped prison garb. Then a slide of Bob Dylan 
+came on the screen. “People want to own the music 
+they love.”
+After a lot of negotiating with the record 
+companies, he said, “they were willing to do something 
+with us to change the world.” The iTunes Store would 
+start with 200,000 tracks, and it would grow each day. 
+Steve Jobs by Walter Isaacson 527
+By using the store, he said, you can own your songs, 
+burn them on CDs, be assured of the download quality, 
+get a preview of a song before you download it, and 
+use it with your iMovies and iDVDs to “make the 
+soundtrack of your life.” The price? Just 99 cents, he 
+said, less than a third of what a Starbucks latte cost. 
+Why was it worth it? Because to get the right song from 
+Kazaa took about fifteen minutes, rather than a minute. 
+By spending an hour of your time to save about four 
+dollars, he calculated, “you’re working for under the 
+minimum wage!” And one more thing . . . “With iTunes, 
+it’s not stealing anymore. It’s good karma.”
+Clapping the loudest for that line were the heads 
+of the record labels in the front row, including Doug 
+Morris sitting next to Jimmy Iovine, in his usual baseball 
+cap, and the whole crowd from Warner Music. Eddy 
+Cue, who was in charge of the store, predicted that 
+Apple would sell a million songs in six months. Instead 
+the iTunes Store sold a million songs in six days.“This 
+will go down in history as a turning point for the music 
+industry,” Jobs declared.
+Microsoft
+“We were smoked.”
+That was the blunt email sent to four colleagues by 
+Jim Allchin, the Microsoft executive in charge of 
+Windows development, at 5 p.m. the day he saw the 
+iTunes Store. It had only one other line: “How did they 
+get the music companies to go along?”
+Later that evening a reply came from David Cole, 
+who was running Microsoft’s online business group. 
+“When Apple brings this to Windows (I assume they 
+won’t make the mistake of not bringing it to Windows), 
+we will really be smoked.” He said that the Windows 
+team needed “to bring this kind of solution to market,” 
+adding, “That will require focus and goal alignment 
+around an end-to-end servicewhich delivers direct user 
+Steve Jobs by Walter Isaacson 528
+value, something we don’t have today.” Even though 
+Microsoft had its own Internet service (MSN), it was not 
+used to providing end-to-end service the way Apple 
+was.
+Bill Gates himself weighed in at 10:46 that night. 
+His subject line, “Apple’s Jobs again,” indicated his 
+frustration. “Steve Jobs’s ability to focus in on a few 
+things that count, get people who get user interface 
+right, and market things as revolutionary are amazing 
+things,” he said. He too expressed surprise that Jobs 
+had been able to convince the music companies to go 
+along with his store. “This is very strange to me. The 
+music companies’ own operations offer a service that is 
+truly unfriendly to the user. Somehow they decide to 
+give Apple the ability to do something pretty good.”
+Gates also found it strange that no one else had 
+created a service that allowed people to buy songs 
+rather than subscribe on a monthly basis. “I am not 
+saying this strangeness means we messed up—at least 
+if we did, so did Real and Pressplay and MusicNet and 
+basically everyone else,” he wrote. “Now that Jobs has 
+done it we need to move fast to get something where 
+the user interface and Rights are as good. . . . I think we 
+need some plan to prove that, even though Jobs has us 
+a bit flat footed again, we can move quick and both 
+match and do stuff better.” It was an astonishing private 
+admission: Microsoft had again been caught flat-footed, 
+and it would again try to catch up by copying Apple. But 
+like Sony, Microsoft could never make it happen, even 
+after Jobs showed the way.
+Instead Apple continued to smoke Microsoft in the 
+way that Cole had predicted: It ported the iTunes 
+software and store to Windows. But that took some 
+internal agonizing. First, Jobs and his team had to 
+decide whether they wanted the iPod to work with 
+Windows computers. Jobs was initially opposed. “By 
+Steve Jobs by Walter Isaacson 529
+keeping the iPod for Mac only, it was driving the sales 
+of Macs even more than we expected,” he recalled. But 
+lined up against him were all four of his top executives: 
+Schiller, Rubinstein, Robbin, and Fadell. It was an 
+argument about what the future of Apple should be. “We 
+felt we should be in the music player business, not just 
+in the Mac business,” said Schiller.
+Jobs always wanted Apple to create its own 
+unified utopia, a magical walled garden where 
+hardware and software and peripheral devices worked 
+well together to create a great experience, and where 
+the success of one product drove sales of all the 
+companions. Now he was facing pressure to have his 
+hottest new product work with Windows machines, and 
+it went against his nature. “It was a really big argument 
+for months,” Jobs recalled, “me against everyone else.” 
+At one point he declared that Windows users would get 
+to use iPods “over my dead body.” But still his team kept 
+pushing. “This needsto get to the PC,” said Fadell.
+Finally Jobs declared, “Until you can prove to me 
+that it will make business sense, I’m not going to do it.” 
+That was actually his way of backing down. If you put 
+aside emotion and dogma, it was easy to prove that it 
+made business sense to allow Windows users to buy 
+iPods. Experts were called in, sales scenarios 
+developed, and everyone concluded this would bring in 
+more profits. “We developed a spreadsheet,” said 
+Schiller. “Under all scenarios, there was no amount of 
+cannibalization of Mac sales that would outweigh the 
+sales of iPods.” Jobs was sometimes willing to 
+surrender, despite his reputation, but he never won any 
+awards for gracious concession speeches. “Screw it,” 
+he said at one meeting where they showed him the 
+analysis. “I’m sick of listening to you assholes. Go do 
+whatever the hell you want.”
+That left another question: When Apple allowed 
+Steve Jobs by Walter Isaacson 530
+the iPod to be compatible with Windows machines, 
+should it also create a version of iTunes to serve as the 
+music-management software for those Windows users? 
+As usual, Jobs believed the hardware and software 
+should go together: The user experience depended on 
+the iPod working in complete sync (so to speak) with 
+iTunes software on the computer. Schiller was 
+opposed. “I thought that was crazy, since we don’t make 
+Windows software,” Schiller recalled. “But Steve kept 
+arguing, ‘If we’re going to do it, we should do it right.’”
+Schiller prevailed at first. Apple decided to allow 
+the iPod to work with Windows by using software from 
+MusicMatch, an outside company. But the software was 
+so clunky that it proved Jobs’s point, and Apple 
+embarked on a fast-track effort to produce iTunes for 
+Windows. Jobs recalled:
+To make the iPod work on PCs, we initially 
+partnered with another company that had a jukebox, 
+gave them the secret sauce to connect to the iPod, and 
+they did a crappy job. That was the worst of all worlds, 
+because this other company was controlling a big piece 
+of the user experience. So we lived with this crappy 
+outside jukebox for about six months, and then we 
+finally got iTunes written for Windows. In the end, you 
+just don’t want someone else to control a big part of the 
+user experience. People may disagree with me, but I 
+am pretty consistent about that.
+  Porting iTunes to Windows meant going back to all 
+of the music companies—which had made deals to be 
+in iTunes based on the assurance that it would be for 
+only the small universe of Macintosh users—and 
+negotiate again. Sony was especially resistant. Andy 
+Lack thought it another example of Jobs changing the 
+terms after a deal was done. It was. But by then the 
+other labels were happy about how the iTunes Store 
+was working and went along, so Sony was forced to 
+Steve Jobs by Walter Isaacson 531
+capitulate.
+Jobs announced the launch of iTunes for Windows 
+in October 2003. “Here’s a feature that people thought 
+we’d never add until this happened,” he said, waving 
+his hand at the giant screen behind him. “Hell froze 
+over,” proclaimed the slide. The show included iChat 
+appearances and videos from Mick Jagger, Dr. Dre, 
+and Bono. “It’s a very cool thing for musicians and 
+music,” Bono said of the iPod and iTunes. “That’s why 
+I’m here to kiss the corporate ass. I don’t kiss 
+everybody’s.”
+Jobs was never prone to understatement. To the 
+cheers of the crowd, he declared, “iTunes for Windows 
+is probably the best Windows app ever written.”
+Microsoft was not grateful. “They’re pursuing the 
+same strategy that they pursued in the PC business, 
+controlling both the hardware and software,” Bill Gates 
+told Business Week.“We’ve always done things a little 
+bit differently than Apple in terms of giving people 
+choice.” It was not until three years later, in November 
+2006, that Microsoft was finally able to release its own 
+answer to the iPod. It was called the Zune, and it looked 
+like an iPod, though a bit clunkier. Two years later it had 
+achieved a market share of less than 5%. Jobs was 
+brutal about the cause of the Zune’s uninspired design 
+and market weakness:
+The older I get, the more I see how much 
+motivations matter. The Zune was crappy because the 
+people at Microsoft don’t really love music or art the 
+way we do. We won because we personally love music. 
+We made the iPod for ourselves, and when you’re 
+doing something for yourself, or your best friend or 
+family, you’re not going to cheese out. If you don’t love 
+something, you’re not going to go the extra mile, work 
+the extra weekend, challenge the status quo as much.

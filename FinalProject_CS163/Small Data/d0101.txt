@@ -1,0 +1,576 @@
+An Internally Driven Company
+In drawing the strategy canvas, how does a company label the industry’s
+competing factors? For example, does it use the word megahertz
+instead of speed, or thermal water temperature instead of hot
+water? Are the competing factors stated in terms buyers can understand
+and value, or are they in operational jargon? The kind of language
+used in the strategy canvas gives insight as to whether a
+company’s strategic vision is built on an “outside-in” perspective,
+driven by the demand side, or an “inside-out” perspective that is operationally
+driven. Analyzing the language of the strategy canvas
+helps a company understand how far it is from creating industry
+demand.
+The tools and frameworks introduced here are essential analytics
+used throughout this book, and supplementary tools are introduced
+Analytical Tools and Frameworks 43
+in other chapters as needed. It is the intersection between these
+analytic techniques and the six principles of formulating and executing
+blue oceans that allow companies to break from the competition
+and unlock uncontested market space.
+Now we move on to the first principle, reconstructing market
+boundaries. In the next chapter we discuss the opportunity-maximizing
+In the broadest sense, a company competes not only with the other
+firms in its own industry but also with companies in those other industries
+that produce alternative products or services. Alternatives
+are broader than substitutes. Products or services that have different
+forms but offer the same functionality or core utility are often
+substitutes for each other. On the other hand, alternatives include
+products or services that have different functions and forms but the
+same purpose.
+For example, to sort out their personal finances, people can buy
+and install a financial software package, hire a CPA, or simply use
+pencil and paper. The software, the CPA, and the pencil are largely
+substitutes for each other. They have very different forms but serve
+the same function: helping people manage their financial affairs.
+In contrast, products or services can take different forms and
+perform different functions but serve the same objective. Consider
+cinemas versus restaurants. Restaurants have few physical features
+in common with cinemas and serve a distinct function: They
+provide conversational and gastronomical pleasure. This is a very
+different experience from the visual entertainment offered by cinemas.
+Despite the differences in form and function, however, people
+go to a restaurant for the same objective that they go to the movies:
+to enjoy a night out. These are not substitutes, but alternatives to
+choose from.
+In making every purchase decision, buyers implicitly weigh alternatives,
+often unconsciously. Do you need a self-indulgent two
+hours? What should you do to achieve it? Do you go to movie, have a
+massage, or enjoy reading a favorite book at a local café? The
+Reconstruct Market Boundaries 49
+thought process is intuitive for individual consumers and industrial
+buyers alike.
+For some reason, we often abandon this intuitive thinking when
+we become sellers. Rarely do sellers think consciously about how
+their customers make trade-offs across alternative industries. A
+shift in price, a change in model, even a new ad campaign can elicit
+a tremendous response from rivals within an industry, but the same
+actions in an alternative industry usually go unnoticed. Trade journals,
+trade shows, and consumer rating reports reinforce the vertical
+walls between one industry and another. Often, however, the
+space between alternative industries provides opportunities for
+value innovation.
+Consider NetJets, which created the blue ocean of fractional jet
+ownership. In less than twenty years NetJets has grown larger than
+many airlines, with more than five hundred aircraft, operating
+more than two hundred fifty thousand flights to more than one hundred
+forty countries. Purchased by Berkshire Hathaway in 1998,
+today NetJets is a multibillion-dollar business, with revenues growing
+at 30–35 percent per year from 1993 to 2000. NetJets’ success
+has been attributed to its flexibility, shortened travel time, hasslefree
+travel experience, increased reliability, and strategic pricing.
+The reality is that NetJets reconstructed market boundaries to create
+this blue ocean by looking across alternative industries.
+The most lucrative mass of customers in the aviation industry
+are corporate travelers. NetJets looked at the existing alternatives
+and found that when business travelers want to fly, they have two
+principal choices. On the one hand, a company’s executives can fly
+business class or first class on a commercial airline. On the other
+hand, a company can purchase its own aircraft to serve its corporate
+travel needs. The strategic question is, Why would corporations
+choose one alternative industry over another? By focusing on
+the key factors that lead corporations to trade across alternatives
+and eliminating or reducing everything else, NetJets created its
+blue ocean strategy.
+Consider this: Why do corporations choose to use commercial
+airlines for their corporate travel? Surely it’s not because of the
+50 F O R M U L AT I N G B L U E O C E A N S T R AT E G Y
+long check-in and security lines, hectic flight transfers, overnight
+stays, or congested airports. Rather, they choose commercial airlines
+for only one reason: costs. On the one hand, commercial travel
+avoids the high up-front, fixed-cost investment of a multimilliondollar
+jet aircraft. On the other hand, a company purchases only
+the number of corporate airline tickets needed per year, lowering
+variable costs and reducing the possibility of unused aviation
+travel time that often accompanies the ownership of corporate jets.
+So NetJets offers its customers one-sixteenth ownership of an
+aircraft to be shared with fifteen other customers, each one entitled
+to fifty hours of flight time per year. Starting at $375,000 (plus pilot,
+maintenance, and other monthly costs), owners can purchase a
+share in a $6 million aircraft.1 Customers get the convenience of a
+private jet at the price of a commercial airline ticket. Comparing
+first-class travel with private aircraft, the National Business Aviation
+Association found that when direct and indirect costs—hotel,
+meals, travel time, expenses—were factored in, the cost of firstclass
+commercial travel was significantly higher. In a cost-benefit
+analysis for four passengers on a theoretical trip from Newark to
+Austin, the real cost of the commercial trip was $19,400, compared
+with $10,100 in a private jet.2 As for NetJets, it avoids the enormous
+fixed costs that commercial airlines attempt to cover by filling larger
+and larger aircraft. NetJets’ smaller airplanes, the use of smaller
+regional airports, and limited staff keep costs to a minimum.
+To understand the rest of the NetJets formula, consider the flip
+side: Why do people choose corporate jets over commercial travel?
+Certainly it is not to pay the multimillion-dollar price to purchase
+planes. Nor is it to set up a dedicated flight department to take care
+of scheduling and other administrative matters. Nor it is to pay socalled
+deadhead costs—the costs of flying the aircraft from its
+home base to where it is needed. Rather, corporations buy private
+jets to dramatically cut total travel time, to reduce the hassle
+of congested airports, to allow for point-to-point travel, and to
+gain the benefit of having more productive and energized executives
+who can hit the ground running upon arrival. So NetJets built
+on these distinctive strengths. Whereas 70 percent of commercial
+Reconstruct Market Boundaries 51
+flights went to only thirty airports across the United States, Net-
+Jets offered access to more than five thousand five hundred airports
+across the country, in convenient locations near business centers.
+On international flights, your plane pulls directly up to the customs
+office.
+With point-to-point service and the exponential increase in the
+number of airports to land in, there are no flight transfers; trips
+that would otherwise require overnight stays can be completed in a
+single day. The time from your car to takeoff is measured in minutes
+instead of hours. For example, whereas a flight from Washington,
+D.C., to Sacramento would take 10.5 hours on a commercial
+airline, it is only 5.2 hours on a NetJets aircraft; from Palm Springs
+to Cabo San Lucas takes 6 hours commercial, and only 2.1 hours via
+NetJets.3 NetJets offers substantial cost savings in total travel time.
+Perhaps most appealing, your jet is always available with only
+four hours’ notice. If a jet is not available, NetJets will charter one
+for you. Last but not least, NetJets dramatically reduces issues related
+to security threats and offers clients customized in-flight service,
+such as having your favorite food and beverages ready for you
+when you board.
+By offering the best of commercial travel and private jets and
+eliminating and reducing everything else, NetJets opened up a
+multibillion-dollar blue ocean wherein customers get the convenience
+and speed of a private jet with a low fixed cost and the low
+variable cost of commercial airline travel (see figure 3-1). And the
+competition? According to NetJets, in the past seven years fiftyseven
+companies have set up fractional jet operations; of those,
+fifty-seven have gone out of business.
+The biggest telecommunications success in Japan since the
+1980s also has its roots in path 1. Here we are speaking of NTT
+DoCoMo’s i-mode, which was launched in 1999. The i-mode service
+changed the way people communicate and access information in
+Japan. NTT DoCoMo’s insight into creating a blue ocean came by
+thinking about why people trade-across the alternatives of mobile
+phones and the Internet. With deregulation of the Japanese tele-
+52 F O R M U L AT I N G B L U E O C E A N S T R AT E G Y
+communications industry, new competitors were entering the market
+and price competition and technological races were the norm.
+The result was that costs were rising while the average revenue per
+user fell. NTT DoCoMo broke out of this red ocean of bloody competition
+by creating a blue ocean of wireless transmission not only
+of voice but also of text, data, and pictures.
+NTT DoCoMo asked, What are the distinctive strengths of the
+Internet over cell phones, and vice versa? Although the Internet offered
+endless information and services, the killer apps were e-mail,
+simple information (such as news, weather forecasts, and a telephone
+directory), and entertainment (including games, events, and
+music entertainment). The key downside of the Internet was the far
+higher price of computer hardware, an overload of information, the
+Ironically, European and U.S. counterparts who have been scrambling
+to unlock a similar blue ocean in the West have so far failed.
+Why? Our assessment shows that they have been focused on delivering
+the most sophisticated technology, WAP (wireless application
+protocol), instead of delivering exceptional value. This has led
+them to build overcomplicated offerings that miss the key commonalities
+valued by the mass of people.
+Many other well-known success stories have looked across alternatives
+to create new markets. The Home Depot offers the expertise of
+professional home contractors at markedly lower prices than hardware
+stores. By delivering the decisive advantages of both alternative
+industries—and eliminating or reducing everything else—The
+Home Depot has transformed enormous latent demand for home
+improvement into real demand, making ordinary homeowners into
+do-it-yourselfers. Southwest Airlines concentrated on driving as the
+alternative to flying, providing the speed of air travel at the price of
+car travel and creating the blue ocean of short-haul air travel. Similarly,
+Intuit looked to the pencil as the chief alternative to personal
+financial software to develop the fun and intuitive Quicken software.
+What are the alternative industries to your industry? Why do
+customers trade across them? By focusing on the key factors that
+lead buyers to trade across alternative industries and eliminating
+or reducing everything else, you can create a blue ocean of new
+market space.
+Path 2: Look Across Strategic
+Groups Within Industries
+Just as blue oceans can often be created by looking across alternative
+industries, so can they be unlocked by looking across strategic
+groups. The term refers to a group of companies within an industry
+that pursue a similar strategy. In most industries, the fundamental
+strategic differences among industry players are captured by a small
+number of strategic groups.
+Reconstruct Market Boundaries 55
+Strategic groups can generally be ranked in a rough hierarchical
+order built on two dimensions: price and performance. Each jump
+in price tends to bring a corresponding jump in some dimensions of
+performance. Most companies focus on improving their competitive
+position within a strategic group. Mercedes, BMW, and Jaguar,
+for example, focus on outcompeting one another in the luxury car
+segment as economy car makers focus on excelling over one another
+in their strategic group. Neither strategic group, however,
+pays much heed to what the other is doing because from a supply
+point of view they do not seem to be competing.
+The key to creating a blue ocean across existing strategic groups
+is to break out of this narrow tunnel vision by understanding
+which factors determine customers’ decisions to trade up or down
+from one group to another.
+Consider Curves, the Texas-based women’s fitness company.
+Since franchising began in 1995, Curves has grown like wildfire, acquiring
+more than two million members in more than six thousand
+locations, with total revenues exceeding the $1 billion mark. A new
+Curves opens, on average, every four hours somewhere in the world.
+What’s more, this growth was triggered almost entirely through
+word of mouth and buddy referrals. Yet, at its inception, Curves
+was seen as entering an oversaturated market, gearing its offering
+to customers who would not want it, and making its offering significantly
+blander than the competition’s. In reality, however, Curves
+exploded demand in the U.S. fitness industry, unlocking a huge untapped
+market, a veritable blue ocean of women struggling and failing
+to keep in shape through sound fitness. Curves built on the
+decisive advantages of two strategic groups in the U.S. fitness industry—
+traditional health clubs and home exercise programs—
+and eliminated or reduced everything else.
+At the one extreme, the U.S. fitness industry is awash with traditional
+health clubs that catered to both men and women, offering a
+full range of exercise and sporting options, usually in upscale urban
+locations. Their trendy facilities are designed to attract the high-end
+health club set. They have the full range of aerobic and strength
+56 F O R M U L AT I N G B L U E O C E A N S T R AT E G Y
+training machines, a juice bar, instructors, and a full locker room
+with showers and sauna, because the aim is for customers to spend
+social as well as exercise time there. Having fought their way
+across town to health clubs, customers typically spend at least an
+hour there, and more often two. Membership fees for all this are
+typically in the range of $100 per month—not cheap, guaranteeing
+that the market would stay upscale and small. Traditional health
+club customers represent only 12 percent of the entire population,
+concentrated overwhelmingly in the larger urban areas. Investment
+costs for a traditional full-service health club run from $500,000 to
+more than $1 million, depending on the city center location.
+At the other extreme is the strategic group of home exercise programs,
+such as exercise videos, books, and magazines. These are a
+small fraction of the cost, are used at home, and generally require
+little or no exercise equipment. Instruction is minimal, being confined
+to the star of the exercise video or book and magazine explanations
+and illustrations.
+The question is, What makes women trade either up or down between
+traditional health clubs and home exercise programs? Most
+women don’t trade up to health clubs for the profusion of special
+machines, juice bars, locker rooms with sauna, pool, and the
+chance to meet men. The average female nonathlete does not even
+want to run into men when she is working out, perhaps revealing
+lumps in her leotards. She is not inspired to line up behind machines
+in which she needs to change weights and adjust their incline
+angles. As for time, it has become an increasingly scarce
+commodity for the average woman. Few can afford to spend one to
+two hours at a health club several times a week. For the mass of
+women, the city center locations also present traffic challenges,
+something that increases stress and discourages going to the gym.
+It turns out that most women trade up to health clubs for one
+principal reason. When they are at home it’s too easy to find an excuse
+for not working out. It is hard to be disciplined in the confines
+of one’s home if you are not already a committed sports enthusiast.
+Working out collectively, instead of alone, is more motivating and
+Reconstruct Market Boundaries 57
+inspiring. Conversely, women who use home exercise programs do
+so primarily for the time saving, lower costs, and privacy.
+Curves built its blue ocean by drawing on the distinctive strengths
+of these two strategic groups, eliminating and reducing everything
+else (see figure 3-2). Curves has eliminated all the aspects of the traditional
+health club that are of little interest to the broad mass of
+women. Gone are the profusion of special machines, food, spa, pool,
+and even locker rooms, which have been replaced by a few curtainedoff
+changing areas.
+The experience in a Curves club is entirely different from that in
+a typical health club. The member enters the exercise room where
+the machines (typically about ten) are arranged, not in rows facing
+a television as in the health club, but in a circle to facilitate interchange
+among members, making the experience fun. The QuickFit
+circuit training system uses hydraulic exercise machines, which
+need no adjusting, are safe, simple to use, and nonthreatening.
+Specifically designed for women, these machines reduce impact
+stress and build strength and muscle. While exercising, members
+can talk and support one another, and the social, nonjudgmental
+atmosphere is totally different from that of a typical health club.
+There are few if any mirrors on the wall, and there are no men staring
+at you. Members move around the circle of machines and aerobic
+pads and in thirty minutes complete the whole workout. The
+result of reducing and focusing service on the essentials is that
+prices fall to around $30 per month, opening the market to the
+broad mass of women. Curves’ tagline could be “for the price of a
+cup of coffee a day you can obtain the gift of health through proper
+exercise.”
+Curves offers the distinctive value depicted in figure 3-2 at a
+lower cost. Compared with the start-up investment of $500,000 to
+$1 million for traditional health clubs, start-up investments for
+Curves are in the range of only $25,000 to $30,000 (excluding a
+$20,000 franchise fee) because of the wide range of factors the company
+eliminated. Variable costs are also significantly lower, with
+personnel and maintenance of facilities dramatically reduced and
+58 F O R M U L AT I N G B L U E O C E A N S T R AT E G Y
+rent reduced because of the much smaller spaces required: 1,500
+square feet in nonprime suburban locations versus 35,000 to 100,000
+square feet in prime urban locations. Curves’ low-cost business
+model makes its franchises easy to afford and helps explain why
+they have mushroomed quickly. Most franchises are profitable
+within a few months, as soon as they recruit on average one hundred
+members. Established Curves franchises are selling in the
+range of $100,000 to $150,000 on the secondary market.
+The result is that Curves facilities are everywhere in most towns
+of any size. Curves is not competing directly with other health and
+exercise concepts; it created new blue ocean demand. As the
+United States and North America become saturated, management
+has plans to expand into Europe. Expansion has already begun in
+Latin America and Spain. By the end of 2004, Curves is expected to
+reach eight thousand five hundred fitness centers.
+Reconstruct Market Boundaries 59
+FIGURE 3-2
+The Strategy Canvas of Curves
+High
+Low
+Price Workout Availability of Nonthreatening Womanly
+equipment instructors same-sex fun
+Amenities (treadmills, Workout Environment environ- Conven- atmosweights,
+time encouraging ment ience phere
+etc.) discipline
+and motivation
+in exercise
+Curves
+Home Exercise
+Program
+Traditional
+Health Clubs
+Beyond Curves, many companies have created blue oceans by
+looking across strategic groups. Ralph Lauren created the blue
+ocean of “high fashion with no fashion.” Its designer name, the elegance
+of its stores, and the luxury of its materials capture what
+most customers value in haute couture. At the same time, its updated
+classical look and price capture the best of the classical lines
+such as Brooks Brothers and Burberry. By combining the most attractive
+factors of both groups and eliminating or reducing everything
+else, Polo Ralph Lauren not only captured share from both
+segments but also drew many new customers into the market.
+In the luxury car market, Toyota’s Lexus carved out a new blue
+ocean by offering the quality of the high-end Mercedes, BMW, and
+Jaguar at a price closer to the lower-end Cadillac and Lincoln. And
+think of the Sony Walkman. By looking across the high fidelity of
+boom boxes with the low price and mobility of transistor radios
+within the audio equipment industry, Sony created the personal
+portable-stereo market in the late 1970s. The Walkman took share
+from these two strategic groups. In addition, its leap in value drew new
+customers, including joggers and commuters, into this blue ocean.
+Michigan-based Champion Enterprises identified a similar opportunity
+by looking across two strategic groups in the housing industry:
+makers of prefabricated housing and on-site developers.
+Prefabricated houses are cheap and quick to build, but they are
+also dismally standardized and have a low-quality image. Houses
+built by developers on-site offer variety and an image of high quality
+but are dramatically more expensive and take longer to build.
+Champion created a blue ocean by offering the decisive advantages
+of both strategic groups. Its prefabricated houses are quick to
+build and benefit from tremendous economies of scale and lower
+costs, but Champion also allows buyers to choose such high-end finishing
+touches as fireplaces, skylights, and even vaulted ceilings to
+give the homes a personal feel. In essence, Champion has changed
+the definition of prefabricated housing. As a result, far more lowerto
+middle-income buyers have become interested in purchasing pre-
+60 F O R M U L AT I N G B L U E O C E A N S T R AT E G Y
+fabricated housing rather than renting or buying an apartment,
+In most industries, competitors converge around a common definition
+of who the target buyer is. In reality, though, there is a chain of
+“buyers” who are directly or indirectly involved in the buying decision.
+The purchasers who pay for the product or service may differ
+from the actual users, and in some cases there are important influencers
+as well. Although these three groups may overlap, they often
+differ. When they do, they frequently hold different definitions of
+value. A corporate purchasing agent, for example, may be more concerned
+with costs than the corporate user, who is likely to be far
+more concerned with ease of use. Similarly, a retailer may value a
+manufacturer’s just-in-time stock replenishment and innovative financing.
+But consumer purchasers, although strongly influenced
+by the channel, do not value these things.
+Individual companies in an industry often target different customer
+segments—for example, large versus small customers. But an
+industry typically converges on a single buyer group. The pharmaceutical
+industry, for example, focuses overridingly on influencers:
+doctors. The office equipment industry focuses heavily on purchasers:
+corporate purchasing departments. And the clothing industry
+sells predominantly to users. Sometimes there is a strong
+economic rationale for this focus. But often it is the result of industry
+practices that have never been questioned.
+Challenging an industry’s conventional wisdom about which
+buyer group to target can lead to the discovery of new blue ocean.
+By looking across buyer groups, companies can gain new insights
+Reconstruct Market Boundaries 61
+into how to redesign their value curves to focus on a previously
+overlooked set of buyers.
+Think of Novo Nordisk, the Danish insulin producer that created
+a blue ocean in the insulin industry. Insulin is used by diabetics
+to regulate the level of sugar in their blood. Historically, the
+insulin industry, like most of the pharmaceutical industry, focused
+its attention on the key influencers: doctors. The importance of
+doctors in affecting the insulin purchasing decision of diabetics
+made doctors the target buyer group of the industry. Accordingly,
+the industry geared its attention and efforts to produce purer insulin
+in response to doctors’ quest for better medication. The issue
+was that innovations in purification technology had improved dramatically
+by the early 1980s. As long as the purity of insulin was
+the major parameter upon which companies competed, little
+progress could be made further in that direction. Novo itself had
+already created the first “human monocomponent” insulin that
+was a chemically exact copy of human insulin. Competitive convergence
+among the major players was rapidly occurring.
+Novo Nordisk, however, saw that it could break away from the
+competition and create a blue ocean by shifting the industry’s longstanding
+focus on doctors to the users—patients themselves. In focusing
+on patients, Novo Nordisk found that insulin, which was
+supplied to diabetes patients in vials, presented significant challenges
+in administering. Vials left the patient with the complex and
+unpleasant task of handling syringes, needles, and insulin, and
+of administering doses according to his or her needs. Needles and
+syringes also evoked unpleasant feelings of social stigmatism for
+patients. And patients did not want to fiddle with syringes and needles
+outside their homes, a frequent occurrence because many patients
+must inject insulin several times a day.
+This led Novo Nordisk to the blue ocean opportunity of NovoPen,
+launched in 1985. NovoPen, the first user-friendly insulin delivery
+solution, was designed to remove the hassle and embarrassment of
+administering insulin. The NovoPen resembled a fountain pen; it
+contained an insulin cartridge that allowed the patient to easily
+62 F O R M U L AT I N G B L U E O C E A N S T R AT E G Y
+carry, in one self-contained unit, roughly a week’s worth of insulin.
+The pen had an integrated click mechanism, making it possible for
+even blind patients to control the dosing and administer insulin.
+Patients could take the pen with them and inject insulin with ease
+and convenience without the embarrassing complexity of syringes
+and needles.
+To dominate the blue ocean it had unlocked, Novo Nordisk followed
+up by introducing, in 1989, NovoLet, a prefilled disposable insulin
+injection pen with a dosing system that provided users with
+even greater convenience and ease of use. And in 1999 it brought
+out the Innovo, an integrated electronic memory and cartridgebased
+delivery system. Innovo was designed to manage the delivery
+of insulin through built-in memory and to display the dose, the last
+dose, and the elapsed time—information that is critical for reducing
+risk and eliminating worries about missing a dose.
+Novo Nordisk’s blue ocean strategy shifted the industry landscape
+and transformed the company from an insulin producer to a diabetes
+care company. NovoPen and the later delivery systems swept
+over the insulin market. Sales of insulin in prefilled devices or pens
+now account for the dominant share in Europe and Japan, where
+patients are advised to take frequent injections of insulin every day.
+Although Novo Nordisk itself has more than a 60 percent share in
+Europe and 80 percent in Japan, 70 percent of its total turnover
+comes from diabetes care, an offering that originated largely in the
+company’s thinking in terms of users rather than influencers.
+Similarly, consider Bloomberg. In a little more than a decade,
+Bloomberg became one of the largest and most profitable businessinformation
+providers in the world. Until Bloomberg’s debut in the
+early 1980s, Reuters and Telerate dominated the online financialinformation
+industry, providing news and prices in real time to the
+brokerage and investment community. The industry focused on purchasers—
+IT managers—who valued standardized systems, which
+made their lives easier.
+This made no sense to Bloomberg. Traders and analysts, not IT
+managers, make or lose millions of dollars for their employers each
+Reconstruct Market Boundaries 63
+day. Profit opportunities come from disparities in information.
+When markets are active, traders and analysts must make rapid decisions.
+Every second counts.
+So Bloomberg designed a system specifically to offer traders better
+value, one with easy-to-use terminals and keyboards labeled
+with familiar financial terms. The systems also have two flat-panel
+monitors so that traders can see all the information they need at
+once without having to open and close numerous windows. Because
+traders must analyze information before they act, Bloomberg added
+a built-in analytic capability that works with the press of a button.
+Before, traders and analysts had to download data and use a pencil
+and calculators to perform important financial calculations. Now
+users can quickly run “what if ” scenarios to compute returns on alternative
+investments, and they can perform longitudinal analyses
+of historical data.
+By focusing on users, Bloomberg was also able to see the paradox
+of traders’ and analysts’ personal lives. They have tremendous income
+but work such long hours that they have little time to spend
+it. Realizing that markets have slow times during the day when little
+trading takes place, Bloomberg decided to add information and
+purchasing services aimed at enhancing traders’ personal lives.
+Traders can use these services to buy items such as flowers, clothing,
+and jewelry; make travel arrangements; get information about
+wines; or search through real estate listings.
+By shifting its focus upstream from purchasers to users, Bloomberg
+created a value curve that was radically different from anything
+the industry had seen before. The traders and analysts wielded
+their power within their firms to force IT managers to purchase
+Bloomberg terminals.
+Many industries afford similar opportunities to create blue
+oceans. By questioning conventional definitions of who can and
+should be the target buyer, companies can often see fundamentally
+new ways to unlock value. Consider how Canon copiers created the
+small desktop copier industry by shifting the target customer of
+the copier industry from corporate purchasers to users. Or how
+64 F O R M U L AT I N G B L U E O C E A N S T R AT E G Y
+SAP shifted the customer focus of the business application software
+industry from the functional user to the corporate purchaser
+to create its enormously successful real-time integrated software
+business.
+What is the chain of buyers in your industry? Which buyer group
+does your industry typically focus on? If you shifted the buyer
+group of your industry, how could you unlock new value?
+Path 4: Look Across Complementary
+Product and Service Offerings
+Few products and services are used in a vacuum. In most cases,
+other products and services affect their value. But in most industries,
+rivals converge within the bounds of their industry’s product
+and service offerings. Take movie theaters. The ease and cost of
+getting a babysitter and parking the car affect the perceived value
+of going to the movies. Yet these complementary services are beyond
+the bounds of the movie theater industry as it has been traditionally
+defined. Few cinema operators worry about how hard or
+costly it is for people to get babysitters. But they should, because it
+affects demand for their business. Imagine a movie theater with a
+babysitting service.
+Untapped value is often hidden in complementary products and
+services. The key is to define the total solution buyers seek when
+they choose a product or service. A simple way to do so is to think
+about what happens before, during, and after your product is used.
+Babysitting and parking the car are needed before people can go to
+the movies. Operating and application software are used along
+with computer hardware. In the airline industry, ground transportation
+is used after the flight but is clearly part of what the customer
+needs to travel from one place to another.
+Consider NABI, a Hungarian bus company. It applied path 4 to
+the $1 billion U.S. transit bus industry. The major customers in
+the industry are public transport properties (PTPs), municipally
+Reconstruct Market Boundaries 65
+owned transportation companies serving fixed-route public bus
+transportation in major cities or counties.
+Under the accepted rules of competition in the industry, companies
+competed to offer the lowest purchase price. Designs were outdated,
+delivery times were late, quality was low, and the price of
+options was prohibitive given the industry’s penny-pinching approach.
+To NABI, however, none of this made sense. Why were bus
+companies focused only on the initial purchase price of the bus,
+when municipalities kept buses in circulation for twelve years on
+average? When it framed the market in this way, NABI saw insights
+that had escaped the entire industry.
+NABI discovered that the highest-cost element to municipalities
+was not the price of the bus per se, the factor the whole industry
+competed on, but rather the costs that came after the bus was purchased:
+the maintenance of running the bus over its twelve-year
+life cycle. Repairs after traffic accidents, fuel usage, wear and tear
+on parts that frequently needed to be replaced due to the bus’s
+heavy weight, preventive body work to stop rusting, and the like—
+these were the highest-cost factors to municipalities. With new demands
+for clean air being placed on municipalities, the cost for
+public transport not being environmentally friendly was also beginning
+to be felt. Yet despite all these costs, which outstripped the
+initial bus price, the industry had virtually overlooked the complementary
+activity of maintenance and life-cycle costs.
+This made NABI realize that the transit bus industry did not
+have to be a commodity-price-driven industry but that bus companies,
+focusing on selling buses at the lowest possible price, had
+the industry, it offered its buses at a much lower life-cycle 

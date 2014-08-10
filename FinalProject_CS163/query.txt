@@ -1,0 +1,11 @@
+a
+the
+Yahoo AND facebook
+protoss AND zealot AND templar
+zerg AND zergling
+overmind AND overlord
+yahoo AND facebook OR protoss AND zealot AND templar OR zerg AND zergling OR overmind AND overlord
+drug
+hell
+*old
+tang*

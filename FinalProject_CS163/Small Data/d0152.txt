@@ -1,0 +1,198 @@
+File photo: HMAS Perth transits through the southern Indian Ocean as an Orion P-3K of the Royal New Zealand Air 
+Force searches for debris for missing Malaysia Airlines flight MH 370, 13 April 2014
+Search teams have spent months trying to find signs of the missing plane.
+As expected, and reported by the BBC last week, the search for MH370 is going to shift hundreds of kilometres to 
+the south of where an Australian defence vessel thought, mistakenly, it had detected signals from the jet’s submerged flight recorders.
+The new region is a consequence of further, refined analysis of the brief, automated satellite communications with the plane in its last hours.
+This search area focuses on the so-called “7th arc” – a line through which the analysis suggests the jet had to have crossed as it made a final connection with ground systems.
+The interpretation of the data is that this last electronic “handshake” was prompted by a power interruption on board MH370 as its fuel ran down to exhaustion and its engines “flamed out”.
+The final connection is the jet trying to log back into the satellite network after the interruption, made possible perhaps by an auxiliary power source firing up. But there are very strong indications that MH370 crashed soon after.
+Examination of the data shows there was another interruption and logon request from the plane much earlier in the flight. Such interruptions can occur for a number of reasons, including software glitches. But the sequence that follows a logon is telling.
+About 90 seconds after the satellite link is re-established, the entertainment system onboard the plane should also try to reconnect with the ground network. All this can be seen in the data for a handshake that occurs at 18:25 GMT, three minutes after the last radar sighting of the jet.
+But this entertainment reconnection does not occur following the 7th arc handshake at 00:19 GMT, almost five hours later. The hypothesis then is that MH370 cannot make such a request because by that stage it is spiralling rapidly downwards or has already even hit the water.
+File photo: A member of staff at satellite communications company. Inmarsat works in front of a screen showing subscribers using their service throughout the world, at their headquarters in London, 25 March 2014.
+Satellite system operator Inmarsat has been calculating where the plane is likely to have ended its journey.
+This all means the wreckage should be very close to the 7th arc. But where precisely is dependent on a number of variables that include such aspects as the plane’s performance on that day and even the wind conditions.
+A model has been produced that takes account of all these features, and several teams within the investigation have been running the numbers; this is not the sole work of the satellite system’s operator, Inmarsat.
+What is more, these teams have run the numbers independently of each other. However, the collected view has arrived at a zone of highest priority covering some 60,000 sq km (23,200 sq miles).
+It is a strip running for about 650km (400 miles) with a width of 93km. It’s northern end is a good 800km from where the ADV Ocean Shield’s towed pinger locator device detected those possible pulses from submerged flight recorders.
+The Fugro Equator vessel is mapping the sea bed of the new search area
+These detections, it turns out, were not what one would have expected from properly functioning beacons, but only damaged ones. Nonetheless, it was determined that an underwater search using an autonomous sub should take place. 
+As we all know now, it was fruitless, and the location has been ruled out as a final resting place for MH370.
+Two ships – the Chinese survey vessel Zhu Kezhen and the Australian-contracted Fugro Equator - are now busy mapping the ocean floor in the new search area.
+Once they have a detailed map of the shape and depth of the sea bed, the investigation team can then summon the best – and also the most appropriate - submersibles in the world to go hunt for sunken wreckage.
+The Australian authorities have laid out much of the analysis, and their reasons to go with the new search area, in a 64-page report.
+While no-one yet can presume they know what happened on MH370, it is clear from reading this document that investigators are working on the idea that the crew was unconscious for the larger part of the flight. Everything we know about MH370, and everything we've learned from previous accidents, would seem to point to the jet ending its flight after having spent a long time on autopilot.
+But quite how it could have got into this situation, eventually crashing into the southern Indian Ocean, is for now pure speculation.
+The new underwater search will initially focus on the orange area indicated.
+A new search area for the missing Malaysian plane has been announced by the Australian government after further analysis of satellite data.
+The search will now shift south to focus on an area 1,800km (1,100 miles) off the west coast of Australia, Deputy  
+Prime Minister Warren Truss confirmed.
+Flight MH370 vanished en route from Kuala Lumpur to Beijing on 8 March with 239 passengers on board.
+Officials said they believed the plane had been on autopilot when it crashed.
+A 64-page report released by the Australian government concluded that the underwater search for the plane should resume in the new 60,000 sq km area.
+An extensive search of the ocean floor was conducted in April after several acoustic pings, initially thought to be from the plane's flight data recorders, were heard. However, officials now believe the pings were not caused by the plane.
+"It is highly, highly likely that the aircraft was on autopilot otherwise it could not have followed the orderly path that has been identified through the satellite sightings," Mr Truss said.
+Analysis: Refined analysis drives new move, Jonathan Amos, science correspondent, BBC News.
+The new search area focuses on the "7th arc" - a line through which the analysis suggests the jet had to have crossed as it made a final, brief, connection with ground systems. The interpretation of the data is that this "electronic handshake" was prompted by a power interruption onboard MH370 as its fuel ran down to exhaustion. As auxiliary power came on, the jet tried to log back into the satellite network.
+In normal circumstances following such a logon request, there would usually have been additional "chatter" between the network and MH370. That these connections are not seen in the data log are a very strong indication that the jet was in its crash descent.
+Several teams within the investigation have been running the numbers; this is not the sole work of the satellite system's operator - Inmarsat.
+The collective opinion of several independent teams has therefore arrived at a zone of highest priority covering some 60,000 sq km. Once the ocean floor there is mapped, the investigation team can then summon the best - but also the most appropriate - submersibles in the world to go hunt for sunken wreckage.
+Expensive search.
+The underwater search for the plane was put on hold to allow more time for survey vessels to map the ocean floor.
+The new search is due to commence in August and is expected to be completed within a year, Australian Transport 
+Safety Bureau (ATSB) chief Martin Dolan confirmed.
+Jump media playerMedia player helpOut of media player. Press enter to return or tab to continue.
+Martin Dolan from the Australian Transport Safety Bureau said data showed the plane was on autopilot
+Submarines will scour the ocean floor to look for signs of the missing Boeing 777. The area has already been searched by air, and officials say any floating wreckage will have sunk to the ocean floor.
+Several teams working independently of each other have reached similar conclusions relating to the new search area, the BBC's science correspondent Jonathan Amos says.
+The search for the missing airliner is already among most expensive in aviation history.
+Relatives of passengers on missing Malaysia Airlines flight MH370 cry as they gather at the Lama Temple in Beijing on June 15
+Relatives of Chinese passengers met in Beijing earlier this month to pray for the plane's discovery.
+After more than 100 days since the disappearance of the airliner, many of the relatives of the missing passengers have continued to express frustration at the lack of progress in the search.
+The man who carried out one of the world's earliest hijackings
+By Jonah Fisher
+BBC News, Myanmar
+The plane that was hijacked
+Continue reading the main story
+In today's Magazine
+The long, dark walk to the toilet
+How Patio cola changed the world of fizzy drinks
+Quiz of the week's news
+The growing problem of Pablo Escobar’s hippos
+Sixty years ago, a passenger plane was hijacked and forced to land on a deserted beach in Myanmar, also known as 
+Burma. For many years the incident involving Karen rebels was hushed up - but now a film about it is being made.
+In the comfort of his armchair, Saw Kyaw Aye clenches his hand into a fist, raises it to his face and mimes pulling a grenade pin out with his teeth.
+Sixty years may have passed, but this is clearly a story the 87-year-old has been telling - or acting out - ever since.
+He closes his eyes for a second. He's back in the moment. It's 1954 and he has just forced his way into the cockpit of a passenger plane.
+This is the critical moment in an audacious plot to steal a Dakota DC-3 and use it to smuggle weapons. At that  
+point he looks up and tells me he shouted at the British pilot - one Capt A E Hare: "I'm going to die for my Karen nation - what cause are you going to die for?"
+Saw Kyaw Aye in 1954
+Realising the danger, Capt Hare capitulated. He took the map the rebels had drawn and agreed to fly them to a rendezvous point near Myanmar's west coast.
+Saw Kyaw Aye
+Listen to From Our Own Correspondent for insight and analysis from BBC journalists, correspondents and writers from around the world
+At the time, the Karen controlled land both east and west of the then capital Rangoon, and the plan was to use the plane to link the two.
+For the next three hours Saw peered desperately at the ground below looking for the large piece of white paper that would show a prepared runway. But something had gone wrong.
+Maybe none of his fellow rebels had actually believed the plan would work. Hijacking in the 1950s was almost unheard of and two of the most senior Karen commanders had rejected the scheme outright. One of them had even called him a fool.
+Fool or not, Saw was now in control of the plane with nowhere to go and with fuel running out. In desperation the pilot attempted to bring the plane down on a deserted beach. Twice the landing was aborted - before at the third try they came juddering down into the sand.
+The passengers were allowed to disembark and the hijackers then discovered the plane was carrying some heavy metal chests. It was cash being transported between bank branches - 700,000 Burmese kyat. That's about $700 (£400) in today's money but worth an awful lot more back then.
+The rebels who failed to show up
+Karen rebels on the ground who were meant to guide the plane to a runway
+"We figured it was enemy money so we took it," Saw says with a smile. The passengers and crew were allowed back on and somehow the plane managed to take off, as the rebels slunk off into the bush.
+It's a story worthy - almost - of Hollywood. But under Burma's strict censorship rules, for the last 50 years you had to do what I did and go to Saw's house if you wanted to hear it. The generals didn't want people finding out about plucky rebels seizing government-owned planes.
+But now, censorship of the printed word has been lifted and Saw's story was published in a book last year.
+The title - The World's First Hijacking - is somewhat misleading. A quick search of the internet shows there were at least four hijackings around the world before this one.
+Undeterred, the final touches are now being put to a film, with the same slightly dodgy name. Cinema censorship is still alive and well here. Scripts have to be approved and then permission granted again when the film has been finished.
+For the last 11 years Anthony, who goes by just one name, has been trying to make films that will get past the censors.
+It's been frustrating - in the past any reference to rebel groups was an immediate no no. Even vague, sometimes imagined allusions were sniffed out.
+Anthony tells me he wanted to call one of his films Don't Cry Mother, but it was vetoed as it might have been an oblique reference to pro-democracy campaigner Aung San Suu Kyi.
+"There was a time when we only made comedies as they made good money and we knew they'd make it past the censors," he says.
+But now there are signs the film censors are catching up with the country's reforms.
+Anthony's hijacking script was approved. The Burmese army even loaned them a plane and some guns for filming.
+A still from the film, with the British pilot at gunpoint
+"At last we can do some true stories from here... the world's waiting for a good film from Myanmar," Anthony tells me.
+Saw's hijacking is certainly quite a tale. Afterwards, he managed to avoid capture for several years before becoming a Baptist minister and then a go-between in talks between the government and the rebel leadership.
+Incredibly, after more than 60 years, the Karen conflict is still unresolved.
+Malaysia plane: Why black boxes can't always provide the answersBy Tom de CastellaBBC News Magazine.
+The mystery of flight MH370 is unlikely to be solved until the flight recorder - known as a black box - is found. 
+There are actually two boxes - a cockpit voice recorder and a data recorder. But these devices have their limitations.
+The voice recorder only captures the final two hours
+Listening to the last moments of Air France flight 447, which crashed into the Atlantic in 2009, gives a chilling insight into the confusion that had overcome the pilots. Such a record of what went on in the cockpit would be a priceless tool for investigators trying to work out whether the Malaysia Airlines plane was the victim of foul play or a mechanical fault. But it's not that simple even if the black box is found. The cockpit voice recorder continually records over itself as the flight goes on. US firm Honeywell Aerospace says the black box on the missing airliner - which it provided - only retains two hours of recording. That's the length of time that regulations demand. The principle is in place because it is normally the last section of a flight that determines the cause of the crash. But in the case of the Malaysia Airlines 777 it might well be the case that the key events happened long before the actual crash. On the other hand, Steve Buzdygan, a former BA 777 pilot, says the data recorder would provide a wealth of useful information. "You can almost reconstruct the flight path from it." 
+Why is a 'black box' orange?
+The original flight recorders were painted black but the colour was changed to orange to make them easier to find by investigators
+The flight data recorder records a stream of flight information
+The cockpit voice recorder stores conversations and other noises made in the cockpit
+The battery life is short
+The black box sends out a ping - activated by immersion in water - that can be picked up by a microphone and a "signal analyser". There's another beacon - the emergency locator transmitter - which transmits a distress signal on impact. But these don't work in water. Both the voice recorder and the data recorder each have their own 
+pinger. But there's a problem - the battery of the pinger on MH370 will only last for 30 days, says Steve Brecken, media director at Honeywell. Some pingers last for 90 days. The variation stems from the fact the rules changed after Air France flight 447. It took nearly two years to find its black box and new guidelines were issued that the ping should last for 90 days to give search teams longer to find it. Some planes have since been updated, but apparently not the MH370. Even after the batteries for the pinger run out, the recorded data remains intact.
+It is a small object to find
+The black box is bolted into the tail of the aircraft to avoid damage in a head-on crash. It is small - about the size of a shoe box, says Dr Guy Gratton of Brunel University's Flight Safety Lab. Contrary to the name, it is bright orange. But it's not easy to see it in the middle of the ocean. The search will aim to try to locate the wreckage before moving in to pinpoint the black box by picking up the ping. If the pinger has expired then other techniques - such as magnetic detection - are going to be necessary.
+It doesn't float
+The box is made out of aluminium and designed to withstand massive impact, fierce fire or high pressure. That means it's heavy - about 10kg for what is a small box - and will sink quickly. The Indian Ocean has very deep sections. The search area ranges between 1,150m (3,770ft) and 7,000m (23,000ft) deep, media reports suggest. So investigators will have to consider the prospect of it being out of reach of many sonar devices. "You have to ask if there's terrain in the way. The seabed could be as mountainous as the Alps," says David Barry, an expert on flight data monitoring at Cranfield Univers.
+The pinger's range is only a few miles.
+Honeywell, who made MH370's pinger, say the signal can typically only be picked up a mile away. David Mearns, director of Blue Water Recoveries, says this means aircraft really needs to be almost directly on top of the black boxes to hear the ping. There are also factors that may diminish the signal. Wreckage on the surface, or if the black boxes are submerged in mud or sediment on the seabed, he adds. But if the pinger is deep on the ocean floor navies have hydrophone technology that has a better chance of locating it than conventional detectors. The Air France black box was not found until after its ping had expired. It was eventually located by slow moving unmanned underwater vehicles. A modern submarine - such as one of the Royal Navy's hunter-killer models - could potentially at least hear a ping from many miles away, Gratton says. The US, China and Australia all have similar submarines, he says. "By now there will be a submarine down there. I'm certain the Chinese will have put something out there." 
+The US has deployed a ship that will tow a special black box locator through the water. According to the Associated Press, "the Towed Pinger Locator, which is pulled behind a vessel at slow speeds, has highly sensitive listening capability so that if the wreck site is located, it can hear the black box pinger down to a depth of about 20,000ft (6,100m)". However, there is a further complication, says Barry. The black box may be giving off pings from the ocean floor. But if those pings hit a layer of warmer or colder water above, the signal might be refracted or reflected.
+The search for flight MH370
+The hunt for Malaysia Airlines flight MH370 is continuing north west of Perth, Australia, with search teams using specialist equipment to survey the sea floor.
+However, hopes that acoustic signals thought to be from the aircraft's "black box" flight recorders would lead them to the jet's final resting place have been dashed. Australian officials say a Bluefin-21 submersible robot has found nothing in its search of the area where four "pings" were detected in April.
+Further specialist search equipment is now being sourced for wider underwater searches.
+Where is the search?
+Since the plane disappeared on 8 March, the hunt has changed in scope many times.
+At its largest, it covered 7.68 million sq km (2.96 million sq miles) - a total of 2.24 million square nautical miles. This was the equivalent of 11% of the Indian Ocean and 1.5% of the surface of the Earth.
+However, from 16 March, satellite images of possible debris and tracking data released by the Malaysian authorities appeared to confirm that the plane crashed in the Indian Ocean, south west of Australia.
+After searching an area more than 2,000km (1,240 miles) south-west of Perth, the hunt switched more than 1,000km (600 miles) further north, based on further analysis of radar data which showed the plane was going faster, thus using fuel more quickly.
+Map showing the last-known movements of flight MH370
+The search zone narrowed again in early April to an area of 850 sq km (328 sq miles) of the ocean floor - located close to acoustic signals detected by Australian teams.
+The Australian vessel the Ocean Shield picked up four acoustic signals in the same broad area - on the 5 and 6 April and again twice on 8 April. Chinese ship Hai Xun 01 also registered a signal on 5 April, but this was 600km further south.
+Then, at the end of May, the search zone was again extended to an area of 60,000 sq km (23,000 sq miles).
+This extended area's sea bed is currently being mapped by the Chinese survey ship Zhu Kezhen, ready for a commercial operator to take over the search mission in August. The mission is expected to take up to a year, at an estimated cost of $55m (£33m) or more.
+Authorities have also asked the UN's Comprehensive Nuclear Test Ban Treaty Organization to check its system of hydrophones, which are designed to pick up possible nuclear tests, for any clues as to where the aircraft may have crashed.
+So far not one piece of debris has been identified or recovered.
+Richard Westcott reports on the use of a pinger locator to find a black box
+Who has been taking part in the search?
+Eight countries have been assisting - Australia, China, Japan, Malaysia, New Zealand, South Korea, the United Kingdom and the United States.
+However, the investigation is being led by the Malaysian authorities, who are also liaising with the FBI, Interpol and other international law enforcement agencies.
+Australia has been overseeing day-to-day search operations from its newly-created Joint Agency Co-ordination Centre (Jacc) based in Perth.
+Members of China's Civil Aviation Administration and officials from the France's Office of Investigations and Analysis for the Safety of Civil Aviation have also been involved in the investigation.
+The French are lending expertise from the two-year search for the flight recorders from the Air France Airbus A330 which crashed into the Atlantic Ocean in 2009.
+British company Inmarsat, along with the UK Air Accident Investigations Branch, have provided detailed satellite data analysis to aid the hunt.
+What key equipment has been used?
+Two vessels - the Australian naval support ship Ocean Shield and the UK's HMS Echo - used specialist listening equipment that can detect ultrasonic "pings" from the plane's "black box" flight recorders.
+The Ocean Shield used a "towed pinger locator" (TPL), which is pulled underwater behind the ship at slow speeds and uses a highly sensitive listening device called a hydrophone to pick up signals.
+Missing Malaysian plane: How much will MH370 search cost?
+HMS Echo (handout photo)
+HMS Echo carries sophisticated underwater detection equipment
+Continue reading the main story
+Related Stories
+Recovery hope boost
+What we know
+Checking pulses
+In the month since Malaysia Airlines Flight MH370 disappeared en route from Kuala Lumpur to Beijing, search and rescue teams have patrolled areas of the southern Indian ocean, thousands of kilometres apart.
+Planes, ships and submarines have all been deployed.
+China, Australia, Malaysia, the US, the UK New Zealand, Japan and South Korea have all contributed to the search.  
+So how much is it costing, and who pays?
+Malaysia has refused to be drawn. Acting Transport Minister Hishamuddin Hussein told reporters that the cost of mounting the search was "immaterial" when set against the need to bring solace to the families of the missing.
+But mounting a search operation on this scale, and for this length of time, does not come cheap. The bill so far probably runs to £20-25m ($33-42m), estimates Peter Roberts, senior research fellow in sea power and maritime studies at the Royal United Services Institute (Rusi).
+This includes the cost of fuel, spare parts, and transporting supplies, as well as the relocation of staff - even costs such as cancelled leave can push up the final bill.
+Chinese plane in Perth, Australia en route to rejoin search for missing Malaysian plane (6 April)
+China is one of more than 20 countries contributing to the search for the missing Malaysian plane
+'Sense of brotherhood'
+Most of the financial burden will be borne by the countries who have contributed their forces.
+For example, Australia deployed a navy replenishment vessel, HMAS Success, two weeks ago. It costs AU$550,000 a day to operate, says the Department of Defence, so that comes to $7.7m ($7.2m; £4.3m) already.
+And that is just a single ship. HMAS Toowoomba, which has also been involved, costs AU$380,000.
+Continue reading the main story
+“Saving life at sea is the right thing to do”
+Peter Roberts
+Senior research fellow, Russian
+The US Department of Defense set aside $4m to help the search: between 8 and 24 March, it spent $3.2m, a spokesman told reporters in Washington.
+The UK has sent a survey ship, HMS Echo, which is equipped with sensitive underwater detection equipment. The UK Ministry of Defence (MoD) is not yet putting a price tag on the British role.
+"The operation to locate flight MH370 is ongoing as is the work to fully identify the costs," the MoD told the BBC in a statement.
+In the end, the cost of sending HMS Echo to the waters off Australia will be met from Treasury contingency funds, says Mr Roberts. Governments will take the costs within their budget "and accept they have to do it".
+The ship will stay there as long as it has a role to play, he says: "Mariners have got a very strong sense of brotherhood: saving life at sea is the right thing to do."
+Once the search is completed, attention is likely to turn to improving the tracking technology.
+"It is hard for anyone to imagine that we can't continuously track aircraft anywhere in the world," says Mr Roberts.
+There, the most expensive part of the process will not be the development or fitting of any technology, but the cost of getting it accepted and standardised by aviation regulators around the world.
+The most expensive salvage operation in aviation history came after an Air France flight from Rio de Janeiro to Paris crashed in the Atlantic in 2009.
+After multiple searches over three years, the final bill came to 32m euros (£26m; $44m).
+For now, Australia has joined Malaysia in downplaying the cost factor: Prime Minister Tony Abbott has vowed to “spend what we need to spend to get this job done”.
+He has called it "an act of international citizenship on Australia's part,'' but added: ''At some point there might need to be a reckoning''.
+How do you track a plane?
+Graphic: Malaysia Airlines Boeing 777-200ER
+Continue reading the main story
+Continue reading the main story
+MH370 mystery
+The disappearance of Malaysia Airlines flight MH370 has raised the disturbing question of how a modern aircraft packed with communications equipment can apparently vanish without trace.
+Evidence has emerged to suggest that the Boeing 777-200ER aircraft flew on for hours after being reported missing.
+The plane, with 239 people on board, disappeared from air traffic control screens at approximately 01:20 local time on Saturday 8 March - just an hour after leaving Kuala Lumpur bound for Beijing.
+The investigation is now focusing on the actions of the air crew, as officials believe that the plane was deliberately diverted, with key communications systems switched off.
+So, how do you track a plane and what do we know about the movements of flight MH370?
+Normal aircraft tracking
+Graphic: How planes can be tracked
+Air traffic control - standard international practice is to monitor airspace using two radar systems: primary and secondary.
+Primary radar -based on the earliest form of radar developed in the 1930s, detects and measures the approximate position of aircraft using reflected radio signals. It does this whether or not the subject wants to be tracked. 
+Secondary radar, which relies on targets being equipped with a transponder, also requests additional information from the aircraft - such as its identity and altitude.
+All commercial aircraft are equipped with transponders (an abbreviation of "transmitter responder"), which automatically transmit a unique four-digit code when they receive a radio signal sent by radar.
+The code gives the plane's identity and radar stations go on to establish speed and direction by monitoring successive transmissions. This flight data is then relayed to air traffic controllers.
+However, once an aircraft is more than 240km (150 miles) out to sea, radar coverage fades and air crew keep in touch with air traffic control and other aircraft using high-frequency radio.
+How did flight MH370 vanish?
+The Boeing 777 disappeared from air traffic control screens when its transponder signal stopped. The last definitive sighting on civilian radar showed the aircraft flying north east across the Gulf of Thailand.

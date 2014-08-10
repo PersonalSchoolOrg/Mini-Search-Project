@@ -1,0 +1,576 @@
+THE iPHONE
+Three Revolutionary Products in One
+n iPod That Makes Calls
+By 2005 iPod sales were skyrocketing. An 
+astonishing twenty million were sold that year, 
+quadruple the number of the year before. The product 
+was becoming more important to the company’s bottom 
+line, accounting for 45% of the revenue that year, and it 
+was also burnishing the hipness of the company’s 
+image in a way that drove sales of Macs.
+That is why Jobs was worried. “He was always 
+obsessing about what could mess us up,” board 
+member Art Levinson recalled. The conclusion he had 
+come to: “The device that can eat our lunch is the cell 
+phone.” As he explained to the board, the digital 
+camera market was being decimated now that phones 
+were equipped with cameras. The same could happen 
+to the iPod, if phone manufacturers started to build 
+music players into them. “Everyone carries a phone, so 
+that could render the iPod unnecessary.”
+His first strategy was to do something that he had 
+admitted in front of Bill Gates was not in his DNA: to 
+partner with another company. He began talking to Ed 
+Zander, the new CEO of Motorola, about making a 
+companion to Motorola’s popular RAZR, which was a 
+cell phone and digital camera, that would have an iPod 
+built in. Thus was born the ROKR. It ended up having 
+neither the enticing minimalism of an iPod nor the 
+convenient slimness of a RAZR. Ugly, difficult to load, 
+and with an arbitrary hundred-song limit, it had all the 
+hallmarks of a product that had been negotiated by a 
+committee, which was counter to the way Jobs liked to 
+work. Instead of hardware, software, and content all 
+Steve Jobs by Walter Isaacson 608
+being controlled by one company, they were cobbled 
+together by Motorola, Apple, and the wireless carrier 
+Cingular. “You call this the phone of the future?” Wired
+scoffed on its November 2005 cover.
+Jobs was furious. “I’m sick of dealing with these 
+stupid companies like Motorola,” he told Tony Fadell 
+and others at one of the iPod product review meetings. 
+“Let’s do it ourselves.” He had noticed something odd 
+about the cell phones on the market: They all stank, just 
+like portable music players used to. “We would sit 
+around talking about how much we hated our phones,” 
+he recalled. “They were way too complicated. They had 
+features nobody could figure out, including the address 
+book. It was just Byzantine.” George Riley, an outside 
+lawyer for Apple, remembers sitting at meetings to go 
+over legal issues, and Jobs would get bored, grab 
+Riley’s mobile phone, and start pointing out all the ways 
+it was “brain-dead.” So Jobs and his team became 
+excited about the prospect of building a phone that they 
+would want to use. “That’s the best motivator of all,” 
+Jobs later said.
+Another motivator was the potential market. More 
+than 825 million mobile phones were sold in 2005, to 
+everyone from grammar schoolers to grandmothers. 
+Since most were junky, there was room for a premium 
+and hip product, just as there had been in the portable 
+music-player market. At first he gave the project to the 
+Apple group that was making the AirPort wireless base 
+station, on the theory that it was a wireless product. But 
+he soon realized that it was basically a consumer 
+device, like the iPod, so he reassigned it to Fadell and 
+his teammates.
+Their initial approach was to modify the iPod. They 
+tried to use the trackwheel as a way for a user to scroll 
+through phone options and, without a keyboard, try to 
+enter numbers. It was not a natural fit. “We were having 
+Steve Jobs by Walter Isaacson 609
+a lot of problems using the wheel, especially in getting it 
+to dial phone numbers,” Fadell recalled. “It was 
+cumbersome.” It was fine for scrolling through an 
+address book, but horrible at inputting anything. The 
+team kept trying to convince themselves that users 
+would mainly be calling people who were already in 
+their address book, but they knew that it wouldn’t really 
+work.
+At that time there was a second project under way 
+at Apple: a secret effort to build a tablet computer. In 
+2005 these narratives intersected, and the ideas for the 
+tablet flowed into the planning for the phone. In other 
+words, the idea for the iPad actually came before, and 
+helped to shape, the birth of the iPhone.
+Multi-touch
+One of the engineers developing a tablet PC at 
+Microsoft was married to a friend of Laurene and Steve 
+Jobs, and for his fiftieth birthday he wanted to have a 
+dinner party that included them along with Bill and 
+Melinda Gates. Jobs went, a bit reluctantly. “Steve was 
+actually quite friendly to me at the dinner,” Gates 
+recalled, but he “wasn’t particularly friendly” to the 
+birthday guy.
+Gates was annoyed that the guy kept revealing 
+information about the tablet PC he had developed for 
+Microsoft. “He’s our employee and he’s revealing our 
+intellectual property,” Gates recounted. Jobs was also 
+annoyed, and it had just the consequence that Gates 
+feared. As Jobs recalled:
+This guy badgered me about how Microsoft was 
+going to completely change the world with this tablet 
+PC software and eliminate all notebook computers, and 
+Apple ought to license his Microsoft software. But he 
+was doing the device all wrong. It had a stylus. As soon 
+as you have a stylus, you’re dead. This dinner was like 
+the tenth time he talked to me about it, and I was so sick 
+Steve Jobs by Walter Isaacson 610
+of it that I came home and said, “Fuck this, let’s show 
+him what a tablet can really be.”
+  Jobs went into the office the next day, gathered his 
+team, and said, “I want to make a tablet, and it can’t 
+have a keyboard or a stylus.” Users would be able to 
+type by touching the screen with their fingers. That 
+meant the screen needed to have a feature that 
+became known as multi-touch, the ability to process 
+multiple inputs at the same time. “So could you guys 
+come up with a multi-touch, touch-sensitive display for 
+me?” he asked. It took them about six months, but they 
+came up with a crude but workable prototype.
+Jony Ive had a different memory of how multitouch was developed. He said his design team had 
+already been working on a multi-touch input that was 
+developed for the trackpads of Apple’s MacBook Pro, 
+and they were experimenting with ways to transfer that 
+capability to a computer screen. They used a projector 
+to show on a wall what it would look like. “This is going 
+to change everything,” Ive told his team. But he was 
+careful not to show it to Jobs right away, especially 
+since his people were working on it in their spare time 
+and he didn’t want to quash their enthusiasm. “Because 
+Steve is so quick to give an opinion, I don’t show him 
+stuff in front of other people,” Ive recalled. “He might 
+say, ‘This is shit,’ and snuff the idea. I feel that ideas are 
+very fragile, so you have to be tender when they are in 
+development. I realized that if he pissed on this, it would 
+be so sad, because I knew it was so important.”
+Ive set up the demonstration in his conference 
+room and showed it to Jobs privately, knowing that he 
+was less likely to make a snap judgment if there was no 
+audience. Fortunately he loved it. “This is the future,” he 
+exulted.
+It was in fact such a good idea that Jobs realized 
+that it could solve the problem they were having 
+Steve Jobs by Walter Isaacson 611
+creating an interface for the proposed cell phone. That 
+project was far more important, so he put the tablet 
+development on hold while the multi-touch interface 
+was adopted for a phone-size screen. “If it worked on a 
+phone,” he recalled, “I knew we could go back and use 
+it on a tablet.”
+Jobs called Fadell, Rubinstein, and Schiller to a 
+secret meeting in the design studio conference room, 
+where Ive gave a demonstration of multi-touch. “Wow!” 
+said Fadell. Everyone liked it, but they were not sure 
+that they would be able to make it work on a mobile 
+phone. They decided to proceed on two paths: P1 was 
+the code name for the phone being developed using an 
+iPod trackwheel, and P2 was the new alternative using 
+a multi-touch screen.
+A small company in Delaware called FingerWorks 
+was already making a line of multi-touch trackpads. 
+Founded by two academics at the University of 
+Delaware, John Elias and Wayne Westerman, 
+FingerWorks had developed some tablets with multitouch sensing capabilities and taken out patents on 
+ways to translate various finger gestures, such as 
+pinches and swipes, into useful functions. In early 2005 
+Apple quietly acquired the company, all of its patents, 
+and the services of its two founders. FingerWorks quit 
+selling its products to others, and it began filing its new 
+patents in Apple’s name.
+After six months of work on the trackwheel P1 and 
+the multi-touch P2 phone options, Jobs called his inner 
+circle into his conference room to make a decision. 
+Fadell had been trying hard to develop the trackwheel 
+model, but he admitted they had not cracked the 
+problem of figuring out a simple way to dial calls. The 
+multi-touch approach was riskier, because they were 
+unsure whether they could execute the engineering, but 
+it was also more exciting and promising. “We all know 
+Steve Jobs by Walter Isaacson 612
+this is the one we want to do,” said Jobs, pointing to the 
+touchscreen. “So let’s make it work.” It was what he 
+liked to call a bet-the-company moment, high risk and 
+high reward if it succeeded.
+A couple of members of the team argued for 
+having a keyboard as well, given the popularity of the 
+BlackBerry, but Jobs vetoed the idea. A physical 
+keyboard would take away space from the screen, and 
+it would not be as flexible and adaptable as a 
+touchscreen keyboard. “A hardware keyboard seems 
+like an easy solution, but it’s constraining,” he said. 
+“Think of all the innovations we’d be able to adapt if we 
+did the keyboard onscreen with software. Let’s bet on it, 
+and then we’ll find a way to make it work.” The result 
+was a device that displays a numerical pad when you 
+want to dial a phone number, a typewriter keyboard 
+when you want to write, and whatever buttons you 
+might need for each particular activity. And then they all 
+disappear when you’re watching a video. By having 
+software replace hardware, the interface became fluid 
+and flexible.
+Jobs spent part of every day for six months helping 
+to refine the display. “It was the most complex fun I’ve 
+ever had,” he recalled. “It was like being the one 
+evolving the variations on ‘Sgt. Pepper.’” A lot of 
+features that seem simple now were the result of 
+creative brainstorms. For example, the team worried 
+about how to prevent the device from playing music or 
+making a call accidentally when it was jangling in your 
+pocket. Jobs was congenitally averse to having on-off 
+switches, which he deemed “inelegant.” The solution 
+was “Swipe to Open,” the simple and fun on-screen 
+slider that activated the device when it had gone 
+dormant. Another breakthrough was the sensor that 
+figured out when you put the phone to your ear, so that 
+your lobes didn’t accidentally activate some function. 
+Steve Jobs by Walter Isaacson 613
+And of course the icons came in his favorite shape, the 
+primitive he made Bill Atkinson design into the software 
+of the first Macintosh: rounded rectangles. In session 
+after session, with Jobs immersed in every detail, the 
+team members figured out ways to simplify what other 
+phones made complicated. They added a big bar to 
+guide you in putting calls on hold or making conference 
+calls, found easy ways to navigate through email, and 
+created icons you could scroll through horizontally to 
+get to different apps—all of which were easier because 
+they could be used visually on the screen rather than by 
+using a keyboard built into the hardware.
+Gorilla Glass
+Jobs became infatuated with different materials 
+the way he did with certain foods. When he went back 
+to Apple in 1997 and started work on the iMac, he had 
+embraced what could be done with translucent and 
+colored plastic. The next phase was metal. He and Ive 
+replaced the curvy plastic PowerBook G3 with the sleek 
+titanium PowerBook G4, which they redesigned two 
+years later in aluminum, as if just to demonstrate how 
+much they liked different metals. Then they did an iMac 
+and an iPod Nano in anodized aluminum, which meant 
+that the metal had been put in an acid bath and 
+electrified so that its surface oxidized. Jobs was told it 
+could not be done in the quantities they needed, so he 
+had a factory built in China to handle it. Ive went there, 
+during the SARS epidemic, to oversee the process. “I 
+stayed for three months in a dormitory to work on the 
+process,” he recalled. “Ruby and others said it would be 
+impossible, but I wanted to do it because Steve and I 
+felt that the anodized aluminum had a real integrity to 
+it.”
+Next was glass. “After we did metal, I looked at 
+Jony and said that we had to master glass,” said Jobs. 
+For the Apple stores, they had created huge 
+Steve Jobs by Walter Isaacson 614
+windowpanes and glass stairs. For the iPhone, the 
+original plan was for it to have a plastic screen, like the 
+iPod. But Jobs decided it would feel much more elegant 
+and substantive if the screens were glass. So he set 
+about finding a glass that would be strong and resistant 
+to scratches.
+The natural place to look was Asia, where the 
+glass for the stores was being made. But Jobs’s friend 
+John Seeley Brown, who was on the board of Corning 
+Glass in Upstate New York, told him that he should talk 
+to that company’s young and dynamic CEO, Wendell 
+Weeks. So he dialed the main Corning switchboard 
+number and asked to be put through to Weeks. He got 
+an assistant, who offered to pass along the message. 
+“No, I’m Steve Jobs,” he replied. “Put me through.” The 
+assistant refused. Jobs called Brown and complained 
+that he had been subjected to “typical East Coast 
+bullshit.” When Weeks heard that, he called the main 
+Apple switchboard and asked to speak to Jobs. He was 
+told to put his request in writing and send it in by fax. 
+When Jobs was told what happened, he took a liking to 
+Weeks and invited him to Cupertino.
+Jobs described the type of glass Apple wanted for 
+the iPhone, and Weeks told him that Corning had 
+developed a chemical exchange process in the 1960s 
+that led to what they dubbed “gorilla glass.” It was 
+incredibly strong, but it had never found a market, so 
+Corning quit making it. Jobs said he doubted it was 
+good enough, and he started explaining to Weeks how 
+glass was made. This amused Weeks, who of course 
+knew more than Jobs about that topic. “Can you shut 
+up,” Weeks interjected, “and let me teach you some 
+science?” Jobs was taken aback and fell silent. Weeks 
+went to the whiteboard and gave a tutorial on the 
+chemistry, which involved an ion-exchange process 
+that produced a compression layer on the surface of the 
+Steve Jobs by Walter Isaacson 615
+glass. This turned Jobs around, and he said he wanted 
+as much gorilla glass as Corning could make within six 
+months. “We don’t have the capacity,” Weeks replied. 
+“None of our plants make the glass now.”
+“Don’t be afraid,” Jobs replied. This stunned 
+Weeks, who was good-humored and confident but not 
+used to Jobs’s reality distortion field. He tried to explain 
+that a false sense of confidence would not overcome 
+engineering challenges, but that was a premise that 
+Jobs had repeatedly shown he didn’t accept. He stared 
+at Weeks unblinking. “Yes, you can do it,” he said. “Get 
+your mind around it. You can do it.”
+As Weeks retold this story, he shook his head in 
+astonishment. “We did it in under six months,” he said. 
+“We produced a glass that had never been made.” 
+Corning’s facility in Harrisburg, Kentucky, which had 
+been making LCD displays, was converted almost 
+overnight to make gorilla glass full-time. “We put our 
+best scientists and engineers on it, and we just made it 
+work.” In his airy office, Weeks has just one framed 
+memento on display. It’s a message Jobs sent the day 
+the iPhone came out: “We couldn’t have done it without 
+you.”
+The Design
+On many of his major projects, such as the first Toy 
+Storyand the Apple store, Jobs pressed “pause” as 
+they neared completion and decided to make major 
+revisions. That happened with the design of the iPhone 
+as well. The initial design had the glass screen set into 
+an aluminum case. One Monday morning Jobs went 
+over to see Ive. “I didn’t sleep last night,” he said, 
+“because I realized that I just don’t love it.” It was the 
+most important product he had made since the first 
+Macintosh, and it just didn’t look right to him. Ive, to his 
+dismay, instantly realized that Jobs was right. “I 
+remember feeling absolutely embarrassed that he had 
+Steve Jobs by Walter Isaacson 616
+to make the observation.”
+The problem was that the iPhone should have 
+been all about the display, but in their current design 
+the case competed with the display instead of getting 
+out of the way. The whole device felt too masculine, 
+task-driven, efficient. “Guys, you’ve killed yourselves 
+over this design for the last nine months, but we’re 
+going to change it,” Jobs told Ive’s team. “We’re all 
+going to have to work nights and weekends, and if you 
+want we can hand out some guns so you can kill us 
+now.” Instead of balking, the team agreed. “It was one of 
+my proudest moments at Apple,” Jobs recalled.
+The new design ended up with just a thin stainless 
+steel bezel that allowed the gorilla glass display to go 
+right to the edge. Every part of the device seemed to 
+defer to the screen. The new look was austere, yet also 
+friendly. You could fondle it. It meant they had to redo 
+the circuit boards, antenna, and processor placement 
+inside, but Jobs ordered the change. “Other companies 
+may have shipped,” said Fadell, “but we pressed the 
+reset button and started over.”
+One aspect of the design, which reflected not only 
+Jobs’s perfectionism but also his desire to control, was 
+that the device was tightly sealed. The case could not 
+be opened, even to change the battery. As with the 
+original Macintosh in 1984, Jobs did not want people 
+fiddling inside. In fact when Apple discovered in 2011 
+that third-party repair shops were opening up the 
+iPhone 4, it replaced the tiny screws with a tamperresistant Pentalobe screw that was impossible to open 
+with a commercially available screwdriver. By not 
+having a replaceable battery, it was possible to make 
+the iPhone much thinner. For Jobs, thinner was always 
+better. “He’s always believed that thin is beautiful,” said 
+Tim Cook. “You can see that in all of the work. We have 
+the thinnest notebook, the thinnest smartphone, and we 
+Steve Jobs by Walter Isaacson 617
+made the iPad thin and then even thinner.”
+The Launch
+When it came time to launch the iPhone, Jobs 
+decided, as usual, to grant a magazine a special sneak 
+preview. He called John Huey, the editor in chief of 
+Time Inc., and began with his typical superlative: “This 
+is the best thing we’ve ever done.” He wanted to give 
+Timethe exclusive, “but there’s nobody smart enough 
+at Timeto write it, so I’m going to give it to someone 
+else.” Huey introduced him to Lev Grossman, a savvy 
+technology writer (and novelist) at Time. In his piece 
+Grossman correctly noted that the iPhone did not really 
+invent many new features, it just made these features a 
+lot more usable. “But that’s important. When our tools 
+don’t work, we tend to blame ourselves, for being too 
+stupid or not reading the manual or having too-fat 
+fingers. . . . When our tools are broken, we feel broken. 
+And when somebody fixes one, we feel a tiny bit more 
+whole.”
+For the unveiling at the January 2007 Macworld in 
+San Francisco, Jobs invited back Andy Hertzfeld, Bill 
+Atkinson, Steve Wozniak, and the 1984 Macintosh 
+team, as he had done when he launched the iMac. In a 
+career of dazzling product presentations, this may have 
+been his best. “Every once in a while a revolutionary 
+product comes along that changes everything,” he 
+began. He referred to two earlier examples: the original 
+Macintosh, which “changed the whole computer 
+industry,” and the first iPod, which “changed the entire 
+music industry.” Then he carefully built up to the product 
+he was about to launch: “Today, we’re introducing three 
+revolutionary products of this class. The first one is a 
+widescreen iPod with touch controls. The second is a 
+revolutionary mobile phone. And the third is a 
+breakthrough Internet communications device.” He 
+repeated the list for emphasis, then asked, “Are you 
+Steve Jobs by Walter Isaacson 618
+getting it? These are not three separate devices, this is 
+one device, and we are calling it iPhone.”
+ When the iPhone went on sale five months later, at 
+the end of June 2007, Jobs and his wife walked to the 
+Apple store in Palo Alto to take in the excitement. Since 
+he often did that on the day new products went on sale, 
+there were some fans hanging out in anticipation, and 
+they greeted him as they would have Moses if he had 
+walked in to buy the Bible. Among the faithful were 
+Hertzfeld and Atkinson. “Bill stayed in line all night,” 
+Hertzfeld said. Jobs waved his arms and started 
+laughing. “I sent him one,” he said. Hertzfeld replied, 
+“He needs six.”
+The iPhone was immediately dubbed “the Jesus 
+Phone” by bloggers. But Apple’s competitors 
+emphasized that, at $500, it cost too much to be 
+successful. “It’s the most expensive phone in the world,” 
+Microsoft’s Steve Ballmer said in a CNBC interview. 
+“And it doesn’t appeal to business customers because it 
+doesn’t have a keyboard.” Once again Microsoft had 
+underestimated Jobs’s product. By the end of 2010, 
+Apple had sold ninety million iPhones, and it reaped 
+more than half of the total profits generated in the global 
+cell phone market.
+“Steve understands desire,” said Alan Kay, the 
+Xerox PARC pioneer who had envisioned a 
+“Dynabook” tablet computer forty years earlier. Kay was 
+good at making prophetic assessments, so Jobs asked 
+him what he thought of the iPhone. “Make the screen 
+five inches by eight inches, and you’ll rule the world,” 
+Kay said. He did not know that the design of the iPhone 
+had started with, and would someday lead to, ideas for 
+a tablet computer that would fulfill—indeed exceed—his 
+vision for the Dynabook
+
+The Stanford Commencement
+Jobs kept his continuing battle with the cancer 
+secret—he told everyone that he had been “cured”—
+just as he had kept quiet about his diagnosis in October 
+2003. Such secrecy was not surprising; it was part of his 
+nature. What was more surprising was his decision to 
+speak very personally and publicly about his cancer 
+diagnosis. Although he rarely gave speeches other 
+than his staged product demonstrations, he accepted 
+Stanford’s invitation to give its June 2005 
+commencement address. He was in a reflective mood 
+after his health scare and turning fifty.
+Steve Jobs by Walter Isaacson 595
+For help with the speech, he called the brilliant 
+scriptwriter Aaron Sorkin (A Few Good Men, The West 
+Wing). Jobs sent him some thoughts. “That was in 
+February, and I heard nothing, so I ping him again in 
+April, and he says, ‘Oh, yeah,’ and I send him a few 
+more thoughts,” Jobs recounted. “I finally get him on the 
+phone, and he keeps saying ‘Yeah,’ but finally it’s the 
+beginning of June, and he never sent me anything.”
+Jobs got panicky. He had always written his own 
+presentations, but he had never done a 
+commencement address. One night he sat down and 
+wrote the speech himself, with no help other than 
+bouncing ideas off his wife. As a result, it turned out to 
+be a very intimate and simple talk, with the unadorned 
+and personal feel of a perfect Steve Jobs product.
+Alex Haley once said that the best way to begin a 
+speech is “Let me tell you a story.” Nobody is eager for 
+a lecture, but everybody loves a story. And that was the 
+approach Jobs chose. “Today, I want to tell you three 
+stories from my life,” he began. “That’s it. No big deal. 
+Just three stories.”
+ The first was about dropping out of Reed College. 
+“I could stop taking the required classes that didn’t 
+interest me, and begin dropping in on the ones that 
+looked far more interesting.” The second was about 
+how getting fired from Apple turned out to be good for 
+him. “The heaviness of being successful was replaced 
+by the lightness of being a beginner again, less sure 
+about everything.” The students were unusually 
+attentive, despite a plane circling overhead with a 
+banner that exhorted “recycle all e-waste,” and it was 
+his third tale that enthralled them. It was about being 
+diagnosed with cancer and the awareness it brought:
+Remembering that I’ll be dead soon is the most 
+important tool I’ve ever encountered to help me make 
+the big choices in life. Because almost everything—all 
+Steve Jobs by Walter Isaacson 596
+external expectations, all pride, all fear of 
+embarrassment or failure—these things just fall away in 
+the face of death, leaving only what is truly important. 
+Remembering that you are going to die is the best way I 
+know to avoid the trap of thinking you have something 
+to lose. You are already naked. There is no reason not 
+to follow your heart.
+  The artful minimalism of the speech gave it 
+simplicity, purity, and charm. Search where you will, 
+from anthologies to YouTube, and you won’t find a 
+better commencement address. Others may have been 
+more important, such as George Marshall’s at Harvard 
+in 1947 announcing a plan to rebuild Europe, but none 
+has had more grace.
+
+A Lion at Fifty
+For his thirtieth and fortieth birthdays, Jobs had 
+celebrated with the stars of Silicon Valley and other 
+assorted celebrities. But when he turned fifty in 2005, 
+after coming back from his cancer surgery, the surprise 
+party that his wife arranged featured mainly his closest 
+friends and professional colleagues. It was at the 
+comfortable San Francisco home of some friends, and 
+the great chef Alice Waters prepared salmon from 
+Scotland along with couscous and a variety of gardenraised vegetables. “It was beautifully warm and 
+intimate, with everyone and the kids all able to sit in one 
+room,” Waters recalled. The entertainment was comedy 
+improvisation done by the cast of Whose Line Is It 
+Anyway?Jobs’s close friend Mike Slade was there, 
+along with colleagues from Apple and Pixar, including 
+Lasseter, Cook, Schiller, Clow, Rubinstein, and 
+Tevanian.
+Cook had done a good job running the company 
+during Jobs’s absence. He kept Apple’s temperamental 
+actors performing well, and he avoided stepping into 
+the limelight. Jobs liked strong personalities, up to a 
+Steve Jobs by Walter Isaacson 597
+point, but he had never truly empowered a deputy or 
+shared the stage. It was hard to be his understudy. You 
+were damned if you shone, and damned if you didn’t. 
+Cook had managed to navigate those shoals. He was 
+calm and decisive when in command, but he didn’t 
+seek any notice or acclaim for himself. “Some people 
+resent the fact that Steve gets credit for everything, but 
+I’ve never given a rat’s ass about that,” said Cook. 
+“Frankly speaking, I’d prefer my name never be in the 
+paper.”
+When Jobs returned from his medical leave, Cook 
+resumed his role as the person who kept the moving 
+parts at Apple tightly meshed and remained unfazed by 
+Jobs’s tantrums. “What I learned about Steve was that 
+people mistook some of his comments as ranting or 
+negativism, but it was really just the way he showed 
+passion. So that’s how I processed it, and I never took 
+issues personally.” In many ways he was Jobs’s mirror 
+image: unflappable, steady in his moods, and (as the 
+thesaurus in the NeXT would have noted) saturnine 
+rather than mercurial. “I’m a good negotiator, but he’s 
+probably better than me because he’s a cool customer,” 
+Jobs later said. After adding a bit more praise, he 
+quietly added a reservation, one that was serious but 
+rarely spoken: “But Tim’s not a product person, per se.”
+In the fall of 2005, after returning from his medical 
+leave, Jobs tapped Cook to become Apple’s chief 
+operating officer. They were flying together to Japan. 
+Jobs didn’t really askCook; he simply turned to him and 
+said, “I’ve decided to make you COO.”
+Around that time, Jobs’s old friends Jon 
+Rubinstein and Avie Tevanian, the hardware and 
+software lieutenants who had been recruited during the 
+1997 restoration, decided to leave. In Tevanian’s case, 
+he had made a lot of money and was ready to quit 
+working. “Avie is a brilliant guy and a nice guy, much 
+Steve Jobs by Walter Isaacson 598
+more grounded than Ruby and doesn’t carry the big 
+ego,” said Jobs. “It was a huge loss for us when Avie 
+left. He’s a one-of-a-kind person—a genius.”
+Rubinstein’s case was a little more contentious. 
+He was upset by Cook’s ascendency and frazzled after 
+working for nine years under Jobs. Their shouting 
+matches became more frequent. There was also a 
+substantive issue: Rubinstein was repeatedly clashing 
+with Jony Ive, who used to work for him and now 
+reported directly to Jobs. Ive was always pushing the 
+envelope with designs that dazzled but were difficult to 
+engineer. It was Rubinstein’s job to get the hardware 
+built in a practical way, so he often balked. He was by 
+nature cautious. “In the end, Ruby’s from HP,” said 
+Jobs. “And he never delved deep, he wasn’t 
+aggressive.”
